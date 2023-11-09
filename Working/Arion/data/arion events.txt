@@ -1,0 +1,123 @@
+event "Luna FOB access"
+		planet Luna
+			shipyard "Arion Ships"
+			shipyard "NCD Ships"
+			outfitter "Arion Basic Outfits"
+			outfitter "Arion Hand to hand Outfits"
+			outfitter "Surplus Guns"
+			outfitter "NCD Outfits"
+
+event "Arion leaves"
+		planet Luna
+			remove shipyard "Arion Ships"
+			remove shipyard "NCD Ships"
+			remove outfitter "Arion Basic Outfits"
+			remove outfitter "Arion Hand to hand Outfits"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet FOB-Bravo
+			remove shipyard "Arion Ships"
+			remove shipyard "Arion Heavy Ships"
+			remove shipyard "Arion SFF Ships"
+			remove shipyard "NCD Ships"
+			remove outfitter "Arion Basic Outfits"
+			remove outfitter "Arion Advanced Outfits"
+			remove outfitter "Arion Hand to hand Outfits"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet Earth
+			remove shipyard "NCD Ships"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet Bourne
+			remove shipyard "NCD Ships"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet Valhalla
+			remove shipyard "NCD Ships"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet Hephaestus
+			remove shipyard "NCD Ships"
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Outfits"
+		planet Zug
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Basic"
+		planet Wayfarer
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Basic"
+		planet Geminus
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Basic"
+		planet Sunracer
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Basic"
+		planet Farpoint
+			remove outfitter "Surplus Guns"
+			remove outfitter "NCD Basic"
+
+event "reveal FOB Bravo"
+	system "FOB Bravo"
+		remove hidden
+
+event "NCD stores access"
+		planet Earth
+			shipyard "NCD Ships"
+			outfitter "Surplus Guns"
+			outfitter "NCD Outfits"
+		planet Bourne
+			shipyard "NCD Ships"
+			outfitter "Surplus Guns"
+			outfitter "NCD Outfits"
+		planet Valhalla
+			shipyard "NCD Ships"
+			outfitter "Surplus Guns"
+			outfitter "NCD Outfits"
+		planet Hephaestus
+			shipyard "NCD Ships"
+			outfitter "Surplus Guns"
+			outfitter "NCD Outfits"
+
+event "NCD outpost access"
+		planet Zug
+			outfitter "Surplus Guns"
+			outfitter "NCD Basic"
+		planet Wayfarer
+			outfitter "Surplus Guns"
+			outfitter "NCD Basic"
+		planet Geminus
+			outfitter "Surplus Guns"
+			outfitter "NCD Basic"
+		planet Sunracer
+			outfitter "Surplus Guns"
+			outfitter "NCD Basic"
+		planet Farpoint
+			outfitter "Surplus Guns"
+			outfitter "NCD Basic"
+
+event "NCD stolen access"
+		planet Trinket
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Greenrock
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet "New Tortuga"
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Freedom
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Haven
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Zenith
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Bloodsea
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"
+		planet Thule
+			shipyard "NCD Stolen Ships"
+			outfitter "NCD Stolen Outfits"

@@ -1,0 +1,83 @@
+system "FOB Bravo"
+	attributes arion
+	hidden
+	pos -390 90
+	government "Arion (SFF)"
+	arrival 100
+	habitable 100
+	haze _menu/haze-67
+	object FOB-Bravo
+		sprite planet/station5c
+		distance 100
+		period 365.250
+
+planet "FOB-Bravo"
+	attributes "station" "arion base"
+	landscape land/station9
+	description `	The base is quite large with plenty of facilities. The shipyard supplies advanced technologies and warships. There is a shooting range for personnel to hone in their shooting skills. The living quarters area has an artificial garden with real trees and flowers for personnel to enjoy nature.`
+	spaceport `	The spaceport is less of a spaceport and more of an entertainment center. There is a bar and restaurant to get food and drinks. There is also a gym and other training devices like an obstacle course and multiple simulators.`
+	shipyard "NCD Ships"
+	shipyard "Arion Ships"
+	shipyard "Arion Heavy Ships"
+	shipyard "Arion SFF Ships"
+	outfitter "Surplus Guns"
+	outfitter "Arion Hand to hand Outfits"
+	outfitter "Arion Basic Outfits"
+	outfitter "Arion Advanced Outfits"
+	outfitter "NCD Outfits"
+	government "Arion (SFF)"
+	security 1.0
+
+planet "Luna"
+	add attributes "arion base"
+
+planet "Earth" 
+	add attributes "ncd base"
+
+planet "Bourne" 
+	add attributes "ncd base"
+
+planet "Valhalla" 
+	add attributes "ncd base"
+
+planet "Hephaestus"
+	add attributes "ncd base"
+
+planet "Zug"
+	add attributes "ncd outpost"
+
+planet "Wayfarer"
+	add attributes "ncd outpost"
+
+planet "Geminus"
+	add attributes "ncd outpost"
+
+planet "Sunracer"
+	add attributes "ncd outpost"
+
+planet "Farpoint"
+	add attributes "ncd outpost"
+
+planet "Trinket"
+	add attributes "ncd stolen"
+
+planet "Greenrock"
+	add attributes "ncd stolen"
+
+planet "New Tortuga"
+	add attributes "ncd stolen"
+
+planet "Freedom"
+	add attributes "ncd stolen"
+
+planet "Haven"
+	add attributes "ncd stolen"
+
+planet "Zenith"
+	add attributes "ncd stolen"
+
+planet "Bloodsea"
+	add attributes "ncd stolen"
+
+planet "Thule"
+	add attributes "ncd stolen"

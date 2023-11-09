@@ -1,0 +1,497 @@
+outfit "NCD Platinum License"
+	category "Licenses"
+	cost 5000000
+	thumbnail "outfit/license"
+	description "A special license to purchase some of NCD co's more advanced weapons."
+
+outfit "NCD Contractor License"
+	category "Licenses"
+	thumbnail "outfit/navy license"
+	description "A special license for people affiliated with NCD co."
+
+outfit "Thrust Vectoring Engine-20w"
+	category "Engines"
+	cost 100000
+	series "Engines: NCD"
+	index 100
+	thumbnail "outfit/fissiondrive"
+	"mass" 20
+	"outfit space" -20
+	"engine capacity" -20
+	"thrust" 8
+	"thrusting energy" 0.6
+	"thrusting heat" 0.9
+	"turn" 200
+	"turning energy" 0.3
+	"turning heat" 0.45
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and thrust."
+
+outfit "Thrust Vectoring Engine-25w"
+	category "Engines"
+	cost 125000
+	series "Engines: NCD"
+	index 200
+	thumbnail "outfit/fissiondrive"
+	"mass" 25
+	"outfit space" -25
+	"engine capacity" -25
+	"thrust" 10
+	"thrusting energy" 0.75
+	"thrusting heat" 1.12
+	"turn" 250
+	"turning energy" 0.37
+	"turning heat" 0.56
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and thrust."
+
+outfit "Thrust Vectoring Engine-30w"
+	category "Engines"
+	cost 150000
+	series "Engines: NCD"
+	index 300
+	thumbnail "outfit/fissiondrive"
+	"mass" 30
+	"outfit space" -30
+	"engine capacity" -30
+	"thrust" 12
+	"thrusting energy" 0.9
+	"thrusting heat" 1.35
+	"turn" 300
+	"turning energy" 0.45
+	"turning heat" 0.67
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and thrust."
+
+outfit "Thrust Vectoring Engine-80w"
+	category "Engines"
+	cost 400000
+	series "Engines: NCD"
+	index 400
+	thumbnail "outfit/fusiondrive"
+	"mass" 80
+	"outfit space" -80
+	"engine capacity" -80
+	"thrust" 32
+	"thrusting energy" 2.4
+	"thrusting heat" 3.6
+	"turn" 800
+	"turning energy" 1.2
+	"turning heat" 1.78
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and thrust."
+
+outfit "Thrust Vectoring Engine-100w"
+	category "Engines"
+	cost 500000
+	series "Engines: NCD"
+	index 500
+	thumbnail "outfit/fusiondrive"
+	"mass" 100
+	"outfit space" -100
+	"engine capacity" -100
+	"thrust" 40
+	"thrusting energy" 3
+	"thrusting heat" 4.5
+	"turn" 1000
+	"turning energy" 1.5
+	"turning heat" 2.22
+	"flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic huge"
+	"steering flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic medium"
+	"reverse flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"reverse flare sound" "atomic large"
+	description "An advanced compact engine that can be used as steering and thrust."
+
+outfit "Omni Directional Engine-20w"
+	category "Engines"
+	cost 270000
+	series "Engines: NCD"
+	index 600
+	thumbnail "outfit/fissiondrive"
+	"mass" 20
+	"outfit space" -20
+	"engine capacity" -20
+	"thrust" 11.7
+	"thrusting energy" 0.888
+	"thrusting heat" 1.332
+	"turn" 297
+	"turning energy" 0.44
+	"turning heat" 0.66
+	"reverse thrust" 5.85
+	"reverse thrusting energy" 0.888
+	"reverse thrusting heat" 1.332
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-25w"
+	category "Engines"
+	cost 330000
+	series "Engines: NCD"
+	index 700
+	thumbnail "outfit/fissiondrive"
+	"mass" 25
+	"outfit space" -25
+	"engine capacity" -25
+	"thrust" 14.625
+	"thrusting energy" 1.11
+	"thrusting heat" 1.665
+	"turn" 371.25
+	"turning energy" 0.61875
+	"turning heat" 0.928125
+	"reverse thrust" 7.3125
+	"reverse thrusting energy" 1.11
+	"reverse thrusting heat" 1.665
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-30w"
+	category "Engines"
+	cost 400000
+	series "Engines: NCD"
+	index 800
+	thumbnail "outfit/fissiondrive"
+	"mass" 30
+	"outfit space" -30
+	"engine capacity" -30
+	"thrust" 17.55
+	"thrusting energy" 1.332
+	"thrusting heat" 1.998
+	"turn" 445.5
+	"turning energy" 0.66
+	"turning heat" 0.99
+	"reverse thrust" 8.775
+	"reverse thrusting energy" 1.332
+	"reverse thrusting heat" 1.998
+	"flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic small"
+	"steering flare sprite" "effect/fissionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic tiny"
+	description "An advanced compact engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-80w"
+	category "Engines"
+	cost 1440000
+	series "Engines: NCD"
+	index 900
+	thumbnail "outfit/fusiondrive"
+	"mass" 80
+	"outfit space" -80
+	"engine capacity" -80
+	"thrust" 48
+	"thrusting energy" 4
+	"thrusting heat" 6
+	"turn" 1200
+	"turning energy" 2
+	"turning heat" 3
+	"reverse thrust" 24
+	"reverse thrusting energy" 4
+	"reverse thrusting heat" 6
+	"flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic huge"
+	"steering flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic medium"
+	"reverse flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"reverse flare sound" "atomic large"
+	description "An advanced engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-100w"
+	category "Engines"
+	cost 1800000
+	series "Engines: NCD"
+	index 1000
+	thumbnail "outfit/fusiondrive"
+	"mass" 100
+	"outfit space" -100
+	"engine capacity" -100
+	"thrust" 60
+	"thrusting energy" 5
+	"thrusting heat" 7.5
+	"turn" 1500
+	"turning energy" 2.5
+	"turning heat" 3.75
+	"reverse thrust" 30
+	"reverse thrusting energy" 5
+	"reverse thrusting heat" 7.5
+	"flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic huge"
+	"steering flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic medium"
+	"reverse flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"reverse flare sound" "atomic large"
+	description "An advanced engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-150w"
+	category "Engines"
+	cost 2700000
+	series "Engines: NCD"
+	index 1100
+	thumbnail "outfit/fusiondrive"
+	"mass" 150
+	"outfit space" -150
+	"engine capacity" -150
+	"thrust" 90
+	"thrusting energy" 7.5
+	"thrusting heat" 11.25
+	"turn" 2250
+	"turning energy" 3.75
+	"turning heat" 5.625
+	"reverse thrust" 45
+	"reverse thrusting energy" 7.5
+	"reverse thrusting heat" 11.25
+	"flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic huge"
+	"steering flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic medium"
+	"reverse flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"reverse flare sound" "atomic large"
+	description "An advanced engine that can be used as steering and reverse thrusting."
+
+outfit "Omni Directional Engine-180w"
+	category "Engines"
+	cost 3240000
+	series "Engines: NCD"
+	index 1200
+	thumbnail "outfit/fusiondrive"
+	"mass" 180
+	"outfit space" -180
+	"engine capacity" -180
+	"thrust" 108
+	"thrusting energy" 9
+	"thrusting heat" 13.5
+	"turn" 2700
+	"turning energy" 4.5
+	"turning heat" 6.75
+	"reverse thrust" 54
+	"reverse thrusting energy" 9
+	"reverse thrusting heat" 13.5
+	"flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"flare sound" "atomic huge"
+	"steering flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"steering flare sound" "atomic medium"
+	"reverse flare sprite" "effect/fusionflare"
+		"frame rate" 30
+		"rewind"
+	"reverse flare sound" "atomic large"
+	description "An advanced engine that can be used as steering and reverse thrusting."
+
+outfit "Emergency Repair System-5w"
+	category "Systems"
+	cost 50000
+	thumbnail "outfit/small repair module"
+	"mass" 5
+	"outfit space" -5
+	"hull repair rate" 0.12
+	"hull energy" 0.12
+	"hull heat" 0.24
+	description "An emergency repair system."
+
+outfit "Large Repair System-20w"
+	category "Systems"
+	cost 200000
+	thumbnail "outfit/small repair module"
+	"mass" 20
+	"outfit space" -20
+	"hull repair rate" 0.6
+	"hull energy" 0.6
+	"hull heat" 1.2
+	description "A large hull repair system."
+
+outfit "Emergency Cooling Device-4w"
+	category "Systems"
+	cost 125000
+	thumbnail "outfit/cooling module"
+	"mass" 4
+	"outfit space" -4
+	"active cooling" 18
+	"cooling energy" 1.4
+	description "The Emergency Cooling Device is used to prevent ships from overheating quickly. Due to its emergency nature however, it will only be triggered on the most desperate moments."
+
+outfit "Advanced Cooling Device-20w"
+	category "Systems"
+	cost 750000
+	thumbnail "outfit/liquid nitrogen"
+	"mass" 20
+	"outfit space" -20
+	"cooling" 48
+	description "An advanced cooling device that is used for larger ships that run hot."
+
+outfit "Fuel Cell-20w"
+	category "Power"
+	cost 60000
+	series "Power: NCD"
+	index 100
+	thumbnail "outfit/tiny fuel cell"
+	"mass" 20
+	"outfit space" -20
+	"energy generation" 1.25
+	"heat generation" 2.0
+	"energy capacity" 250
+	description "A generator made for fighter craft."
+
+outfit "Fuel Cell-25w"
+	category "Power"
+	cost 75000
+	series "Power: NCD"
+	index 200
+	thumbnail "outfit/small fuel cell"
+	"mass" 25
+	"outfit space" -25
+	"energy generation" 1.6
+	"heat generation" 2.5
+	"energy capacity" 315
+	description "A generator made for fighter craft."
+
+outfit "Fuel Cell-30w"
+	category "Power"
+	cost 90000
+	series "Power: NCD"
+	index 300
+	thumbnail "outfit/medium fuel cell"
+	"mass" 30
+	"outfit space" -30
+	"energy generation" 1.95
+	"heat generation" 3
+	"energy capacity" 380
+	description "A generator made for fighter craft."
+
+outfit "Charge Generator-20w"
+	category "Power"
+	cost 250000
+	series "Power: NCD"
+	index 400
+	thumbnail "outfit/hai pebble core"
+	"mass" 20
+	"outfit space" -20
+	"energy generation" 2.5
+	"heat generation" 7.5
+	"energy capacity" 500
+	description "A generator made for fighter craft."
+
+outfit "Charge Generator-25w"
+	category "Power"
+	cost 312500
+	series "Power: NCD"
+	index 500
+	thumbnail "outfit/hai pebble core"
+	"mass" 25
+	"outfit space" -25
+	"energy generation" 3.125
+	"heat generation" 9.375
+	"energy capacity" 650
+	description "A generator made for fighter craft."
+
+outfit "Charge Generator-30w"
+	category "Power"
+	cost 375000
+	series "Power: NCD"
+	index 600
+	thumbnail "outfit/hai pebble core"
+	"mass" 30
+	"outfit space" -30
+	"energy generation" 3.75
+	"heat generation" 11.2
+	"energy capacity" 800
+	description "A generator made for fighter craft."
+
+outfit "Fusion Reactor-50w"
+	category "Power"
+	cost 3600000
+	series "Power: NCD"
+	index 700
+	thumbnail "outfit/fusion"
+	"mass" 50
+	"outfit space" -50
+	"energy generation" 12
+	"heat generation" 25
+	"energy capacity" 10000
+	"unplunderable" 1
+	description "A Fusion Reactor for larger ships."
+
+outfit "Overcharged Reactor-100w"
+	category "Power"
+	cost 9600000
+	series "Power: NCD"
+	index 800
+	thumbnail "outfit/core"
+	"mass" 100
+	"outfit space" -100
+	"energy generation" 30
+	"heat generation" 105
+	"energy capacity" 25000
+	description "An Overcharged Reactor for large and power hungry ships."

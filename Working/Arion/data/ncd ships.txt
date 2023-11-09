@@ -1,0 +1,1513 @@
+Fighters
+
+ship "A/S-4w Skyhawk"
+	sprite "ship/ariona4"
+	thumbnail "ship/ariona4"
+	attributes
+		category "Fighter"
+		"cost" 54000
+		"shields" 450
+		"hull" 450
+		"required crew" 1
+		"bunks" 1
+		"mass" 7
+		"drag" 0.85
+		"heat dissipation" 0.9
+		"fuel capacity" 70
+		"outfit space" 75
+		"weapon capacity" 15
+		"engine capacity" 20
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M39 Autocannon" 2
+		"20x102mm Ammo" 200
+		"Thrust Vectoring Engine-20w"
+		"Emergency Cooling Device-4w"
+		"Fuel Cell-20w"
+	engine 0 21 
+	gun -3.5 -5 "M39 Autocannon"
+	gun 3.5 -5 "M39 Autocannon"
+	gun -7 -2.5 
+	gun 7 -2.5 
+	gun 0 0 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "An attack aircraft of the 20th century that has been upgraded to serve once more. It is quite popular with merchants and pirates who have stolen these planes. The Republic also maintains a few of these planes for training purposes."
+
+ship "F/S-15w Eagle"
+	sprite "ship/arionf15"
+	thumbnail "ship/arionf15"
+	attributes
+		category "Fighter"
+		"cost" 144000
+		"shields" 1200
+		"hull" 600
+		"required crew" 1
+		"bunks" 1
+		"mass" 16
+		"drag" 0.8
+		"heat dissipation" 0.9
+		"fuel capacity" 150
+		"outfit space" 120
+		"weapon capacity" 30
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod"
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-25w"
+	engine -2.5 28 
+	engine 2.5 28 
+	gun 6 -2 "M61 Vulcan"
+	gun -12 3 "AIM-1w Sidewinder Pod"
+	gun 12 3 "AIM-1w Sidewinder Pod"
+	gun -11 3 
+	gun 11 3 
+	gun 0 6 "AIM-3w AMRAAM Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "One of, if not the greatest fighter jet of its generation, it's been upgraded and is back to kick some ass. The Republic has a small amount of these fighters and are rarely seen in combat."
+
+ship "FB/S-111w Aardvark"
+	sprite "ship/arionf111"
+	thumbnail "ship/arionf111"
+	attributes
+		category "Fighter"
+		"cost" 160000
+		"shields" 960
+		"hull" 480
+		"required crew" 2
+		"bunks" 2
+		"mass" 28
+		"drag" 0.7
+		"heat dissipation" 0.9
+		"fuel capacity" 160
+		"outfit space" 140
+		"weapon capacity" 35
+		"engine capacity" 30
+		"gun ports" 5
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"GBU-1w Piercer Pod" 2
+		"Omni Directional Engine-30w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-30w"
+	engine -2.5 36 
+	engine 2.5 36 
+	gun -1.5 -23 "M61 Vulcan"
+	gun 0 -4 "GBU-1w Piercer Pod"
+	gun 0 10 "GBU-1w Piercer Pod"
+	gun -4.5 7 
+	gun 4.5 7 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A fighter bomber of the Cold war, it has been upgraded and will serve once more. The Republic maintains a small amount of these for their carriers."
+
+ship "F/S-35w Lightning II"
+	sprite "ship/arionf35"
+	thumbnail "ship/arionf35"
+	attributes
+		category "Fighter"
+		licenses
+			"NCD Platinum"
+		"cost" 720000
+		"shields" 1040
+		"hull" 520
+		"required crew" 1
+		"bunks" 1
+		"mass" 18
+		"drag" 0.82
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 95
+		"weapon capacity" 18
+		"engine capacity" 25
+		"cloak" 0.008
+		"cloaking energy" 3.5
+		"cloaking heat" 5.25
+		"reverse thrust" 3.65
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod"
+		"AGM-4w LRASM Pod"
+		"Omni Directional Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Charge Generator-20w"
+	engine 0 21 
+	gun -4.5 -8.5 "M61 Vulcan"
+	gun -2 3.5 "AIM-1w Sidewinder Pod"
+	gun 2 3.5 "AGM-4w LRASM Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A multirole stealth fighter of the 21st century, it has been upgrade and will kick ass once more."
+
+ship "FB/S-117w Nighthawk"
+	sprite "ship/arionf117"
+	thumbnail "ship/arionf117"
+	attributes
+		category "Fighter"
+		"cost" 320000
+		"shields" 640
+		"hull" 320
+		"required crew" 1
+		"bunks" 1
+		"mass" 16
+		"drag" 0.85
+		"heat dissipation" 0.9
+		"fuel capacity" 60
+		"outfit space" 70
+		"weapon capacity" 10
+		"engine capacity" 20
+		"cloak" 0.006
+		"cloaking energy" 3
+		"cloaking heat" 4.5
+		"bomb bay" 1
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"GBU-1w Piercer Pod"
+		"Thrust Vectoring Engine-20w"
+		"Emergency Cooling Device-4w"
+		"Fuel Cell-20w"
+	gun 0 -4 
+	engine -5.5 15.5 
+	engine 5.5 15.5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "The first operational stealth aircraft, it was used as a stealth bomber. It has been upgraded to fly in space and serve once more."
+
+ship "F/S-14w Tomcat"
+	sprite "ship/arionf14"
+	thumbnail "ship/arionf14"
+	attributes
+		category "Fighter"
+		"cost" 160000
+		"hull" 560
+		"shields" 1120
+		"required crew" 1
+		"bunks" 1
+		"mass" 24
+		"drag" 0.65
+		"heat dissipation" 0.9
+		"fuel capacity" 140
+		"outfit space" 110
+		"weapon capacity" 25
+		"engine capacity" 25
+		"flares" 1
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod"
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-25w"
+	engine -5.5 24 
+	engine 5.5 24 
+	gun -2 -24 "M61 Vulcan"
+	gun -11.5 -1.5 "AIM-1w Sidewinder Pod"
+	gun 11.5 -1.5 "AIM-1w Sidewinder Pod"
+	gun 0 -8 "AIM-3w AMRAAM Pod"
+	gun 0 -2
+	gun 0 6
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "One of the most iconic jets of the late 20th century, it has been upgraded and is back to kick ass."
+
+ship "F/S-22w Raptor"
+	sprite "ship/arionf22"
+	thumbnail "ship/arionf22"
+	attributes
+		category "Fighter"
+		licenses
+			"NCD Platinum"
+		"cost" 1000000
+		"shields" 1200
+		"hull" 600
+		"required crew" 1
+		"bunks" 1
+		"mass" 24
+		"drag" 0.78
+		"heat dissipation" 0.9
+		"fuel capacity" 150
+		"outfit space" 110
+		"weapon capacity" 30
+		"engine capacity" 25
+		"cloak" 0.008
+		"cloaking energy" 3.5
+		"cloaking heat" 5.25
+		"turn" 150
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod" 2
+		"Omni Directional Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Charge Generator-25w"
+	engine -2.5 24.5 
+	engine 2.5 24.5 
+	gun 5.5 -3.5 "M61 Vulcan"
+	gun -5.5 5 "AIM-1w Sidewinder Pod"
+	gun 5.5 5 "AIM-1w Sidewinder Pod"
+	gun -2 5 "AIM-3w AMRAAM Pod"
+	gun 2 5 "AIM-3w AMRAAM Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "One of the best fighters of its generation, it is also a legend like the Eagle. While the Eagle is the king of 4th generation fighters, the Raptor is the king of the 5th generation."
+
+ship "F/S-16w Falcon"
+	sprite "ship/arionf16"
+	thumbnail "ship/arionf16"
+	attributes
+		category "Fighter"
+		"cost" 105000
+		"hull" 440
+		"shields" 880
+		"required crew" 1
+		"bunks" 1
+		"mass" 13
+		"drag" 0.825
+		"heat dissipation" 0.9
+		"fuel capacity" 90
+		"outfit space" 90
+		"weapon capacity" 20
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+	engine 0 26 
+	gun -2.5 -10 "M61 Vulcan"
+	gun -17 9 "AIM-1w Sidewinder Pod"
+	gun 17 9 "AIM-1w Sidewinder Pod"
+	gun 0 2.5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A great and reliable fighter of the 21st century, this jet was used by a lot of groups. It has served well once and will serve well once more."
+
+ship "F/S-18w Super Hornet"
+	sprite "ship/arionf18"
+	thumbnail "ship/arionf18"
+	attributes
+		category "Fighter"
+		"cost" 120000
+		"hull" 480
+		"shields" 960
+		"required crew" 1
+		"bunks" 1
+		"mass" 19
+		"drag" 0.85
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 100
+		"weapon capacity" 25
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-25w"
+	engine -2 28.5 
+	engine 2 28.5 
+	gun 0 -26 "M61 Vulcan"
+	gun -23.5 9.5 "AIM-1w Sidewinder Pod"
+	gun 23.5 9.5 "AIM-1w Sidewinder Pod"
+	gun -16 4.5 
+	gun 16 4.5 
+	gun 0 6 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A multirole fighter jet of the 21st century, it has been upgraded to fly in space and serve once more."
+
+ship "F/S-23w Black Widow"
+	sprite "ship/arionf23"
+	thumbnail "ship/arionf23"
+	attributes
+		category "Fighter"
+		licenses
+			"NCD Platinum"
+		"cost" 1000000
+		"shields" 1120
+		"hull" 560
+		"required crew" 1
+		"bunks" 1
+		"mass" 16
+		"drag" 0.68
+		"heat dissipation" 0.9
+		"fuel capacity" 140
+		"outfit space" 105
+		"weapon capacity" 30
+		"engine capacity" 25
+		"cloak" 0.009
+		"cloaking energy" 3
+		"cloaking heat" 4.5
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 200
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod" 2
+		"Omni Directional Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Charge Generator-25w"
+	engine -4 26 
+	engine 4 26 
+	gun 5 -9 "M61 Vulcan"
+	gun -1.5 -12 "AIM-1w Sidewinder Pod"
+	gun 1.5 -12 "AIM-1w Sidewinder Pod"
+	gun -1.5 -5 "AIM-3w AMRAAM Pod"
+	gun 1.5 -5 "AIM-3w AMRAAM Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A prototype stealth fighter that has been brought back to life to serve in space."
+
+ship "Mig/S-35w Fulcrum"
+	sprite "ship/arionmig35"
+	thumbnail "ship/arionmig35"
+	attributes
+		category "Fighter"
+		"cost" 112000
+		"hull" 460
+		"shields" 920
+		"required crew" 1
+		"bunks" 1
+		"mass" 14
+		"drag" 0.84
+		"heat dissipation" 0.9
+		"fuel capacity" 90
+		"outfit space" 95
+		"weapon capacity" 22
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+	engine -3 25 
+	engine 3 25 
+	gun -4 -8.5 "Mk44 Bushmaster II Autocannon"
+	gun -17.5 13 "AIM-1w Sidewinder Pod"
+	gun 17.5 13 "AIM-1w Sidewinder Pod"
+	gun -11.5 8.5 
+	gun 11.5 8.5 
+	gun 0 5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A fighter jet of the 21st century, it has been upgraded and modified to serve once more. Due to it being relatively easy to maintain, a lot of people, including pirates, are big fans of these jets."
+
+ship "Su/S-27w Flanker"
+	sprite "ship/arionsu27"
+	thumbnail "ship/arionsu27"
+	swizzle 0
+	attributes
+		category "Fighter"
+		"cost" 136000
+		"hull" 560
+		"shields" 1120
+		"required crew" 1
+		"bunks" 1
+		"mass" 19
+		"drag" 0.84
+		"heat dissipation" 0.9
+		"fuel capacity" 180
+		"outfit space" 115
+		"weapon capacity" 30
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod"
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-25w"
+	engine -5 31 
+	engine 5 31 
+	gun 5 -7 "Mk44 Bushmaster II Autocannon"
+	gun -25.5 18 "AIM-1w Sidewinder Pod"
+	gun 25.5 18 "AIM-1w Sidewinder Pod"
+	gun -16.5 14 
+	gun 16.5 14 
+	gun 0 10 "AIM-3w AMRAAM Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "An air superiority fighter, it is an excellent choice for anyone who needs a larger fighter that is relatively easier to maintain. Due to this ease of maintenance it is favored by a lot of people, including pirates."
+
+ship "Su/S-34w Fullback"
+	sprite "ship/arionsu34"
+	thumbnail "ship/arionsu34"
+	attributes
+		category "Fighter"
+		"cost" 180000
+		"hull" 600
+		"shields" 1200
+		"required crew" 2
+		"bunks" 2
+		"mass" 26
+		"drag" 0.87
+		"heat dissipation" 0.9
+		"fuel capacity" 250
+		"outfit space" 150
+		"weapon capacity" 40
+		"engine capacity" 30
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"GBU-1w Piercer Pod"
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-25w"
+	engine -4.5 29 
+	engine 4.5 29 
+	gun 4.5 -11.5 "Mk44 Bushmaster II Autocannon"
+	gun -25 15.5 "AIM-1w Sidewinder Pod"
+	gun 25 15.5 "AIM-1w Sidewinder Pod"
+	gun -20.5 9.5 
+	gun 20.5 9.5 
+	gun -12.5 2 
+	gun 12.5 2 
+	gun 0 6 "GBU-1w Piercer Pod"
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A fighter bomber that is very popular for fighter pilots who need to go on long missions without leaving the jet."
+
+ship "JAS/S-39w Gripen"
+	sprite "ship/ariongripen"
+	thumbnail "ship/ariongripen"
+	attributes
+		category "Fighter"
+		"cost" 108000
+		"hull" 400
+		"shields" 800
+		"required crew" 1
+		"bunks" 1
+		"mass" 10
+		"drag" 0.85
+		"heat dissipation" 0.9
+		"fuel capacity" 80
+		"outfit space" 86
+		"weapon capacity" 18
+		"engine capacity" 20
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-20w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+	engine 0 25 
+	gun -3.5 -0.5 "Mk44 Bushmaster II Autocannon"
+	gun -14.5 14.5 "AIM-1w Sidewinder Pod"
+	gun 14.5 14.5 "AIM-1w Sidewinder Pod"
+	gun 0 7 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "Light multirole fighter that is relatively easy to maintain and can take off from a lot of places. Due to these factors, it makes it popular among a lot of groups, including pirates."
+	
+ship "Eurofighter Typhoon W/S"
+	sprite "ship/arioneurofighter"
+	thumbnail "ship/arioneurofighter"
+	attributes
+		category "Fighter"
+		"cost" 120000
+		"hull" 460
+		"shields" 920
+		"required crew" 1
+		"bunks" 1
+		"mass" 14
+		"drag" 0.83
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 96
+		"weapon capacity" 24
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+	engine -1.5 23.5 
+	engine 1.5 23.5 
+	gun -3.5 -6.5 "Mk44 Bushmaster II Autocannon"
+	gun -19 14.5 "AIM-1w Sidewinder Pod"
+	gun 19 14.5 "AIM-1w Sidewinder Pod"
+	gun -12.5 5 
+	gun 12.5 5 
+	gun 0 4.5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "An air superiority fighter from the 21st century that has been upgraded and modified to serve once more."
+
+ship "Dassault Rafale W/S"
+	sprite "ship/arionrafale"
+	thumbnail "ship/arionrafale"
+	attributes
+		category "Fighter"
+		"cost" 120000
+		"hull" 480
+		"shields" 960
+		"required crew" 1
+		"bunks" 1
+		"mass" 13
+		"drag" 0.85
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 98
+		"weapon capacity" 25
+		"engine capacity" 25
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"Thrust Vectoring Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+	engine -2 22.5 
+	engine 2 22.5 
+	gun -5 -2 "Mk44 Bushmaster II Autocannon"
+	gun -18 14 "AIM-1w Sidewinder Pod"
+	gun 18 14 "AIM-1w Sidewinder Pod"
+	gun -11 6 
+	gun 11 6 
+	gun 0 6 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "An air superiority fighter from the 21st century that has been upgraded and modified to serve once more."
+
+ship "A/S-10w Warthog"
+	sprite "ship/ariona10"
+	thumbnail "ship/ariona10"
+	attributes
+		category "Fighter"
+		"cost" 120000
+		"shields" 960
+		"hull" 720
+		"required crew" 1
+		"bunks" 1
+		"mass" 14
+		"drag" 1.2
+		"heat dissipation" 0.9
+		"fuel capacity" 70
+		"outfit space" 90
+		"weapon capacity" 24
+		"engine capacity" 20
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Gau-8 Avenger"
+		"30x173mm Ammo" 300
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-20w"
+		"Thrust Vectoring Engine-20w"
+	engine -5.5 16.5 
+	engine 5.5 16.5 
+	gun -0.5 -27 "Gau-8 Avenger"
+	gun -21.5 -3.5 
+	gun 21.5 -3.5 
+	gun -12.5 -3.5 
+	gun 12.5 -3.5 
+	gun 0 -3.5  
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A 21st century attack jet with a big gun. It has been overhauled to work in space."
+
+ship "Su/S-47w Berkut"
+	sprite "ship/arionsu47"
+	thumbnail "ship/arionsu47"
+	attributes
+		category "Fighter"
+		licenses
+			"NCD Platinum"
+		"cost" 880000
+		"shields" 1180
+		"hull" 590
+		"required crew" 1
+		"bunks" 1
+		"mass" 22
+		"drag" 0.87
+		"heat dissipation" 0.9
+		"fuel capacity" 170
+		"outfit space" 110
+		"weapon capacity" 20
+		"engine capacity" 25
+		"cloak" 0.003
+		"cloaking energy" 6
+		"cloaking heat" 9
+		"turn" 100
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 100
+		"AIM-1w Sidewinder Pod" 2
+		"AIM-3w AMRAAM Pod"
+		"Omni Directional Engine-25w"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Charge Generator-25w"
+	engine -2.5 35 
+	engine 2.5 35 
+	gun 3.5 -15 "Mk44 Bushmaster II Autocannon"
+	gun -4.5 12.5 
+	gun 4.5 12.5 
+	gun 0 12.5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "Originally a prototype, this semi stealthy fighter has been overhauled to fly in space."
+
+
+
+Interceptors
+
+ship "MQ/S-4w Global Hawk"
+	sprite "ship/arionrq4"
+	thumbnail "ship/arionrq4"
+	attributes
+		category "Interceptor"
+		"cost" 180000
+		"shields" 700
+		"hull" 350
+		"automaton" 1
+		"mass" 12
+		"drag" 1.0
+		"fuel capacity" 300
+		"heat dissipation" 0.9
+		"outfit space" 70
+		"weapon capacity" 6
+		"engine capacity" 20
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Cooling Ducts"
+		"Thrust Vectoring Engine-20w"
+		"Fuel Cell-20w"
+		Hyperdrive
+	gun 0 -2 
+	engine 0 18  
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	description "A reconnaissance drone from the 21st century that has been modified and upgraded to carry weapons and fly in space."
+	description "This drone is not fully autonomous, it is either controlled from a control center wether it be on the ground or another ship or it can act semi autonomously."
+
+ship "Avro Arrow W/S"
+	sprite "ship/arionarrow"
+	thumbnail "ship/arionarrow"
+	attributes
+		category "Interceptor"
+		"cost" 255000
+		"hull" 700
+		"shields" 1400
+		"required crew" 1
+		"bunks" 1
+		"mass" 29
+		"drag" 0.76
+		"heat dissipation" 0.9
+		"fuel capacity" 250
+		"outfit space" 120
+		"weapon capacity" 25
+		"engine capacity" 25
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"M39 Autocannon"
+		"20x102mm Ammo" 100
+		"AIM-3w AMRAAM Pod" 3
+		"Emergency Cooling Device-4w"
+		"D14-RN Shield Generator"
+		"Charge Generator-25w"
+		"Omni Directional Engine-25w"
+		Hyperdrive
+	gun 1.5 -28 "M39 Autocannon"
+	gun -4 9 
+	gun 4 9 
+	gun 0 9
+	engine -3 38 
+	engine 3 38  
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A prototype interceptor that has been revived to serve in space."
+
+ship "TSR/S-2w"
+	sprite "ship/ariontsr2"
+	thumbnail "ship/ariontsr2"
+	attributes
+		category "Interceptor"
+		"cost" 300000
+		"hull" 850
+		"shields" 1700
+		"required crew" 2
+		"bunks" 2
+		"mass" 35
+		"drag" 0.84
+		"heat dissipation" 0.9
+		"fuel capacity" 350
+		"outfit space" 150
+		"weapon capacity" 40
+		"engine capacity" 30
+		"bomb bay" 1
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"GBU-1w Piercer Pod" 3
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"D14-RN Shield Generator"
+		"Charge Generator-30w"
+		"Omni Directional Engine-30w"
+		Hyperdrive
+	gun 0 7
+	gun -10 5 
+	gun 10 5 
+	engine -2.5 42 
+	engine 2.5 42   
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A prototype strike fighter that has been revived to serve in space."
+
+ship "MSR/S-71w Blackbird"
+	sprite "ship/arionsr71"
+	thumbnail "ship/arionsr71"
+	attributes
+		category "Interceptor"
+		licenses
+			"NCD Platinum"
+		"cost" 2000000
+		"shields" 2000
+		"hull" 1000
+		"required crew" 1
+		"bunks" 4
+		"cargo space" 5
+		"mass" 35
+		"drag" 0.72
+		"heat dissipation" 0.9
+		"fuel capacity" 500
+		"outfit space" 160
+		"weapon capacity" 30
+		"engine capacity" 60
+		"cloak" 0.009
+		"cloaking energy" 8
+		"cloaking heat" 12
+		"bomb bay" 1
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"Omni Directional Engine-30w" 2
+		"Emergency Repair System-5w"
+		"Advanced Cooling Device-20w"
+		"Charge Generator-30w"
+		"Hyperdrive"
+	engine 15 45
+	engine -15 45 
+	gun 0 20 
+		under
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A stealthy spy plane that can either evade detection altogether or outrun anything fired at it. This version has been modified to be able to carry some passengers and cargo. It now also has the ability to be flown alone."
+
+ship "MSR/S-72w Darkstar"
+	sprite "ship/arionsr72"
+	thumbnail "ship/arionsr72"
+	attributes
+		category "Interceptor"
+		licenses
+			"NCD Contractor"
+		"cost" 3500000
+		"shields" 2500
+		"hull" 1250
+		"required crew" 1
+		"bunks" 4
+		"cargo space" 10
+		"mass" 40
+		"drag" 0.62
+		"heat dissipation" 0.9
+		"fuel capacity" 500
+		"outfit space" 170
+		"weapon capacity" 30
+		"engine capacity" 60
+		"cloak" 0.005
+		"cloaking energy" 5.4
+		"cloaking heat" 7.2
+		"bomb bay" 1
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"Omni Directional Engine-30w" 2
+		"Emergency Repair System-5w"
+		"Advanced Cooling Device-20w"
+		"Charge Generator-30w"
+		"Hyperdrive"
+	engine 11 54 
+	engine -11 54
+	gun 0 -48
+	gun 0 15 
+		under
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A 6th generation stealth reconnaissance aircraft, it made its debut as a movie star before its existence was known to the general public. It now has the ability to serve in space."
+
+
+
+Transport
+
+ship "US/S-3w Viking"
+	sprite "ship/arions3"
+	thumbnail "ship/arions3"
+	attributes
+		category "Utility"
+		"cost" 270000
+		"hull" 750
+		"shields" 1500
+		"required crew" 2
+		"bunks" 8
+		"cargo space" 10
+		"mass" 20
+		"drag" 1.3
+		"heat dissipation" 0.9
+		"fuel capacity" 400
+		"outfit space" 135
+		"weapon capacity" 20
+		"engine capacity" 35
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"D14-RN Shield Generator"
+		"Fuel Cell-30w"
+		"Emergency Cooling Device-4w"
+		"X1200 Ion Steering"
+		"X1700 Ion Thruster"
+		Hyperdrive
+	gun -14 -7 
+	gun 14 -7 
+	engine -8.5 -8
+		under
+	engine 8.5 -8
+		under 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A modified utility jet that served in the late 20th century, it will serve once more in space."
+	description "To help keep this jet cheaper for newer pilots, it comes stock with cheaper equipment which should be replaced as soon as possible."
+
+ship "C/S-390w Millennium"
+	sprite "ship/arionc390"
+	thumbnail "ship/arionc390"
+	attributes
+		category "Transport"
+		"cost" 360000
+		"hull" 900
+		"shields" 1800
+		"required crew" 2
+		"bunks" 20
+		"cargo space" 30
+		"mass" 46
+		"drag" 2.2
+		"heat dissipation" 0.9
+		"fuel capacity" 500
+		"outfit space" 150
+		"weapon capacity" 0
+		"engine capacity" 40
+		weapon
+			"blast radius" 50
+			"shield damage" 500
+			"hull damage" 250
+			"hit force" 750
+	outfits
+		"Thrust Vectoring Engine-20w" 2
+		"D23-QP Shield Generator"
+		"Emergency Cooling Device-4w"
+		"Emergency Repair System-5w"
+		"Fuel Cell-30w"
+		Hyperdrive
+	engine -16 -18 
+		under
+	engine 16 -18 
+		under
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A Medium Transport jet from the 21st century, it has been modified and upgraded to serve once more."
+	description "While this jet can carry quite a lot of cargo and passengers for its price and size, it is completely unarmed, so escorts are needed."
+
+
+
+Capital Ships
+
+ship "Colossus Class"
+	sprite "ship/arioncolossus"
+	thumbnail "thumbnail/arioncolossus"
+	attributes
+		category "Heavy Freighter"
+		"cost" 15000000
+		"shields" 12500
+		"hull" 10000
+		"required crew" 20
+		"bunks" 50
+		"mass" 700
+		"drag" 12
+		"heat dissipation" .45
+		"fuel capacity" 700
+		"cargo space" 450
+		"outfit space" 600
+		"weapon capacity" 300
+		"engine capacity" 150
+		weapon
+			"blast radius" 140
+			"shield damage" 1400
+			"hull damage" 700
+			"hit force" 2100
+	outfits
+		"Particle Cannon" 6
+		"Goalkeeper C.I.W.S" 2
+		"30x173mm Ammo" 6000
+
+		"Advanced Cooling Device-20w"
+		"D94-YV Shield Generator"
+		"Fusion Reactor-50w"
+		Hyperdrive
+		M4A1 25
+
+		"Omni Directional Engine-25w" 2
+		"Thrust Vectoring Engine-100w"
+		
+	gun -36 -82 
+	gun 36 -82 
+	gun -40 -75
+	gun 40 -75
+	gun -37 -28 
+	gun 37 -28 
+	turret -20 -3.5
+	turret 20 -3.5 
+	engine 0 196 
+	engine -26.5 196 
+	engine 26.5 196 
+	leak "leak" 30 50
+	leak "flame" 30 80
+	leak "big leak" 50 30
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "large explosion" 35
+	explode "huge explosion" 20
+	"final explode" "final explosion large"
+	description "A large and heavily armed freighter, it was made to be a competitor to the Behemoth. While it may be quite expensive, its armament, durability and more importantly speed over its competitor makes it an excellent choice for merchants who can pay the price."
+	description "(Special thanks to gefulltetaubenbrust for the sprite)."
+
+ship "Hunter Class"
+	sprite "ship/arionhunter"
+	thumbnail "thumbnail/arionhunter"
+	attributes
+		category "Heavy Warship"
+		licenses
+			"NCD Platinum"
+		"cost" 20000000
+		"shields" 20000
+		"hull" 15000
+		"required crew" 90
+		"bunks" 180
+		"mass" 960
+		"drag" 16
+		"heat dissipation" .45
+		"fuel capacity" 700
+		"cargo space" 100
+		"outfit space" 840
+		"weapon capacity" 400
+		"engine capacity" 180
+		weapon
+			"blast radius" 300
+			"shield damage" 3000
+			"hull damage" 1500
+			"hit force" 4500
+	outfits
+		"Particle Cannon" 6
+		"76mm OTO Melara Turret" 2
+		"OTOMATIC CIWS" 2
+		"76x636mmR Ammo" 400
+
+		"Advanced Cooling Device-20w" 2
+		"D41-HY Shield Generator"
+		"D94-YV Shield Generator"
+		"Emergency Repair System-5w" 6
+		"Overcharged Reactor-100w"
+		M4A1 100
+
+		"Omni Directional Engine-180w"
+		Hyperdrive
+		
+	gun 13 -197 
+	gun -13 -197 
+	gun 13 -198 
+	gun -13 -198 
+	gun 28 -87 
+	gun -28 -87 
+	turret 0 -72 
+	turret 0 17 
+	turret 44 21 
+	turret -44 21
+	bay "Fighter" -35 21 
+	bay "Fighter" 35 21 
+	bay "Fighter" -60 122 
+	bay "Fighter" 60 122 
+	engine 36 171 
+	engine -36 171 
+	leak "leak" 30 50
+	leak "flame" 30 80
+	leak "big leak" 30 30
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
+	description "A large and heavily armed battle carrier, it is an excellent choice for anyone who can't get access to any other large carriers. Although, you will have to pay a lot of money to get one, but the premium price is definitely worth it for a premium product."
+	description "(Special thanks to gefulltetaubenbrust for the sprite)."
+
+ship "Admiring Class"
+	sprite "ship/arionhunter"
+	thumbnail "thumbnail/arionhunter"
+	attributes
+		category "Utility"
+		licenses
+			"NCD Platinum"
+		"cost" 20000000
+		"shields" 15000
+		"hull" 12000
+		"required crew" 60
+		"bunks" 250
+		"mass" 960
+		"drag" 16
+		"heat dissipation" .42
+		"fuel capacity" 700
+		"cargo space" 300
+		"outfit space" 750
+		"weapon capacity" 240
+		"engine capacity" 180
+		weapon
+			"blast radius" 300
+			"shield damage" 3000
+			"hull damage" 1500
+			"hit force" 4500
+	outfits
+		"UGT-1w Shadow Strike Torpedo" 18
+		"UGT-1w Shadow strike Launcher" 2
+		"Phalanx C.I.W.S" 3
+		"20x102mm Ammo" 15000
+		"76mm OTO Melara Turret" 2
+		"76x636mmR Ammo" 200
+
+		"Advanced Cooling Device-20w" 2
+		"D94-YV Shield Generator"
+		"Emergency Repair System-5w" 6
+		"Overcharged Reactor-100w"
+		Hyperdrive
+		M4A1 100
+
+		"Omni Directional Engine-80w"
+		"Thrust Vectoring Engine-100w"
+		
+	gun 13 -198 
+	gun -13 -198 
+	gun 28 -87 
+	gun -28 -87 
+	turret 0 -72 "Phalanx C.I.W.S"
+	turret 0 17 "Phalanx C.I.W.S"
+	turret 0 120 "Phalanx C.I.W.S"
+	turret 44 21 
+	turret -44 21
+	bay "Fighter" 0 -72 
+	bay "Fighter" 0 17 
+	bay "Fighter" -35 21 
+	bay "Fighter" 35 21 
+	bay "Fighter" -60 122 
+	bay "Fighter" 60 122 
+	engine 36 171 
+	engine -36 171 
+	leak "leak" 30 50
+	leak "flame" 30 80
+	leak "big leak" 30 30
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
+	description "A modified Hunter class made to fulfill the role of planetary assault, it has lost some durability, fire power and outfit space in exchange for an extra turret, more fighters and more cargo and bunks to allow this ship to quickly assault planets."
+	description "(Special thanks to gefulltetaubenbrust for the sprite)."
+
+ship "Starspear Class"
+	sprite "ship/arionstarspear"
+	thumbnail "thumbnail/arionstarspear"
+	attributes
+		category "Superheavy"
+		licenses
+			"NCD Contractor"
+		"cost" 40000000
+		"shields" 23500
+		"hull" 20000
+		"required crew" 150
+		"bunks" 300
+		"mass" 1600
+		"drag" 21
+		"heat dissipation" 0.42
+		"fuel capacity" 800
+		"cargo space" 100
+		"outfit space" 1350
+		"weapon capacity" 640
+		"engine capacity" 180
+		"spinal mount" 1
+		weapon
+			"blast radius" 1000
+			"shield damage" 20000
+			"hull damage" 12000
+			"hit force" 11000
+	outfits
+		"Dragonfire Super Railgun"
+		"406mm Caseless Railgun Ammo" 18
+		"Phalanx C.I.W.S" 4
+		"20x102mm Ammo" 20000
+		"76mm OTO Melara Turret" 2
+		"76x636mmR Ammo" 200
+		"Emergency Cooling Device-4w"
+		"Advanced Cooling Device-20w" 2
+		"D94-YV Shield Generator" 2
+		"Emergency Repair System-5w" 4
+		M4A1 150
+		"Overcharged Reactor-100w"
+		"Omni Directional Engine-180w"
+		"Hyperdrive"
+	engine -56 300 
+	engine 56 300 
+	gun 0 -260.5 
+	turret 24 -197.5 
+	turret -24 -197.5 
+	turret 80 53
+	turret -80 53 
+	turret 80 145 
+	turret -80 145 
+	bay "Fighter" 77 10 
+	bay "Fighter" -77 10
+	bay "Fighter" 77 50 
+	bay "Fighter" -77 50
+	explode "tiny explosion" 60
+	explode "small explosion" 26
+	explode "medium explosion" 47
+	explode "large explosion" 39
+	explode "huge explosion" 42
+	explode "nuke explosion" 2
+	"final explode" "nuke explosion" 2
+	"final explode" "nuke residue fast" 50
+	description "A superheavy railgun carrier, this monster has a spinal mount that can be used to carry some of the largest weapons ever produced."
+	description "(Special thanks to yuyuko_saigyouji. for the sprite)."
+
+
+
+Mission Ships
+
+ship "Modified F/S-23w Black Widow"
+	sprite "ship/arionmodifiedf23"
+	thumbnail "ship/arionmodifiedf23"
+	swizzle 0
+	attributes
+		category "Fighter"
+		"cost" 1500000
+		"shields" 1200
+		"hull" 600
+		"required crew" 1
+		"bunks" 1
+		"mass" 20
+		"drag" 0.65
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 100
+		"weapon capacity" 30
+		"engine capacity" 25
+		"cloak" 0.006
+		"cloaking energy" 3.6
+		"cloaking heat" 5.4
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"M61 Vulcan"
+		"20x102mm Ammo" 2000
+		"AIM-1w Sidewinder Missile" 16
+		"AIM-1w Sidewinder Pod" 4
+		"Charge Generator-25w"
+		"Emergency Repair System-5w"
+		"S-270 Regenerator"
+		"Water Coolant System"
+		"Omni Directional Engine-25w"
+	engine -4 26 
+	engine 4 26 
+	gun 5 -9 "M61 Vulcan"
+	gun -1.5 -12 
+	gun 1.5 -12 
+	gun -1.5 -5 
+	gun 1.5 -5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "A prototype stealth fighter that has been brought back to life to serve in space. This one has been modified to be faster and have slightly more survivability at the cost of more weight and slightly less outfit space."
+	description "(Special thanks to atypicalscalie for modifying the base sprite)."
+
+ship "Modified Su/S-47w Berkut"
+	sprite "ship/arionmodifiedsu47"
+	thumbnail "ship/arionmodifiedsu47"
+	swizzle 0
+	attributes
+		category "Fighter"
+		"cost" 1300000
+		"shields" 1200
+		"hull" 600
+		"required crew" 1
+		"bunks" 1
+		"mass" 25
+		"drag" 0.9
+		"heat dissipation" 0.9
+		"fuel capacity" 100
+		"outfit space" 125
+		"weapon capacity" 32
+		"engine capacity" 25
+		"turn" 100
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Mk44 Bushmaster II Autocannon"
+		"30x173mm Ammo" 1000
+		"AIM-1w Sidewinder Missile" 20
+		"AIM-1w Sidewinder Pod" 5
+		"Charge Generator-30w"
+		"Emergency Repair System-5w"
+		"S-270 Regenerator" 2
+		"Water Coolant System"
+		"Omni Directional Engine-25w"
+	engine -2.5 35 
+	engine 2.5 35 
+	gun 3.5 -15 "Mk44 Bushmaster II Autocannon"
+	gun -8 12.5 
+	gun 8 12.5 
+	gun -4 12.5 
+	gun 4 12.5 
+	gun 0 12.5 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "Originally a prototype, this semi stealthy fighter has been overhauled to fly in space. This one has been modified to be slightly more durable and carry more weapons, at the cost of its stealth and some of its speed."
+	description "(Special thanks to atypicalscalie for modifying the base sprite)."
+
+Joke stuff
+
+ship "Super Space Swordfish"
+	sprite "ship/arionsuperswordfish"
+	thumbnail "ship/arionsuperswordfish"
+	attributes
+		category "Fighter"
+		"cost" 30000
+		"shields" 600
+		"hull" 150
+		"required crew" 1
+		"bunks" 1
+		"mass" 8
+		"drag" 1
+		"heat dissipation" 0.9
+		"outfit space" 45
+		"weapon capacity" 5
+		"engine capacity" 20
+		weapon
+			"blast radius" 6
+			"shield damage" 60
+			"hull damage" 30
+			"hit force" 90
+	outfits
+		"nGVF-AA Fuel Cell"
+		"X1050 Ion Engines"
+		"UGT-1w Shadow Strike Launch Rack"
+		"UGT-1w Shadow Strike Torpedo"
+	gun 0 -8 
+	engine 0 17 
+	leak "leak" 60 50
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	"final explode" "final explosion small"
+	description "This is a plane that was based on a really old prop torpedo bomber that has for some reason been given a jet engine and the ability to fly in space. (Special thanks to 1010todd for making the sprite for the plane)"

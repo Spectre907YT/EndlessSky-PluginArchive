@@ -6450,11 +6450,11 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 ---
 
-### Arion - Air Superiority
-<img src='Working/Arion - Air Superiority/icon.png' height='100'></img><br>
+### Arion
+<img src='Working/Arion/icon.png' height='100'></img><br>
 
 
-[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 2.97 mb | 2023-11-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
+[Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/) <br>
 Author: Spectre907 | Category: Races <br>
 [https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion) (last commit 2023-11-07) <br>
 
@@ -11448,9 +11448,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Cromha Expansion/icon.png' height='100'></img><br>
 
 
-[Cromha.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Cromha.Expansion.zip) | 115.8 mb | 2023-11-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Cromha%20Expansion/) <br>
+[Cromha.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Cromha.Expansion.zip) | 115.84 mb | 2023-11-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Cromha%20Expansion/) <br>
 Author: OcelotWalrus | Category: Story <br>
-[https://github.com/OcelotWalrus/Cromha-Expansion-plugin](https://github.com/OcelotWalrus/Cromha-Expansion-plugin) (last commit 2023-11-08) <br>
+[https://github.com/OcelotWalrus/Cromha-Expansion-plugin](https://github.com/OcelotWalrus/Cromha-Expansion-plugin) (last commit 2023-11-09) <br>
 
 >Adds a new civilization to the Korath Space (now named the 'Empire Space'): The Cromha Empire. Also known as 'The Empire', it is a government that dirige a huge part of the north of the Milky Way. It also a very high advanced government, that has kind of remixed outfits and ships from other vanilla governments. They are human but don't directly have contact with human Merchants, they have contact with the Syndicate, the Republic but they don't allow them to enter their territory.
 
@@ -14575,11 +14575,65 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 ## Uncategorized
 
-<p>28 plugins in this category.<p>
+<p>29 plugins in this category.<p>
 
 <details>
 
  
+
+---
+
+### Arion - Air Superiority
+<img src='Working/Arion - Air Superiority/icon.png' height='100'></img><br>
+
+
+[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 2.97 mb | 2023-11-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
+Author: N/A | Category: Uncategorized <br>
+N/A[]()  <br>
+
+>N/A
+>
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote># Arion - Air Superiority
+
+An Endless Sky plugin that adds a variety of things to endless sky, including: 
+
+- Real life fighters
+  
+- Real life bombers
+  
+- Ace combat super planes
+  
+- Xenonauts fighters
+  
+- A bunch of new H2H weapons based on real life weapons
+  
+- Advanced outfits
+  
+- Specialized weapons
+  
+- Superweapons
+  
+- Custom capital ships
+  
+- 1 (or 2) new 'short campaigns' and some new jobs
+  
+- ETC
+
+To get access to some of the content visit Earth, Valhalla, Hephaestus or Bourne. Perhaps helping them out by doing some jobs and mission is a good idea. You can also just have a high combat rating or finish the main campaign (although you should probably just visit the mentioned planets).
+
+There are also some bonus content if you have the lost in midnight, mega freight, czartraks ships, amphibious ships, altera or navycampaign (by kestrel1110) plugin. To access the bonus content, move the respective files from the bonus file to the data file.
+
+(Special thanks to 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust from the Endless Sky discord server for letting me borrow some sprites)
+
+</blockquote>
+</details>
+
+Status: N/A <br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+
 
 ---
 

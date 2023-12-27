@@ -490,9 +490,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Hilo2000 Arena/icon.png' height='100'></img><br>
 
 
-[Hilo2000.Arena.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Hilo2000.Arena.zip) | 28.72 kb | 2023-11-25 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Hilo2000%20Arena/) <br>
+[Hilo2000.Arena.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Hilo2000.Arena.zip) | 28.72 kb | 2023-12-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Hilo2000%20Arena/) <br>
 Author: Mielo Symeonidis | Category: Cheats <br>
-[https://github.com/Hilo2000/arena/blob/main/](https://github.com/Hilo2000/arena/blob/main/) (last commit 2023-11-25) <br>
+[https://github.com/Hilo2000/arena/blob/main/](https://github.com/Hilo2000/arena/blob/main/) (last commit 2023-12-27) <br>
 
 >This plugin adds an arena with multiple hard and easy challenges.
 >
@@ -8024,9 +8024,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Amphibious-Ships
 
 
-[Amphibious-Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Amphibious-Ships.zip) | 12.3 mb | 2023-12-19 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Amphibious-Ships/) <br>
+[Amphibious-Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Amphibious-Ships.zip) | 13.46 mb | 2023-12-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Amphibious-Ships/) <br>
 Author: Zoura | Category: Ships <br>
-[https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships) (last commit 2023-12-19) <br>
+[https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships) (last commit 2023-12-27) <br>
 
 >Adds sea-to-space ships to Endless Sky.
 >
@@ -8038,7 +8038,7 @@ Author: Zoura | Category: Ships <br>
  This is a plugin for Endless Sky adding a T3-ish race whose ships and weapons are inspired by modern day naval ships. The ships added range from pesky missile boats all the way to super battleships and heavy carriers, with powerful fighters to compliment them.
 Currently the plugin features:
 - 35 new systems
-- 25 new ships: 11 Warships, 3 Dedicated Carriers, 6 Logistical Ships (1 of which has a special variant), 2 Outriggers (with 5 uniquely sprited and statted variants each), 2 Fighters, and 1 Drone.
+- 26 new ships: 11 Warships, 4 Dedicated Carriers, 6 Logistical Ships (1 of which has a special variant), 2 Outriggers (with 5 uniquely sprited and statted variants each), 2 Fighters, and 1 Drone.
 - 20 new weapons
 - A new engine set (6 thrusters, 6 steerings)
 - 27 unique outfits

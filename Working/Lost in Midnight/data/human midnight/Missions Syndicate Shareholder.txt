@@ -193,8 +193,14 @@ mission "Titania: Syndicate Republic Bribery"
 				accept
 	on abort
 		event "titania bond cancel"
+		event "titania: syndicate bonds matured" 3600
 		"reputation: Syndicate" -= 1000
-		dialog "You've become an enemy of the Syndicate after pushing the Syndicate agent out of your airlock."
+		dialog "You've become an enemy of the Syndicate after pushing their agent out of your airlock."
+	on fail
+		event "titania bond cancel"
+		event "titania: syndicate bonds matured" 3600
+		"reputation: Syndicate" -= 1000
+		dialog "You've become an enemy of the Syndicate after their agent died while riding on one of your ships."
 	on complete
 		event "titania syndicate enters eteron" 30
 		event "titania station construction a" 90
@@ -224,20 +230,13 @@ event "titania station construction a"
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
-			object
-				sprite planet/dust1-b
-				distance 244
-				period 15.3766
-			object
-				sprite planet/mercury
-				distance 366
-				period 28.2485
 		add object
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
 			object
 				sprite planet/station5ver8a
+					scale 0.5
 				distance 122
 				period 25
 			object
@@ -257,24 +256,13 @@ event "titania station construction b"
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
-			object
-				sprite planet/station5ver8a
-				distance 122
-				period 25
-			object
-				sprite planet/dust1-b
-				distance 244
-				period 15.3766
-			object
-				sprite planet/mercury
-				distance 366
-				period 28.2485
 		add object
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
 			object
 				sprite planet/station5ver8b
+					scale 0.5
 				distance 122
 				period 25
 			object
@@ -294,24 +282,13 @@ event "titania station construction c"
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
-			object
-				sprite planet/station5ver8b
-				distance 122
-				period 25
-			object
-				sprite planet/dust1-b
-				distance 244
-				period 15.3766
-			object
-				sprite planet/mercury
-				distance 366
-				period 28.2485
 		add object
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
 			object "Titania Station"
 				sprite planet/station5ver8c
+					scale 0.5
 				distance 122
 				period 25
 			object
@@ -330,24 +307,13 @@ event "titania station construction d"
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
-			object "Titania Station"
-				sprite planet/station5ver8c
-				distance 122
-				period 25
-			object
-				sprite planet/dust1-b
-				distance 244
-				period 15.3766
-			object
-				sprite planet/mercury
-				distance 366
-				period 28.2485
 		add object
 			sprite planet/uranus
 			distance 1126.76
 			period 1302.08
 			object "Titania Station"
 				sprite planet/station5ver8
+					scale 0.5
 				distance 122
 				period 25
 			object

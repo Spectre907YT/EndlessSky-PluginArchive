@@ -4179,7 +4179,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [snowfeather.robotics.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/snowfeather.robotics.zip) | 21.55 kb | 2023-10-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/snowfeather.robotics/) <br>
 Author: zuckung | Category: Outfits <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2023-10-17) <br>
 
 >Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).
 >Starts on Snowfeather(Bore Fah) when having at least one android installed. See the readme for details.

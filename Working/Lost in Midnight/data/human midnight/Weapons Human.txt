@@ -129,7 +129,7 @@ outfit "Energy Cannon"
 		"hull damage" 1.467
 		"cluster"
 		"submunition" "Energy Cannon Blast"
-	description "A relic from the Alpha War, Energy Cannons fell into disuse once the war ended. Occasionally they can still be found outfitted on older ships. They have a longer range than Energy Blasters and are more powerful. But they have a slower rate of fire and the effectiveness of the projectiles diminishes the more distant the target."
+	description "A relic from the Alpha War, Energy Cannons fell into disuse once the war ended. Occasionally they can still be found outfitted on older ships. They are more powerful than Energy Blasters and cover a longer range. But their rate of fire is slower and the effectiveness of the projectiles diminishes the more distant the target."
 #damage per second equal to Twin Modified Blaster
 
 outfit "Energy Cannon Turret"
@@ -165,7 +165,7 @@ outfit "Energy Cannon Blast"
 	weapon
 		sprite "projectile/energy cannon sub"
 		"hit effect" "energy cannon sub impact"
-		"inaccuracy" 3
+#		"inaccuracy" 3
 		"lifetime" 18
 		"shield damage" 5.2
 		"hull damage" 4.4
@@ -176,7 +176,7 @@ outfit "Residual Energy Cannon Blast"
 	weapon
 		sprite "projectile/energy cannon sub"
 		"hit effect" "energy cannon sub impact"
-		"inaccuracy" 3
+#		"inaccuracy" 3
 		"lifetime" 24
 		"shield damage" 8
 		"hull damage" 4.4
@@ -187,7 +187,7 @@ outfit "Half Energy Cannon Blast"
 	weapon
 		sprite "projectile/mod blaster"
 		"hit effect" "blaster impact"
-		"inaccuracy" 2
+#		"inaccuracy" 2
 		"lifetime" 18
 		"shield damage" 2.6
 		"hull damage" 2.2
@@ -198,7 +198,7 @@ outfit "Half Residual Energy Cannon Blast"
 	weapon
 		sprite "projectile/blaster"
 		"hit effect" "blaster impact"
-		"inaccuracy" 1
+#		"inaccuracy" 1
 		"lifetime" 6
 		"shield damage" 10.6
 		"hull damage" 6.6
@@ -457,7 +457,7 @@ outfit "Kludge Blaster"
 		"hull damage" 8.8
 		"minable damage" 10.6
 		"cluster"
-	description "Kludge Blasters started out as a failed attempt at modifying an Energy Blaster. Pirate captains short on cash due to botched raid attempts, smuggling jobs gone wrong, or an unlucky night at the card tables might resort to mounting Kludge Blasters onto their ship instead of more effective weapons. Despite their shady origins, Kludge Blasters eventually gained widespread popularity with new starship pilots in search of a budget alternative weapon suited for mining asteroids and are available at many legitimate outfitters across the galaxy."
+	description "Kludge Blasters started out as a failed attempt at modifying an Energy Blaster. Pirate captains short on cash due to botched raid attempts, smuggling jobs gone wrong, or an unlucky night at the card tables might resort to mounting Kludge Blasters onto their ship instead of more effective weapons. Despite their shady origins, Kludge Blasters eventually gained widespread popularity with new starship pilots in search of a budget alternative mining weapon and are available at many legitimate outfitters across the galaxy."
 	description `	This weapon is set to fire in "cluster" mode, synchronizing its rate of fire when multiple copies are installed together.`
 
 outfit "Twin Kludge Blaster"
@@ -640,7 +640,7 @@ outfit "Hex Kludge Blaster Turret"
 		"firing energy" 39
 		"firing heat" 138
 		"cluster"
-	description "Overzealous weaponsmiths crafted this arrangement of six Kludge Blasters clustered onto a single turret mount. As with other Kludge Blaster configurations, all six fire at the same time, launching a deadly volley of projectiles towards the target."
+	description "Overzealous weaponsmiths crafted this arrangement of six Kludge Blasters clustered onto a single turret mount. This increases the damage yield at the cost of increased heat buildup. As with other Kludge Blaster configurations, all six fire at the same time, launching a deadly volley of projectiles towards the target."
 	description `	This weapon is set to fire in "cluster" mode, synchronizing its rate of fire when multiple copies are installed together.`
 
 effect "kludge impact"

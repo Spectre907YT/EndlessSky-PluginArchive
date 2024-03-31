@@ -1698,9 +1698,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/galactic.capital.investment/icon.png' height='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 1.86 mb | 2024-03-20 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
+[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 2.16 mb | 2024-03-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-20) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-31) <br>
 
 >Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 100 million credits. See the readme for details.
 >(inspired by a-alhusaini's investment bank plugin)
@@ -3545,9 +3545,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/expert.crew.members/icon.png' height='100'></img><br>
 
 
-[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 7.16 mb | 2024-03-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
+[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 7.66 mb | 2024-03-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
 Author: zuckung | Category: Outfits <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-27) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-31) <br>
 
 >Adds unique crew members, aquireable through low chance spaceport missions. These crew members are technically outfits which require a bunk and a salary, but no outfit space or mass. They add, depending on their technology field, stats to your ship. Like shield regenaration, more thrust, more cargo etc. See the readme for details.
 >
@@ -13025,9 +13025,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Prometheus-Flame/icon.png' height='100'></img><br>
 
 
-[Prometheus-Flame.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Prometheus-Flame.zip) | 12.1 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Prometheus-Flame/) <br>
+[Prometheus-Flame.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Prometheus-Flame.zip) | 4.06 mb | 2024-03-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Prometheus-Flame/) <br>
 Author: CruzEli | Category: Story <br>
-[https://github.com/CruzEli/Prometheus-Flame](https://github.com/CruzEli/Prometheus-Flame) (last commit 2023-04-28) <br>
+[https://github.com/CruzEli/Prometheus-Flame](https://github.com/CruzEli/Prometheus-Flame) (last commit 2024-03-31) <br>
 
 >A content expansion plugin that aims to overhaul the campaign and human content in general to make it relevant for mid and late game while introducing new ships, factions and storylines fleshing out the world of Endless Sky. It introduces a new corporation: "Paradeigm AT Group", a major player in the periphery which became vital to the Free Worlds war effort and later the development of human civilization.
 
@@ -13067,9 +13067,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/real.fluff/icon.png' height='100'></img><br>
 
 
-[real.fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/real.fluff.zip) | 2.66 mb | 2024-03-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/real.fluff/) <br>
+[real.fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/real.fluff.zip) | 3.02 mb | 2024-03-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/real.fluff/) <br>
 Author: zuckung | Category: Story <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-15) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-31) <br>
 
 >A bunch of side missions which reward unique fluffy pets. See the readme for details.
 >

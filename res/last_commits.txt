@@ -142,7 +142,7 @@ kor.efret.shipyard|2023-10-17
 Korath Automation Upgrade|2018-06-29
 KorExiles PA|2022-01-25
 Kraz Cybernetics Evolution|2017-05-15
-Lampyrid Start|2022-02-27
+Lampyrid Start|2024-04-02
 Landing Fees and Tax|2017-02-22
 Legendary Pirates|2021-06-16
 Lemurias Extra ES Stuff|2023-07-06
@@ -177,7 +177,7 @@ Modular Haulers|2021-05-27
 More Ships Plugin|2020-05-31
 more.boarding.missions|2024-03-15
 MultiTech Extra Light|2017-05-13
-Naltok|2024-03-21
+Naltok|2024-04-02
 Navy Campaign|2024-02-01
 Navy Conscript|2018-09-18
 New Droid Regime|2017-11-13

@@ -551,9 +551,8 @@ Author: MinneIceCube | Category: Cheats <br>
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>Kestrel Rework Readme:
-This is a small rework of the Kestrel ship. The intent is to put it on par with several higher tiered alien outfits, most notablely Wanderer (2) outfits, as opposed to standard Human (1-1.5) Outfits. 
-This does not make much sense according to the lore, but I personally prefer the asthetic of the Kestrel compared to many of the Wanderer ships. as such, the changes are as follows:
+<blockquote>This is a small rework of the Kestrel ship. The intent is to put it on par with several higher tiered alien outfits, most notablely Wanderer (2) outfits, as opposed to standard Human (1-1.5) Outfits. 
+This does not make much sense according to the lore, but I personally prefer the asthetic of the Kestrel compared to many of the Wanderer ships. As such, the changes are as follows:
 
 -The requirements for the Kestrel sub-quest have been changed:
 	-The combat rating was increased from 8,000 (Combat rank 9: "Force to be reckoned with") --> 22,000 (Combat rank "Fearsome Scrapper). Intended to limit obtaining the newly buffed ship until the player is on a similar power level.
@@ -564,7 +563,7 @@ This does not make much sense according to the lore, but I personally prefer the
 	-Shields 19,400 --> 49,700
 	-Hull 7,200 --> 30,400
 	-Fuel Capacity 500 --> 700
-	-Outfit space 810 --> 900
+	-Outfit space 810 --> 870
 	-Weapon capacity 390 --> 410
 	-Engine Capacity 210 --> 230
 	-Bunks 128 --> 150
@@ -579,6 +578,9 @@ This does not make much sense according to the lore, but I personally prefer the
 
 -Weapon Kestrel:
 	-Weapon Capacity 40 --> 150
+  
+  I made these edits mostly for personal useage, and as such these are the numbers I found acceptable for my late game ship. If you feel otherwise, feel free to make edits as you please.
+
 </blockquote>
 </details>
 
@@ -1698,9 +1700,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/galactic.capital.investment/icon.png' height='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 2.16 mb | 2024-03-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
+[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 690.1 kb | 2024-04-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-03-31) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-04-05) <br>
 
 >Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 100 million credits. See the readme for details.
 >(inspired by a-alhusaini's investment bank plugin)

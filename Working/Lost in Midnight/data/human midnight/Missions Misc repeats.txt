@@ -16,7 +16,6 @@
 #########################
 
 
-
 mission "Independent Refugee"
 	name "Passenger to <planet>"
 	repeat
@@ -24,7 +23,7 @@ mission "Independent Refugee"
 	minor
 	passengers 1
 	to offer
-		random < 5
+		random < 5 - "rejected illegal jobs"
 	source
 		government "Pirate"
 		not attributes uninhabited
@@ -33,10 +32,15 @@ mission "Independent Refugee"
 		government "Independent" "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral"
 	on offer
 		dialog phrase "generic refugee offer"
+	on accept
+		"rejected illegal jobs" --
+	on decline
+		"rejected illegal jobs" ++
 	on visit
 		dialog phrase "generic passenger on visit"
 	on complete
 		"reputation: Independent" ++
+		"getaway driver" ++
 		payment
 		payment 1000
 		dialog phrase "generic refugee dropoff payment"
@@ -425,15 +429,17 @@ mission "Mining: Claim Jumpers"
 	to offer
 		"mining jobs done" >= 1
 		random < 5
+		has "flagship attribute: asteroid scan power"
 	on offer
-		require "Asteroid Scanner"
+#		require "Asteroid Scanner"
+		"reputation: Bounty (Disguised)" >?= 0
 	npc
-		government "Merchant"
+		government "Bounty (Disguised)"
 		personality launching mining harvests timid
 		fleet
-			names "civilian"
+			names "pirate"
 			cargo 0
-			variant 2
+			variant 1
 				"Sparrow (Kludge Blaster)" 3
 			variant 1
 				"Modified Berserker (Kludge Blaster)" 3
@@ -445,6 +451,14 @@ mission "Mining: Claim Jumpers"
 				"Fury (Kludge Blaster)" 3
 			variant 1
 				"Stingray (Kludge Blaster)" 3
+			variant 3
+				"Scrounger (Tractor)" 3
+		on kill
+			"reputation: Bounty (Disguised)" >?= 0
+	on fail
+		"reputation: Bounty (Disguised)" >?= 0
+	on complete
+		"reputation: Bounty (Disguised)" >?= 0
 
 mission "Mining: Iron Challenge"
 	deadline 7
@@ -464,7 +478,8 @@ mission "Mining: Iron Challenge"
 		not "ships: Light Freighter"
 		not "ships: Heavy Freighter"
 		"ships: Interceptor" == 1
-		random < 10
+		"flagship attribute: cargo" >= 15000
+		random < 10 ( "iron challenge declined" * 10 )
 	on offer
 		conversation
 			`Another pilot approaches you. "Nice ship. Are you a miner?`
@@ -480,6 +495,8 @@ mission "Mining: Iron Challenge"
 					decline
 			`	"That's the spirit! We meet back here by <date>!"`
 				accept
+	on decline
+		set "iron challenge declined"
 	on enter
 		conversation
 			scene "asteroid/iron/spin"

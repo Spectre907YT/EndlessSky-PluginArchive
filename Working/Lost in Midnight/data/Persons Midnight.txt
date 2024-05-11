@@ -44,7 +44,7 @@ person "Gray Eye"
 	frequency 100
 	personality
 		timid uninterested mining harvests mute unconstrained
-	ship "Gray Eye" "Gray Eye"
+	ship "Gray Eye" "Gray Eyed"
 		"never disabled"
 
 
@@ -164,6 +164,18 @@ person "Silent Observer"
 	frequency 100
 	personality surveillance opportunistic mute
 	ship "Star Gazer" "Silent Observer"
+		"never disabled"
+
+
+
+person "Lurker in Darkness"
+	government "Indigenous Lifeform"
+	system
+		attributes "umbral reach"
+	frequency 100
+	personality
+		timid mute uninterested unconstrained marked
+	ship "Corpse Trickster" "Lurker in Darkness"
 		"never disabled"
 
 
@@ -720,6 +732,12 @@ person "Midnight Predator"
 			"Modified D41-HY Shielding"
 			"Modified D67-TM Shielding"
 			"Modified D94-YV Shielding"
+			"Modified nGVF-AA Fuel Cells"
+			"Modified nGVF-BB Fuel Cells"
+			"Modified nGVF-CC Fuel Cells"
+			"Modified nGVF-DD Fuel Cells"
+			"Modified nGVF-EE Fuel Cells"
+			"Modified RT-I Radiothermals"
 			"North Wind Cooling"
 			"Obsolete Transceivers"
 			"Obsolete Tramsmitters"
@@ -761,6 +779,7 @@ person "Midnight Predator"
 			"TP144q Battery Packs"
 			"TP288q Battery Packs"
 			"TP576q Battery Packs"
+			"Tri Laser Turrets"
 			"Turbo Blasters"
 			"Twin Meteor Launchers"
 			"Twin Particle Cannons"
@@ -870,6 +889,7 @@ person "Midnight Predator"
 			"Gremlin"
 			"Hauler VI"
 			"Heavy Enforcer"
+			"Heavy Freighter"
 			"Heavy Hauler"
 			"Hipparion"
 			"Infiltrator"
@@ -886,6 +906,7 @@ person "Midnight Predator"
 			"Korath Ranger"
 			"Korath Warlord"
 			"Liberator"
+			"Light Freighter"
 			"Locust"
 			"Longsword"
 			"Magpie"
@@ -1051,6 +1072,7 @@ ship "Korath Devourer" "Korath Predator"
 		"Outfits Expansion"
 		"Plasma Grenades"
 		"Plasmasickle"
+		"Popcorn Box"
 		"Pug Biodefenses"
 		"Pug Peacekeeping Staff"
 		"Pulse Rifle"
@@ -1118,4 +1140,13 @@ outfit "Hackerz Plugin Sigma"
 	"unique" 1
 	description "Installing this onto a ship disables its spinal mount. Why anyone would do this is unknown."
 	description "	This cannot be installed onto a ship that doesn't have a spinal mount or if something is already installed in its spinal mount."
+
+outfit "Popcorn Box"
+	category "Unique"
+	thumbnail "outfit/popcorn box"
+	"unplunderable" 1
+	"unique" 1
+	"butter and salt" 1
+	description "A box filled with golden buttery popcorn to enjoy while watching a story unfold."
+	description "	Certain rare missions are more likely to trigger while this is installed on your flagship."
 

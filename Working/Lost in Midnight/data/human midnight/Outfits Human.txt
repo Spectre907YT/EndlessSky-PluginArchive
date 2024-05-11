@@ -84,18 +84,26 @@ outfit "Engineering Room"
 	"shield energy multiplier" -.1
 	"hull energy multiplier" -.1
 	"disruption resistance" 0.01
+	"disruption resistance energy" 0.01
 	"ion resistance" 0.01
+	"ion resistance energy" 0.01
+	"scramble resistance" 0.01
+	"scramble resistance energy" 0.01
 	"slowing resistance" 0.01
+	"slowing resistance energy" 0.01
 	"discharge resistance" 0.01
+	"discharge resistance energy" 0.01
 	"corrosion resistance" 0.01
+	"corrosion resistance energy" 0.01
 	"leak resistance" 0.01
+	"leak resistance energy" 0.01
 	"burn resistance" 0.01
-	"energy protection" .1
+	"burn resistance energy" 0.01
 	"self destruct" .15
-	"required crew" 7
-	"operating costs" 200
+	"required crew" 8
+	"operating costs" 800
 	"unplunderable" 1
-	description "An Engineering Room acts as a centralized control center for managing repairs and regulating the flow of energy on your ship. This can make energy usage by certain outfits more efficient while also alleviating effects that would drain your energy reserves. A skilled engineering crew who understands how these systems work and interact with each other is essential to Engineering Room operations."
+	description "An Engineering Room acts as a centralized control center for managing repairs and regulating the flow of energy on your ship. This can make energy usage by certain outfits more efficient while also alleviating effects that negatively impact your ship. A skilled engineering crew who understands how these systems work and interact with each other is essential to Engineering Room operations."
 	description "	Engineering Rooms are also often the location where a ship's self-destruct sequence is activated. Typically it involves deliberately causing a reactor meltdown in the ship's power systems or some similar catastrophic failure. At a minimum, this usually requires the cooperation of both the captain and the engineering crew."
 
 
@@ -116,8 +124,10 @@ outfit "Fuel Canister (Reinforced)"
 	"mass" 5
 	"outfit space" -5
 	"fuel capacity" 25
-	"fuel protection" .02
-	description "Although this carries less fuel than a regular Fuel Canister, it has a thicker armored casing to protect against leaks."
+	"fuel protection" .03
+	"gas storage" 1
+	description "Due to variances in atmospheric pressure, reinforced Fuel Canisters were developed for harvesting gases from gas giants. Once brought to a controlled environment, the harvested gas could be refined and transferred to regular Fuel Pods for transport."
+	description "	Although this carries less fuel than a regular Fuel Canister, it has a thicker armored casing that protects against leaks."
 
 outfit "Fuel Pod (Reinforced)"
 	category "Systems"
@@ -126,8 +136,10 @@ outfit "Fuel Pod (Reinforced)"
 	"mass" 8
 	"outfit space" -8
 	"fuel capacity" 50
-	"fuel protection" .05
-	description "Although this carries less fuel than a regular Fuel Pod, it has a thicker armored casing to protect against leaks."
+	"fuel protection" .06
+	"gas storage" 2
+	description "Due to variances in atmospheric pressure, reinforced Fuel Pods were developed for harvesting gases from gas giants. Once brought to a controlled environment, the harvested gas could be refined and transferred to regular Fuel Pods for transport."
+	description "	Although this carries less fuel than a regular Fuel Pod, it has a thicker armored casing that protects against leaks."
 
 outfit "Fuel Tank"
 	category "Systems"
@@ -145,8 +157,10 @@ outfit "Fuel Tank (Reinforced)"
 	"mass" 10
 	"outfit space" -10
 	"fuel capacity" 100
-	"fuel protection" .1
-	description "Although this carries less fuel than a regular Fuel Tank, it has a thicker armored casing to protect against leaks."
+	"fuel protection" .12
+	"gas storage" 4
+	description "Due to variances in atmospheric pressure, reinforced Fuel Tanks were developed for harvesting gases from gas giants. Once brought to a controlled environment, the harvested gas could be refined and transferred to regular Fuel Tanks for transport."
+	description "	Although this carries less fuel than a regular Fuel Tank, it has a thicker armored casing that protects against leaks."
 
 
 
@@ -210,7 +224,7 @@ outfit "Limit Breaker"
 	"mass" 1
 	"outfit space" -1
 	"threshold percentage" 0.01
-	description `This outfit is sometimes referred to as the "Berserker Circuit" after the first ship it was used in. Many consider the development of this device a reckless attempt to push a ship's combat abilities to its maximum limits. But installing a Limit Breaker on your ship does allow it to keep functioning well past the point that it would be disabled due to internal safety mechanisms shutting your systems down.`
+	description `This outfit is sometimes referred to as the "Berserker Circuit" after the first ship it was used in. Many consider the development of this device a reckless attempt to push a ship's combat abilities to its maximum limits. But installing a Limit Breaker on your ship allows it to keep functioning well past the point that it would be disabled due to internal safety mechanisms shutting your systems down.`
 	description `	However, using this isn't without risk. If your ship continues fighting a hopeless battle after it would normally be disabled, you are unlikely to be left adrift in space afterwards waiting for someone to come rescue you... Because you'd be dead.`
 	description `	Installing more than one of these outfits reduces their effectiveness as they interfere with each other as well as your ship's internal safety shutdown systems.`
 
@@ -430,6 +444,80 @@ outfit "Heavy Fusion Core"
 
 
 
+outfit "Modified nGVF-AA Fuel Cell"
+	category "Power"
+	cost 35600
+	thumbnail "outfit/modified fuel cell tiny"
+	"mass" 20
+	"outfit space" -20
+	"energy generation" 1.14
+	"heat generation" 2.09
+	"energy capacity" 400
+	description "Fuel cells have been the cheapest and most common starship power sources since the dawn of the space era. This model produces only enough power for very small or slow ships."
+	description "	This fuel cell has been modified to store some of the energy it generates. However, it is not as efficient as a standard fuel cell of the same size."
+
+outfit "Modified nGVF-BB Fuel Cell"
+	category "Power"
+	cost 48400
+	thumbnail "outfit/modified fuel cell small"
+	"mass" 30
+	"outfit space" -30
+	"energy generation" 1.805
+	"heat generation" 3.19
+	"energy capacity" 880
+	description "This is a step up from the smallest fuel cells, providing enough energy to power a few small guns in addition to your engines."
+	description "	This fuel cell has been modified to store some of the energy it generates. However, it is not as efficient as a standard fuel cell of the same size."
+
+outfit "Modified nGVF-CC Fuel Cell"
+	category "Power"
+	cost 75200
+	thumbnail "outfit/modified fuel cell medium"
+	"mass" 40
+	"outfit space" -40
+	"energy generation" 2.47
+	"heat generation" 4.18
+	"energy capacity" 1920
+	description "This is a medium-sized fuel cell, designed to be sufficient for larger civilian ships and small warships while still being more affordable than the more sophisticated generator options."
+	description "	This fuel cell has been modified to store some of the energy it generates. However, it is not as efficient as a standard fuel cell of the same size."
+
+outfit "Modified nGVF-DD Fuel Cell"
+	category "Power"
+	cost 123400
+	thumbnail "outfit/modified fuel cell large"
+	"mass" 60
+	"outfit space" -60
+	"energy generation" 3.895
+	"heat generation" 6.27
+	"energy capacity" 3120
+	description "This is a relatively large fuel cell. Other generators are available that produce more energy and fit into a smaller space, but they are much more expensive. As a result, large civilian ships that will not be frequently in combat often come equipped with these fuel cells."
+	description "	This fuel cell has been modified to store some of the energy it generates. However, it is not as efficient as a standard fuel cell of the same size."
+
+outfit "Modified nGVF-EE Fuel Cell"
+	category "Power"
+	cost 185000
+	thumbnail "outfit/modified fuel cell huge"
+	"mass" 80
+	"outfit space" -80
+	"energy generation" 5.605
+	"heat generation" 8.58
+	"energy capacity" 4600
+	description "This is the largest fuel cell available, larger than some nuclear reactors but much, much more affordable. Many captains on a tight budget are willing to put up with one of these until they can raise the money for something more efficient."
+	description "	This fuel cell has been modified to store some of the energy it generates. However, it is not as efficient as a standard fuel cell of the same size."
+
+
+
+outfit "Modified RT-I Radiothermal"
+	category "Power"
+	cost 600000
+	thumbnail "outfit/modified radiothermal"
+	"mass" 45
+	"outfit space" -45
+	"energy generation" 6.6
+	"heat generation" 27
+	"overheat damage rate" 1.0
+	description "This radiothermal generator has been modified to greatly increase its energy output. But these alterations have resulted in it producing an incredibly high amount of heat. Using this can be dangerous: if allowed to overheat it can create power surges that ignite electrical fires, causing internal damage to the ship it is installed on."
+	description "	Some claim that the technique used to make these modified radiothermals originated from stolen research data regarding one of Tarazed's failed experiments. Whenever asked about this topic, the company always denies the validity of such rumors."
+
 outfit "QT-800 Nucleovoltaic"
 	category "Power"
 	cost 1140000
@@ -604,8 +692,8 @@ outfit "Dual Mod Blaster Pistols"
 	category "Hand to Hand"
 	cost 36000
 	thumbnail "outfit/dual mod blaster pistols"
-	"capture attack" 2.4
-	"capture defense" 1.3
+	"capture attack" 2.1
+	"capture defense" 0.7
 	"unplunderable" 1
 	description "A pair of rare Modified Blaster Pistols. A person could burn through a lot of charger packs with these."
 
@@ -787,9 +875,9 @@ outfit "Alien Torture Device"
 	category "Hand to Hand"
 	cost 250000
 	thumbnail "outfit/alien torture device"
-	"capture attack" 7.8
-	"capture defense" 0.2
-	"illegal" 100000
+	"capture attack" 13
+	"capture defense" 3
+	"illegal" 700000
 	"scan brightness" 1
 	"unplunderable" 1
 	"unique" 1
@@ -804,7 +892,7 @@ outfit "Almachian Brain Maggots"
 	thumbnail "outfit/almachian brain maggots"
 	"capture attack" 13.0
 	"capture defense" 0.0
-	"illegal" 1000000
+	"illegal" 900000
 	"scan brightness" 1
 	"unplunderable" 1
 	"unique" 1
@@ -825,7 +913,7 @@ outfit "Balthazar Model"
 outfit "Biohazard Gas"
 	plural "Biohazard Gas"
 	category "Hand to Hand"
-	cost 1000000
+	cost 800000
 	thumbnail "outfit/biohazard gas"
 	"capture attack" 28
 	"capture defense" 8
@@ -1000,7 +1088,7 @@ outfit "Guncraft VIII"
 	"capture defense" 3.7
 	"operating costs" 1600
 	"energy consumption" 0.01
-	"illegal" 1000000
+	"illegal" 600000
 	"scan brightness" 1
 	"unplunderable" 1
 	"unique" 1
@@ -1057,9 +1145,9 @@ outfit "Microwave Cannon"
 	category "Hand to Hand"
 	cost 106000
 	thumbnail "outfit/microwave cannon"
-	"capture attack" 4.8
-	"capture defense" 3.2
-	"illegal" 1000
+	"capture attack" 6.6
+	"capture defense" 3.3
+	"illegal" 500000
 	"scan brightness" 1
 	"unplunderable" 1
 	"unique" 1

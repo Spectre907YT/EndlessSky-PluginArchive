@@ -7392,7 +7392,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### nomads
 
 
-[nomads.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/nomads.zip) | 1.99 mb | 2023-11-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/nomads/) <br>
+[nomads.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/nomads.zip) | 14.78 mb | 2024-06-10 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/nomads/) <br>
 Author: RisingLeaf | Category: Races <br>
 [https://github.com/RisingLeaf/nomads](https://github.com/RisingLeaf/nomads)  <br>
 

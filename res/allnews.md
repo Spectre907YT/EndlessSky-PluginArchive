@@ -1,3 +1,5 @@
+2024-06-26 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
+2024-06-26 | updated Plugin 'bunrodea.missions' by zuckung | [story](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#story)<br>
 2024-06-25 | updated Plugin 'Arena of the worthy' by RisingLeaf | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2024-06-25 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2024-06-24 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>

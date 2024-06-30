@@ -157,7 +157,9 @@ mission "Midnight: Add Spirit Board"
 				"Outrider" 2
 
 event "add spirit board"
-	outfitter "Pirate Outfits"
+	outfitter "Pirate Basics"
+		"Spirit Board"
+	outfitter "Pirate Advanced"
 		"Spirit Board"
 
 
@@ -539,6 +541,7 @@ ship Vanguard "Vanguard (Author's Revenge)"
 	"never disabled"
 	attributes
 		category "Heavy Warship"
+		"cost" 7200000
 		"shields" 20000
 		"hull" 8000
 		"automaton" 1

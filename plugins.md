@@ -7910,7 +7910,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### The Jump Gate Project
 
 
-[The.Jump.Gate.Project.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/The.Jump.Gate.Project.zip) | 3.18 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/The%20Jump%20Gate%20Project/) <br>
+[The.Jump.Gate.Project.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/The.Jump.Gate.Project.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/The%20Jump%20Gate%20Project/) <br>
 Author: N/A | Category: Races <br>
 N/A[]()  <br>
 

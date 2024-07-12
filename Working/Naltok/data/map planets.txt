@@ -1,9 +1,3 @@
-planet Arcadia
-	attributes uninhabited
-	landscape land/fields15
-	description "This planet is home to an incredible diversity of plant and fungal life, but no animal life whatsoever. The forests, plains, skies and seas alike are all perfectly still, a silence broken only by the occasional breeze."
-	description "At certain times of year the wormhole is visible in the night sky, an eerie eye staring down at the silent planet below."
-
 planet Cherexot
 	attributes uninhabited
 	landscape land/lava2
@@ -148,8 +142,10 @@ planet Ruxanguv
 	description "This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots."
 	description "Before the rebellion of the Xochira, this was the headquarters of the Ministry of War. Their disorganised movement to the north following a rout at the hands of the Grand Admiral and his fleet was instrumental in delaying any Telashki counterattack."
 	spaceport "The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships."
-	outfitter "Naltok Ammo"
-	outfitter "Xochira Ammo"
+	outfitter "Naltok Intermediate"
+	outfitter "Xochira Advanced"
+	shipyard "Naltok Military Intermediate"
+	shipyard "Xochira Intermediate"
 	"required reputation" 25
 
 planet Shajoli
@@ -220,15 +216,6 @@ planet "Vokegol Observatory"
 	description "This station, operated jointly by representatives of the Telashki and the Xochira, exists to monitor the two white dwarves at the center of this system. Once the cores of stars slightly larger than the sun, the two have been gradually spiralling closer and closer for millions of years. When they collide, they will erupt in a powerful supernova explosion, destroying everything in the system and unleashing deadly radiation for hundreds of light years in every direction."
 	spaceport "Wherever you go in the spaceport, there is always at least one timer in sight, counting down the seconds until the system erupts in a violent supernova."
 	"required reputation" 50
-
-planet "Wormhole Naltok"
-	description ""
-	wormhole "Wormhole Naltok"
-
-wormhole "Wormhole Naltok"
-	mappable
-	link Amansinaya 73-Che-Ja
-	link 73-Che-Ja Amansinaya
 
 planet Xejolki
 	attributes naltok research

@@ -1709,9 +1709,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/galactic.capital.investment/icon.png' height='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 690.27 kb | 2024-06-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
+[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 690.28 kb | 2024-07-13 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-06-07) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-07-13) <br>
 
 >Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 100 million credits. See the readme for details.
 >(inspired by a-alhusaini's investment bank plugin)
@@ -1721,22 +1721,38 @@ Author: zuckung | Category: Gameplay <br>
 <blockquote>### galactic.capital.investment <br>
 <br>
 Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 1000 million credits.<br>
-(inspired by a-alhusaini's investment bank plugin)<br>
 <br>
-There are missions for 1 million, 5 million, 10 million, 50 million, 100 million and 1 billion credits. The chance for the jobs to appear on the job board getting lower with the amount to invest. Unfortunately you have to take off and land again on the same planet to clear the mission marker.<br>
+There are missions for 1 million, 5 million, 10 million, 50 million, 100 million and 1 billion credits. The chance for the jobs to appear on the job board getting lower with the amount to invest.<br>
 At 1 billion credits a longer mission chain starts and enables a reapeatable job board investment of 1 billion credits. The chain has some breaks and finish after a year.<br>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/galactic.capital.investment01.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/galactic.capital.investment02.jpg' width='400'>
 <br>
 1 million = 600 credits daily (60% chance)<br>
-5 million = 3.400 credits daily (50% chance)<br>
-10 million = 7.200 credits daily (40% chance)<br>
-50 million = 37.000 credits daily (30% chance)<br>
-100 million = 76.100 credits daily (20% chance)<br>
+5 million = 3,400 credits daily (50% chance)<br>
+10 million = 7,200 credits daily (40% chance)<br>
+50 million = 37,000 credits daily (30% chance)<br>
+100 million = 76,100 credits daily (20% chance)<br>
 1 billion = 2 million credits daily (2% chance)<br>
 <br>
-These investments pay off after 2,3 to 4,5 years. Higher Investments pay off faster.<br>
+These investments pay off after 2.3 to 4.5 years. Higher investments pay off faster.<br>
 <br>
 <br>
 Changelog:<br>
+<br>
+2024-07-13<br>
+removed the need to land on the same planet after accepting an investment job<br>
+text corrections<br>
+<br>
+2024-06-07<br>
+text corrections (thx to TheGiraffe3)<br>
+<br>
+2024-04-05<br>
+removed duplicate pngs<br>
+resized land jpg<br>
+<br>
+2024-03-31<br>
+fixed some errors<br>
+changed scene pngs to jpg<br>
 <br>
 2024-03-20<br>
 changed icon<br>
@@ -1749,8 +1765,9 @@ added a new rare repeatable job after the colonization chain<br>
 added plugin.txt<br>
 <br>
 2023-08-25<br>
-added pirate planets as mission source
-moved investment missions from spaceport mission to job board
+added pirate planets as mission source<br>
+moved investment missions from spaceport mission to job board<br>
+
 </blockquote>
 </details>
 
@@ -13175,9 +13192,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/real.fluff/icon.png' height='100'></img><br>
 
 
-[real.fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/real.fluff.zip) | 1.74 mb | 2024-06-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/real.fluff/) <br>
+[real.fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/real.fluff.zip) | 1.82 mb | 2024-07-13 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/real.fluff/) <br>
 Author: zuckung | Category: Story <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-06-07) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-07-13) <br>
 
 >A bunch of side missions which reward unique fluffy pets. See the readme for details.
 >
@@ -13189,21 +13206,55 @@ Author: zuckung | Category: Story <br>
 <br>
 A bunch of side missions which reward unique pets. <br>
 <br>
-Lore-friendly, total useless, but cute pet outfits, with storylines. All missions have a 10% chance of appearing, except alien mission which has  100%.<br>
+Lore-friendly, totally useless, but cute pet outfits, with storylines. All missions have a 20% chance of appearing, except alien mission which has 100%.<br>
 <ul>
 <li>Alien - land somewhere in human space, hidden destination is Danoa system</li>
-<li>Ferret - mission found on Bivrost</li>
-<li>Hamster - mission found on Twinstar</li>
-<li>Koala - mission found on New Portland</li>
-<li>Ocelot - mission found on Farpoint</li>
-<li>Rabbit - mission found on Starcross</li>
-<li>Raccoon - mission found on Foundry </li>
-<li>Squirrel - mission found on Heartvalley (Hai space)</li>
+<li>Cat - mission found on Deadman's Cove (Almach)</li>
+<li>Ferret - mission found on Bivrost (Markeb)</li>
+<li>Hamster - mission found on Twinstar (Alniyat)</li>
+<li>Koala - mission found on New Portland (Delta Sagittarii)</li>
+<li>Ocelot - mission found on Farpoint (Alnitak) needs 1000 combat rating</li>
+<li>Rabbit - mission found on Starcross (Acrux)</li>
+<li>Raccoon - mission found on Foundry (Achernar)</li>
+<li>Squirrel - mission found on Heartvalley (Io Lowe, Hai space)</li>
 </ul>
-<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/myplugins/real.fluff/screenshot.jpg' width='400'>
+After collecting them all, you get a mission (20%) with unique rewards.<br>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/real.fluff01.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/real.fluff02.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/real.fluff03.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/real.fluff04.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/screenshots/real.fluff05.jpg' width='400'>
 <br>
 <br>
 Changelog:<br>
+<br>
+2024-07-13<br>
+changed nostromo from the alien mission to a bigger ship (as criticized by timeout.fu)<br>
+added four mission screenshots<br>
+<br>
+2024-06-07<br>
+text corrections (thx to TheGiraffe3)<br>
+<br>
+2024-04-21<br>
+changed size of alien.png to prevent error.txt mentioning<br>
+added 4 more scene images<br>
+<br>
+2024-03-13<br>
+added the choice to defer missions<br>
+added the choice to take a pet or not(doesnt influence the final mission)<br>
+<br>
+2024-03-31<br>
+new category pets<br>
+gave puny an image and added to pets<br>
+a new missions, after collecting all pets, with a unique reward<br>
+converted scene pngs to jpg<br>
+minor tweaks<br>
+<br>
+2024-03-15<br>
+bugfixes<br>
+added cat mission<br>
+added 4 new scene images<br>
+changed images to ai generated<br>
 <br>
 2023-10-17<br>
 added plugin.txt<br>
@@ -13223,6 +13274,7 @@ added hamster mission<br>
 added squirrel mission chain<br>
 added 5 pet outfits with images<br>
 initial release<br>
+
 </blockquote>
 </details>
 

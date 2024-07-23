@@ -1461,7 +1461,7 @@ system Thoreklin
 	link Kuragu
 	link Nixelog
 	asteroids "small metal" 1 1.386
-	minables yottrite 2 4.1
+	minables yottrite 3 4.1
 	fleet "Small Naltok Merchant" 60000
 	fleet "Quarg Miners (Naltok)" 7200
 	object
@@ -1495,7 +1495,7 @@ system Thoreklin
 system Kuragu
 	pos -1135 -373
 	government "Quarg (Naltok)"
-	attributes ringworld
+	attributes "ringworld"
 	arrival 700
 	departure 1000
 	habitable 700

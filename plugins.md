@@ -4509,9 +4509,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Zoura%27s Outfits Expanded/icon.png' height='100'></img><br>
 
 
-[Zoura.s.Outfits.Expanded.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Zoura.s.Outfits.Expanded.zip) | 2.03 mb | 2024-07-22 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Zoura's%20Outfits%20Expanded/) <br>
+[Zoura.s.Outfits.Expanded.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Zoura.s.Outfits.Expanded.zip) | 2.03 mb | 2024-08-20 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Zoura's%20Outfits%20Expanded/) <br>
 Author: Zoura | Category: Outfits <br>
-[https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded) (last commit 2024-07-22) <br>
+[https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded](https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded) (last commit 2024-08-20) <br>
 
 >Expands outfit variety across all castes of vanilla Endless Sky.
 
@@ -4519,7 +4519,7 @@ Author: Zoura | Category: Outfits <br>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote># Zoura's Outfits Expanded
 
-This plugin aims to greatly expand outfit variety across all of Endless Sky; at the moment, every subfaction (except for the Quarg, Pug, and Drak) has received at least one outfit, though most have received more than that.
+This plugin aims to greatly expand outfit variety across all of Endless Sky; at the moment, every subfaction (except for the Quarg, T3 Pug, and Drak) has received at least one outfit, though most have received more than that.
 Also of note is that care has been made to ensure that outfits are all accessible by at least one means through normal, otherwise-vanilla gameplay (for example, Korath and Gegno outfits can be obtained by looting/capping, Human and Hai outfits via outfitters, et cetera).
 The mod also features support for Darcy Manoel's Omnis as well, for those who'd like to cheat- I mean, play around with the outfits in an easily accessible environment.
 
@@ -4527,6 +4527,7 @@ The primary goal of this plugin is to increase the variety in vanilla's weapon a
 
 The above said, if something seems a bit too over/underpowered, please don't hesitate to give me a shout, either here on the github (through an issue or a PR of your own) or on discord @zoura3025 (I can also be found on the Endless Sky discord).
 This plugin is also accepting community contributions! If you have an outfit you'd like to see implemented in this plugin's (lack of) style, please don't be afraid to drop an issue or PR.
+
 </blockquote>
 </details>
 

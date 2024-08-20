@@ -1,0 +1,30 @@
+outfit "Socket Reactor Core"
+	category "Power"
+	cost 298000
+	thumbnail "outfit/large reactor module"
+	"mass" 23
+	"outfit space" -53
+	"tower slots" 6
+	description "Mixing borrowed human designs with Coalition design philosophies, the Lunarium has started producing these modular reactor setups to give their ships the necessary energy to run all of their systems. The reactor core by itself provides little practical benefit, instead serving as the nerve center for the safe operation of the attached towers."
+
+outfit "Socket Reactor Tower"
+	category "Power"
+	cost 6125000
+	thumbnail "outfit/small reactor module"
+	"mass" 39
+	"outfit space" -34
+	"tower slots" -1
+	"energy generation" 13.6
+	"heat generation" 54.4
+	description "This early power generation system uses extreme heat to condense as much performance into as small a space as possible. It is unfortunately bogged down by needing to be attached to a reactor core, but it makes up for that by its sheer power."
+
+outfit "Socket Cooling Tower"
+	category "Power"
+	cost 5020000
+	thumbnail "outfit/small reactor module"
+	"mass" 36
+	"outfit space" -31
+	"tower slots" -1
+	"heat generation" -48
+	"cooling" 60
+	description "To moderate the energy and heat output of their reactor towers, the Lunarium have developed these extremely efficient cooling units. Their tight binds to the ship's generators also means they partially resist the effects of cooling inefficiencies."

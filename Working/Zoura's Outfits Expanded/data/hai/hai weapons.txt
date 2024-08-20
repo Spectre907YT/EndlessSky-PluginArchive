@@ -50,7 +50,7 @@ outfit "Charge Gas Sprayer"
 		"firing heat" 1.2
 		"shield damage" -0.4
 		"ion damage" -0.1
-	description `Charge Gas was developed by the Hai during their war with the Korath as an inexpensive way to force Korath raiding ships into unfavourable combat conditions. The basic principle is simple: an easily producible, stable gas that holds an ionizing charge for long periods of time, deployed in broad sweeps to inhibit enemy movement. When dispensed from a fast moving platform like a Lightning Bug, it becomes a very effective crowd-control tool.`
+	description `Charge Gas was developed by the Hai during their war with the Korath as an inexpensive way to force Korath raiding ships into unfavourable combat conditions. The basic principle is simple: an easily producible, stable gas that holds an ionizing charge for long periods of time, deployed in broad sweeps to inhibit enemy movement. When dispensed from a fast-moving platform like a Lightning Bug, it becomes a very effective crowd-control tool.`
 	description `	The Charge Gas storage, containment, and deployment network has some curious properties as well. In particular, stored charge gas can act as a reserve ion sink; a small amount of gas can't noticeably dissipate much, but a full tank will quickly absorb any ionization affecting a ship. Additionally, if not allowed to spread out and set properly, the Charge Gas won't be as effective against enemies.`
 	
 outfit "Charge Gas Spray"
@@ -69,9 +69,8 @@ outfit "Charge Gas Spray"
 		"drag" 0.04
 		"shield damage" 1.1
 		"hull damage" .2
-		"ion damage" 0.25
-		"scrambling damage" 0.1
-		"slowing damage" 0.05
+		"ion damage" 0.15
+		"scrambling damage" 0.03
 		"trigger radius" 10
 		"blast radius" 15
 		"no damage scaling"
@@ -106,4 +105,4 @@ outfit "Uromastyx Missile Compensator"
 		"firing heat" 23
 		"firing shields" -21
 		"stream"
-	description "Missile Compensators are a relatively new type of anti-missile by Hai standards, incorporating shield generation technology into a point defense system. Each shot from the Uromastyx drains extra energy (even compared to a Chameleon Anti-Missile), but provides power to the integrated shield generator, making a ship more surviveable when put under heavy bombardment."
+	description "Missile compensators are a relatively new type of anti-missile by Hai standards, incorporating shield generation technology into a point defense system. Each shot from the Uromastyx drains extra energy (even compared to a Chameleon anti-missile), but provides power to its integrated shield generator, making a ship more durable when put under heavy bombardment."

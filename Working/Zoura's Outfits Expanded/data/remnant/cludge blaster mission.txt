@@ -1,14 +1,17 @@
 mission "Remnant Cludge Blaster Sale"
+	name "Cludge Blasters for Sale"
+	description "A Remnant Captain appears to be leading a cart of Cludge Blasters somewhere."
 	repeat
+	job
 	source
 		government "Remnant"
 	to offer
 		random > 49
 		has "license: Remnant"
-		"credits" >= 15000000
-	on offer
+		"credits" >= 1500000
+	on accept
 		conversation
-			`As you walk around the spaceport, you notice a few of the Remnant hauling a sled around with what appears to be a variety of modified weapons. Do you want to investigate?`
+			`As you browse the available jobs, you notice a few of the Remnant hauling a sled around with what appears to be a variety of modified weapons. Do you want to investigate?`
 			choice
 				`	(Yes.)`
 				`	(No.)`
@@ -30,10 +33,10 @@ mission "Remnant Cludge Blaster Sale"
 					decline
 					
 			label sale
-			`	"I'm sure you'll find the modifications fulfill roles not easily found in smaller weapons," the leading Remnant replies. "For you, we will give four for a million credits. Is that acceptable?" he asks.`
+			`	"I'm sure you'll find the modifications fulfil roles not easily found in smaller weapons," the leading Remnant replies. "For you, we will give four for a million credits. Is that acceptable?"`
 			choice
 				`	"Sounds like a fair deal."`
-				`	"If it'll support the Remnant's future, I might as well."`
+				`	"If it'll support the future of the Remnant, I might as well."`
 				`	"That's a bit outside my price range right now."`
 					decline
 				
@@ -86,4 +89,3 @@ mission "Remnant Cludge Blaster Sale"
 				outfit "Cludge Blaster (Heavy)" 1
 				outfit "Cludge Blaster Turret (Defense)" 1
 			`	The lead Remnant gives you a warm smile as the modified weapons are secured on your ship. "Thank you for your business," he says softly. "My students will be very happy."`
-				decline

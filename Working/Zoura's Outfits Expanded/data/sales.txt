@@ -13,6 +13,14 @@ shipyard "bunrodea"
 	"Chigiriki (Super Turret)"
 
 outfitter "gegno"
+	"Praeparit Punt"
+	"Praeparit Cell"
+	"Praeparit Storage Bank"
+	"Irate Cannon (Magnum)"
+	"Irate Turret (Magnum)"
+	"Choleric Cannon (Magnetized)"
+	"Ballistic Cannon (Shot)"
+	"Ballistic Turret (Shot)"
 	"Persistence Lathe"
 	"Armor Backfill"
 	"Halite Shield Matrix"
@@ -27,6 +35,7 @@ outfitter "hai"
 	"Charge Gas Storage Tank"
 	"Charge Gas Sprayer"
 	"Charge Gas Grenadier"
+	"Charge Barrage Turret"
 	"Block Flux Reactor"
 	"Brick Flux Core"
 	"Hai Quartz Regenerator"
@@ -34,6 +43,14 @@ outfitter "hai"
 	"Hai Vibrissae Shield Buffer"
 	"Hai Pelage Shield Buffer"
 	"Uromastyx Missile Compensator"
+	`"Ceidille" Labor Thruster`
+	`"Ceudore" Labor Thruster`
+	`"Ciatelle" Labor Thruster`
+	`"Cuateure" Labor Thruster`
+	`"Ceidille" Labor Steering`
+	`"Ceudore" Labor Steering`
+	`"Ciatelle" Labor Steering`
+	`"Cuateure" Labor Steering`
 	
 outfitter "human"
 	"Burst Scatter III"
@@ -132,6 +149,9 @@ outfitter "coalition"
 	"Clip-On Outfit Pod"
 	"Clip-On Cargo Pod"
 	"Clip-On Transport Pod"
+	"Socket Reactor Core"
+	"Socket Reactor Tower"
+	"Socket Cooling Tower"
 	"Small Afterburner Module"
 	"Large Afterburner Module"
 

@@ -124,7 +124,7 @@ Gungnir|2020-05-22
 Gyroscopes|2020-10-23
 H2H Outfits|2018-09-17
 Hauler Expansion|2020-09-27
-High DPI|2024-08-24
+High DPI|2024-09-14
 Hilo2000 Arena|2023-12-27
 HONK|2017-09-14
 Human Space Overhaul|2022-10-31
@@ -177,7 +177,7 @@ More Ships Plugin|2020-05-31
 more.boarding.missions|2024-05-08
 MultiTech Extra Light|2017-05-13
 Naltok|2024-08-21
-Navy Campaign|2024-02-01
+Navy Campaign|2024-09-14
 Navy Conscript|2018-09-18
 New Droid Regime|2017-11-13
 New Sky|2022-01-21

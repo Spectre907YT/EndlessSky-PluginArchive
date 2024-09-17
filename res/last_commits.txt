@@ -177,7 +177,7 @@ More Ships Plugin|2020-05-31
 more.boarding.missions|2024-05-08
 MultiTech Extra Light|2017-05-13
 Naltok|2024-08-21
-Navy Campaign|2024-09-16
+Navy Campaign|2024-09-17
 Navy Conscript|2018-09-18
 New Droid Regime|2017-11-13
 New Sky|2022-01-21
@@ -283,7 +283,7 @@ WandererStart|2022-05-08
 Weapon Ranges|2023-05-18
 West Iron|2016-12-17
 What a Wonderful World-Ship|2019-09-03
-World Forge|2024-04-19
+World Forge|2024-09-17
 X-70B Phantom|2020-06-17
 Yokoyama|2020-01-07
 ZES Global|2021-01-29

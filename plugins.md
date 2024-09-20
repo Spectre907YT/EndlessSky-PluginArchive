@@ -12889,9 +12889,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Navy Campaign
 
 
-[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.37 mb | 2024-09-19 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
+[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.37 mb | 2024-09-20 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
 Author: kestrel1110 | Category: Story <br>
-[https://github.com/kestrel1110/Navy-Campaign](https://github.com/kestrel1110/Navy-Campaign) (last commit 2024-09-19) <br>
+[https://github.com/kestrel1110/Navy-Campaign](https://github.com/kestrel1110/Navy-Campaign) (last commit 2024-09-20) <br>
 
 >My Navy campaign which I hope to get implemented when finished.
 >

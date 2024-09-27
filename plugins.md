@@ -9869,7 +9869,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Penthrower
 
 
-[Penthrower.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Penthrower.zip) | 226.43 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Penthrower/) <br>
+[Penthrower.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Penthrower.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Penthrower/) <br>
 Author: 1010Todd | Category: Ships <br>
 N/A[]()  <br>
 
@@ -14071,7 +14071,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Better Thunderhead Lance
 
 
-[Better.Thunderhead.Lance.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Better.Thunderhead.Lance.zip) | 281.27 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Better%20Thunderhead%20Lance/) <br>
+[Better.Thunderhead.Lance.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Better.Thunderhead.Lance.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Better%20Thunderhead%20Lance/) <br>
 Author: BCPowerhouse | Category: Weapons <br>
 N/A[]()  <br>
 

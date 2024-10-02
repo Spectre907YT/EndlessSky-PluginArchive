@@ -1,4 +1,4 @@
--Omnis|2024-09-29
+-Omnis|2024-10-02
 40k Pack|2023-03-29
 A Galaxy Far Far Away|2021-11-06
 Adamas Project|2023-07-05
@@ -177,7 +177,7 @@ More Ships Plugin|2020-05-31
 more.boarding.missions|2024-05-08
 MultiTech Extra Light|2017-05-13
 Naltok|2024-09-29
-Navy Campaign|2024-09-23
+Navy Campaign|2024-10-02
 Navy Conscript|2018-09-18
 New Droid Regime|2017-11-13
 New Sky|2022-01-21
@@ -218,7 +218,7 @@ Rymeilema Skylark II|2020-02-17
 Rymeilema Skylark|2019-10-23
 Sarcina|2018-12-25
 Sci-Fi Flavours|2022-11-06
-sensor|2024-10-01
+sensor|2024-10-02
 Sestor-Expansion|2023-05-05
 sheragi-rebirth|2023-04-02
 Shields Up|2016-08-25

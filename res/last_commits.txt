@@ -57,7 +57,7 @@ Cognitive Subdivision|2018-07-29
 Colorado|2018-04-30
 Colorful Void Sprites|2021-02-21
 Conscience Plugin|2023-03-04
-Core Mining Inc|2022-03-11
+Core Mining Inc|2024-10-03
 Costly Drives|2020-04-26
 COTSA|2016-08-17
 Cromha Expansion|2024-03-16
@@ -177,7 +177,7 @@ More Ships Plugin|2020-05-31
 more.boarding.missions|2024-05-08
 MultiTech Extra Light|2017-05-13
 Naltok|2024-09-29
-Navy Campaign|2024-10-02
+Navy Campaign|2024-10-03
 Navy Conscript|2018-09-18
 New Droid Regime|2017-11-13
 New Sky|2022-01-21

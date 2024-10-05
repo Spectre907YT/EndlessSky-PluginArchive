@@ -2928,9 +2928,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/High DPI/icon.png' height='100'></img><br>
 
 
-[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 600.28 mb | 2024-09-28 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
+[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 600.29 mb | 2024-10-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
 Author: Michael Zahniser (Maintained by the ES Community) | Category: Graphics <br>
-[https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi) (last commit 2024-09-28) <br>
+[https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi) (last commit 2024-10-05) <br>
 
 >Official High-DPI graphics for Endless Sky.
 >
@@ -12895,9 +12895,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Navy Campaign
 
 
-[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.38 mb | 2024-10-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
+[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.38 mb | 2024-10-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
 Author: kestrel1110 | Category: Story <br>
-[https://github.com/kestrel1110/Navy-Campaign](https://github.com/kestrel1110/Navy-Campaign) (last commit 2024-10-04) <br>
+[https://github.com/kestrel1110/Navy-Campaign](https://github.com/kestrel1110/Navy-Campaign) (last commit 2024-10-05) <br>
 
 >My Navy campaign which I hope to get implemented when finished.
 >

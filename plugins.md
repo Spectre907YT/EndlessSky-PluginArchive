@@ -173,9 +173,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/captureable.person.ships/icon.png' height='100'></img><br>
 
 
-[captureable.person.ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/captureable.person.ships.zip) | 138.21 kb | 2024-07-14 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/captureable.person.ships/) <br>
+[captureable.person.ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/captureable.person.ships.zip) | 138.32 kb | 2024-10-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/captureable.person.ships/) <br>
 Author: zuckung | Category: Cheats <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-07-14) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-10-08) <br>
 
 >Makes person ships capturable. See the readme for details.
 >
@@ -218,6 +218,11 @@ In cap_persons.txt you find the following line under gamerules: "#	"person spawn
 <br>
 <br>
 Changelog:<br>
+<br>
+2024-10-08 <br>
+proofreading and minor text changes (Vemenous-Repentile)<br>
+changed status mission to fail on daily<br>
+changed subsidural (1 outfit space, keystone and 300 fuel)<br>
 <br>
 2024-07-14<br>
 fixed tranquility weapon space error<br>
@@ -11202,9 +11207,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Advanced Starts
 
 
-[Advanced.Starts.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Advanced.Starts.zip) | 11.72 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Advanced%20Starts/) <br>
+[Advanced.Starts.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Advanced.Starts.zip) | 23.75 kb | 2024-10-08 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Advanced%20Starts/) <br>
 Author: Kestrel1110 | Category: Story <br>
-[https://github.com/kestrel1110/ES-Advanced-Starts](https://github.com/kestrel1110/ES-Advanced-Starts) (last commit 2021-06-03) <br>
+[https://github.com/kestrel1110/ES-Advanced-Starts](https://github.com/kestrel1110/ES-Advanced-Starts) (last commit 2024-10-08) <br>
 
 >Adds more starting options.
 >

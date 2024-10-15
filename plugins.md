@@ -8430,7 +8430,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 6.34 mb | 2024-07-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
 Author: mOctave | Category: Ships <br>
-[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2024-10-14) <br>
+[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2024-10-15) <br>
 
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
 >
@@ -9615,7 +9615,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 144.54 mb | 2024-09-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
 Author: 1010todd | Category: Ships <br>
-[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2024-09-11) <br>
+[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2024-10-15) <br>
 
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
 >

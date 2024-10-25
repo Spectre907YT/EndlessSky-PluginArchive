@@ -16,7 +16,7 @@
 
 [-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.9 mb | 2024-10-24 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
 Author: Darcy Manoel | Category: Cheats <br>
-[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2024-10-24) <br>
+[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2024-10-25) <br>
 
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
 >
@@ -11073,7 +11073,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Unfettered.Innovations.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Unfettered.Innovations.zip) | 2.16 mb | 2024-03-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Unfettered%20Innovations/) <br>
 Author: Hurleveur | Category: Ships <br>
-[https://github.com/Hurleveur/unfettered-innovations](https://github.com/Hurleveur/unfettered-innovations) (last commit 2024-03-15) <br>
+[https://github.com/Hurleveur/unfettered-innovations](https://github.com/Hurleveur/unfettered-innovations) (last commit 2024-10-25) <br>
 
 >endless sky plugin for the Unfettered ships and outfits to come in the campaign
 

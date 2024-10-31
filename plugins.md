@@ -5402,9 +5402,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Galactic War/icon.png' height='100'></img><br>
 
 
-[Galactic.War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Galactic.War.zip) | 161.21 mb | 2024-09-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Galactic%20War/) <br>
+[Galactic.War.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Galactic.War.zip) | 161.21 mb | 2024-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Galactic%20War/) <br>
 Author: 1010todd | Category: Overhauls <br>
-[https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War) (last commit 2024-09-11) <br>
+[https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War) (last commit 2024-10-31) <br>
 
 >This is a massive content mod about a war in another galaxy. While no storyline exist yet there's a large galaxy to explore filled with various aliens with different advancement and specializations.
 >
@@ -5415,7 +5415,9 @@ Author: 1010todd | Category: Overhauls <br>
 This is a repository for the Endless Sky mod "Galactic War".
 The mod is currently in development stage, so many things are subject to change later on.
 
-Currently the mod requires Endless Sky version 0.9.15+ to work properly.
+Currently the mod requires Endless Sky version 0.10.3+ to work properly.
+(Only 0.10.3 feature used is the plugin.txt file really, it'll work with 0.9.15 still)
+Version above this is usually compatible as well. Endless Sky backward compatibility is exceptional so far.
 
 ![GWcap2](https://user-images.githubusercontent.com/19187937/152830096-35d610a9-1fde-46a0-b4b8-694035cab411.PNG)
 
@@ -5462,12 +5464,14 @@ Lite version: (Very Outdated)
 This version will have fewer animation frames and exclude @2x images to reduce memory required to load the plugin. Use this if you're using low end machines or 32 bit machines.
 https://mega.nz/file/8QpAAYhJ#H2vVusIAPKdlMZlzVNwTfTwzpV6tYQBsvZDXDdNhB54
 
+## Recommended
 
+This plugin have a few debug functionality and unobtainable ships which can be unlocked with Omnis cheat/developer plugin.
+
+[Link](https://github.com/EndlessSkyCommunity/-Omnis)
 
 ## Contact
-If you find any bugs/issues or have a suggestion, feel free to open an issue here or find me in Endless Sky Community discord server; https://discord.gg/ZeuASSx 
-
-I'll sometimes update development progress there in #plugin-chat.
+If you find any bugs/issues or have a suggestion, feel free to open an issue here or find me in Endless Sky Community discord server; [Link](https://discord.gg/ZeuASSx)
 
 ![GWcap3](https://user-images.githubusercontent.com/19187937/152831081-86783ac0-a228-4abd-9dd2-54952738b864.PNG)
 
@@ -6659,7 +6663,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/) <br>
 Author: Spectre907 | Category: Races <br>
-[https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion) (last commit 2024-10-23) <br>
+[https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion) (last commit 2024-10-31) <br>
 
 >Plugin that adds a bunch of interesting things, mainly some modern military planes and weapons.
 >
@@ -9622,9 +9626,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Mega Freight/icon.png' height='100'></img><br>
 
 
-[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 144.54 mb | 2024-10-16 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
+[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 144.54 mb | 2024-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
 Author: 1010todd | Category: Ships <br>
-[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2024-10-15) <br>
+[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2024-10-31) <br>
 
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
 >
@@ -9653,7 +9657,7 @@ Over 150 ships:
 * Majority of the ships with limited turret arc both for aesthetic and gameplay.
 
 And other things:
-* A few weapons and outfits. 
+* A few weapons and outfits.
 * Special jobs that gets expanded with appropriate ship (Mining, Gas shipping, Chemical shipping, Heavy lift/Crane, Cars, Salvaging, etc.)
 * Additional luxury jobs/rich passengers depending on outfits.
 * Huge jobs (Passengers, Deliveries, Escorts).
@@ -9665,8 +9669,8 @@ And other things:
 * Additional ship spawn for some story missions.
 * Orbital shipyard orbiting Mars after main plot.
 * A few stations (Nordlin, Ankulah, Yokosuka, GS1 Galaxy, Ourea, Forge, Ankaim, Titanite, Zagreus)
-* Gradual progression of the universe both dependent and independent of story missions. 
-  * Stronger pirate fleet over time and merchants upgrading their weapons to keep up. 
+* Gradual progression of the universe both dependent and independent of story missions.
+  * Stronger pirate fleet over time and merchants upgrading their weapons to keep up.
   * New ships and technologies (timed and/or locked behind story missions and locked behind jobs)
   * Factions constructing new stations.
   * Limited time events that will be resolved by governments after a while.
@@ -9674,18 +9678,19 @@ And other things:
 * Additional shipyard and outfitter to various locations.
 * Basically overhaul human space at this point.
 
-Requires Unstable Build/0.10.7 or above.
+Requires Unstable Build/0.10.9 or above.
+Version above this is usually compatible as well. Endless Sky backward compatibility is exceptional so far.
 
-# Recommended 
+# Recommended
 
 To fully utilize mining/utility fighters and drones provided with this plugin you can try Sam's Mining Complete fork of the game which allows you ~~command your ships to target mineable asteroids~~(In vanilla now) and distribute fuel among your fleet with fighters. The fork also provides other gameplay improvements and bug fixes.
 
 (Possibly outdated as of 19/07/2023)
-Link: https://github.com/samrocketman/endless-sky/releases/tag/continuous-with-plugins
+[Link](https://github.com/samrocketman/endless-sky/releases/tag/continuous-with-plugins)
 
 This plugin have a few debug functionality and unobtainable ships which can be unlocked with Omnis cheat/developer plugin.
 
-Link: https://github.com/Adde-Endless-Sky-Mods/-Omnis
+[Link](https://github.com/EndlessSkyCommunity/-Omnis)
 
 # Download
 
@@ -12449,9 +12454,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Lemurias Extra ES Stuff/icon.png' height='100'></img><br>
 
 
-[Lemurias.Extra.ES.Stuff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 13.62 mb | 2024-10-19 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/) <br>
+[Lemurias.Extra.ES.Stuff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 13.62 mb | 2024-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/) <br>
 Author: a-random-lemurian | Category: Story <br>
-[https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff) (last commit 2024-10-19) <br>
+[https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff) (last commit 2024-10-31) <br>
 
 >It adds so much new content to the game that it cannot be listed in this README
 >
@@ -14904,7 +14909,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Arion - Air Superiority/icon.png' height='100'></img><br>
 
 
-[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 3.73 mb | 2024-10-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
+[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 3.83 mb | 2024-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
 Author: N/A | Category: Uncategorized <br>
 N/A[]()  <br>
 

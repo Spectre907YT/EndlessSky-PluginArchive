@@ -2045,9 +2045,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/kor.efret.shipyard/icon.png' height='100'></img><br>
 
 
-[kor.efret.shipyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/kor.efret.shipyard.zip) | 29.83 kb | 2024-10-29 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/kor.efret.shipyard/) <br>
+[kor.efret.shipyard.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/kor.efret.shipyard.zip) | 29.96 kb | 2024-11-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/kor.efret.shipyard/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-10-29) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2024-11-04) <br>
 
 >Adds a shipyard with the three Kor Efret ships to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships and some Korath Exiles outfits. See the readme for details.
 
@@ -2068,6 +2068,14 @@ Available ships:<br>
 <br>
 Available outfits:<br>
 <ul>
+<li>"Cluster Mine Rack"</li>
+<li>"Cluster Mine"</li>
+<li>"Piercer Missile Rack"</li>
+<li>"Piercer Missile"</li>
+<li>"Firestorm Torpedo Rack"</li>
+<li>"Firestorm Torpedo"</li>
+<li>"Firelight Storage Rack"</li>
+<li>"Firelight Missile"</li>
 <li>Digger Mining Beam</li>
 <li>Banisher Grav-Turret</li>
 <li>Warder Anti-Missile</li>
@@ -2119,6 +2127,9 @@ Available outfits:<br>
 <br>
 <br>
 Changelog:<br>
+<br>
+2024-11-04<br>
+added korath ammunition (thx to MeretiJane)<br>
 <br>
 2024-10-29<br>
 added System Core (Tiny), (thx timeout.fu)<br>
@@ -8444,9 +8455,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Blended Ships/icon.png' height='100'></img><br>
 
 
-[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 7.35 mb | 2024-10-16 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
+[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 7.35 mb | 2024-11-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
 Author: mOctave | Category: Ships <br>
-[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2024-10-15) <br>
+[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2024-11-04) <br>
 
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
 >

@@ -14,9 +14,9 @@
 ### -Omnis
 
 
-[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.9 mb | 2024-10-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
+[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.9 mb | 2024-11-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
 Author: Darcy Manoel | Category: Cheats <br>
-[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2024-10-27) <br>
+[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2024-11-05) <br>
 
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
 >
@@ -6677,7 +6677,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Arion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion/) <br>
 Author: Spectre907 | Category: Races <br>
-[https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion) (last commit 2024-10-31) <br>
+[https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion) (last commit 2024-11-05) <br>
 
 >Plugin that adds a bunch of interesting things, mainly some modern military planes and weapons.
 >
@@ -7457,9 +7457,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Naltok
 
 
-[Naltok.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Naltok.zip) | 1.95 mb | 2024-10-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Naltok/) <br>
+[Naltok.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Naltok.zip) | 1.95 mb | 2024-11-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Naltok/) <br>
 Author: Quantumshark | Category: Races <br>
-[https://github.com/Quantumshark/ES-Naltok](https://github.com/Quantumshark/ES-Naltok) (last commit 2024-10-04) <br>
+[https://github.com/Quantumshark/ES-Naltok](https://github.com/Quantumshark/ES-Naltok) (last commit 2024-11-05) <br>
 
 >A new tier 1.5 alien species, the amphibious Naltok. 
 
@@ -14924,7 +14924,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Arion - Air Superiority/icon.png' height='100'></img><br>
 
 
-[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 3.83 mb | 2024-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
+[Arion.-.Air.Superiority.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Arion.-.Air.Superiority.zip) | 3.78 mb | 2024-11-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Arion%20-%20Air%20Superiority/) <br>
 Author: N/A | Category: Uncategorized <br>
 N/A[]()  <br>
 

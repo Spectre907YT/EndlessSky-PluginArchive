@@ -1,4 +1,4 @@
--Omnis|2024-11-10
+-Omnis|2024-11-26
 40k Pack|2023-03-29
 A Galaxy Far Far Away|2021-11-06
 Adamas Project|2023-07-05
@@ -132,7 +132,6 @@ IJN Yamato|2023-10-31
 Improved Ship Integrity|2019-01-16
 Incendiary Grenades|2020-09-06
 Investment Bank|2021-10-13
-Jaling Expansion|2018-03-04
 Kaynz|2017-09-22
 Kestrel Rework|2022-04-15
 Kinetic Weaponry|2022-08-02

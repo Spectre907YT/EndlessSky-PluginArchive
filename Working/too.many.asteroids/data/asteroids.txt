@@ -1,5 +1,5 @@
-# number of systems: 552
-# number of asteroid entries: 2654
+# number of systems: 699
+# number of asteroid entries: 3149
 
 system "1 Axis"
 	remove asteroids "small rock"
@@ -177,6 +177,13 @@ system "9 Spring Above"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Aaura-Kaska
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Ablodab
 	remove asteroids "small rock"
 	remove asteroids "large rock"
@@ -191,6 +198,14 @@ system Ablub
 	remove asteroids "large metal"
 
 system Acamar
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Acapella
+	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
@@ -306,6 +321,13 @@ system "Aik Kamgatake"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Aileron
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Aki'il
 	remove asteroids "large metal"
 	remove asteroids "large rock"
@@ -329,6 +351,8 @@ system "Al Dhanab"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system "Al Hurr"
 
 system Albaldah
 	remove asteroids "small rock"
@@ -512,6 +536,10 @@ system Alpheratz
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Alpherg
+	remove asteroids "medium rock"
+	remove asteroids "small metal"
+
 system Altair
 	remove asteroids "large metal"
 
@@ -519,6 +547,13 @@ system Aludra
 	remove asteroids "small rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Anax
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
 system Anbrim
@@ -565,9 +600,39 @@ system Antevorta
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Anthem
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Ap'arak
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Apeiron
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Ar-40
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Arche
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -588,6 +653,9 @@ system Arneb
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system As-75
+	remove asteroids "small rock"
 
 system Ascella
 	remove asteroids "small rock"
@@ -635,6 +703,8 @@ system Auhru
 	remove asteroids "small metal"
 	remove asteroids "large metal"
 
+system Avasaa-Novaa
+
 system Avior
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -649,6 +719,13 @@ system "Avo Chigo"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Axiom
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Aya'k'k
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -657,6 +734,21 @@ system Aya'k'k
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system B-11
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
+system Ballad
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Be-9
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+
 system Beginning
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -664,6 +756,12 @@ system Beginning
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system Belenos
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 
 system Bellatrix
 	remove asteroids "small rock"
@@ -705,6 +803,9 @@ system Betelgeuse
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Billow
 	remove asteroids "large metal"
 
 system Bloptab
@@ -761,6 +862,12 @@ system "Bote Asu"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Br-80
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
 system "Bright Void"
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -783,6 +890,16 @@ system "Bunri Lemeta"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system C-12
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
+system Ca-40
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
 system Caeculus
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -791,7 +908,17 @@ system Caeculus
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Caesura
+
 system Canopus
+	remove asteroids "large metal"
+
+system Cantata
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
 system Capella
@@ -871,6 +998,9 @@ system Chirr'ay'akai
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Chorale
+	remove asteroids "large metal"
+
 system Chornifath
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -886,7 +1016,34 @@ system Chy'chra
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Chyyra-Osolaa
+	remove asteroids "large rock"
+	remove asteroids "small rock"
+
 system Cinxia
+
+system Citadelle
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Cl-35
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
+system Clepsydra
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Clip
+	remove asteroids "large metal"
 
 system Coluber
 	remove asteroids "small rock"
@@ -904,6 +1061,12 @@ system Companion
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Concerto
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
 system Convector
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -912,6 +1075,13 @@ system Convector
 
 system "Cor Caroli"
 	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Corporeal
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
@@ -930,6 +1100,32 @@ system Cshudlye
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system "Cura Dic"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+
+system Current
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Currus
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
+system Cusp
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -972,6 +1168,8 @@ system "Dark Hills"
 
 system Debrugt
 	remove asteroids "large metal"
+
+system Decet
 
 system "Deep Space 19K12"
 	remove asteroids "small rock"
@@ -1083,6 +1281,11 @@ system "Delta Velorum"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Demilude
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
 system Deneb
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1107,12 +1310,6 @@ system Devil-Hide
 	remove asteroids "large metal"
 
 system Devil-Run
-	remove asteroids "small rock"
-	remove asteroids "medium rock"
-	remove asteroids "large rock"
-	remove asteroids "small metal"
-	remove asteroids "medium metal"
-	remove asteroids "large metal"
 
 system Diespiter
 	remove asteroids "small rock"
@@ -1146,6 +1343,11 @@ system Dokdobaru
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Dom'us
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+
 system Dschubba
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1168,6 +1370,8 @@ system "Due Yoot"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Duet
+
 system Durax
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1177,11 +1381,9 @@ system Durax
 	remove asteroids "large metal"
 
 system E-4183
-	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
-	remove asteroids "large metal"
 
 system E-9182
 	remove asteroids "large rock"
@@ -1292,6 +1494,12 @@ system Empeles
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Empyrean
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
 system Eneremprukt
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -1313,6 +1521,9 @@ system Enif
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Ensemble
+	remove asteroids "large metal"
+
 system Eogho
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -1321,6 +1532,14 @@ system Eogho
 	remove asteroids "large metal"
 
 system "Epsilon Leonis"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Equus
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -1379,7 +1598,20 @@ system Esix
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 
+system "Eta Carinae"
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
 system Eteron
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Evanescence
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -1391,6 +1623,12 @@ system Evrae
 	remove asteroids "small rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system F-19
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -1500,10 +1738,22 @@ system Fingol
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Firmament
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "medium metal"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
 system Flugbu
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Flutter
+	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -1531,6 +1781,12 @@ system "Four Pillars"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Frenzy
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Fscher
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1538,6 +1794,9 @@ system Fscher
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system Fumalsamakah
+	remove asteroids "small rock"
 
 system Furmeliki
 	remove asteroids "large metal"
@@ -1550,18 +1809,24 @@ system G-3191
 	remove asteroids "large metal"
 
 system G-6183
-	remove asteroids "large metal"
 
 system G-719
 	remove asteroids "large metal"
 
 system G-819
 	remove asteroids "small rock"
-	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "large metal"
 
 system Gacrux
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Gale
+	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
@@ -1591,6 +1856,9 @@ system Gaungu
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system Ge-73
+	remove asteroids "small metal"
 
 system "Genta Bo"
 	remove asteroids "medium rock"
@@ -1644,6 +1912,11 @@ system Girtab
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Glide
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
 system Glubatub
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1672,6 +1945,8 @@ system Gorvi
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Gossamer
+
 system Graffias
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1691,11 +1966,23 @@ system Gupta
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
-system H-8188
+system Gust
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system H-1
+	remove asteroids "small rock"
+	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system H-8188
+	remove asteroids "small rock"
+	remove asteroids "large rock"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -1732,6 +2019,16 @@ system Hatysa
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system He-4
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Headwind
 	remove asteroids "large metal"
 
 system "Heia Due"
@@ -1789,6 +2086,14 @@ system Homeward
 system Host
 	remove asteroids "large metal"
 
+system Hui'uc
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Hunter
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1800,6 +2105,14 @@ system Hunter
 system Huud
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Ianua
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -1848,6 +2161,13 @@ system Ilirco
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Il'le
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
 system "Imo Dep"
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -1858,6 +2178,11 @@ system "Imo Dep"
 
 system Insitor
 	remove asteroids "small rock"
+
+system Interlude
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
 
 system "Io Lowe"
 	remove asteroids "small rock"
@@ -1992,6 +2317,13 @@ system "Jyeg Pvu"
 
 system Jyelio
 
+system K-39
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Ka'ch'chrai
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2040,6 +2372,16 @@ system Kashikt
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Kasii-Cavaasa
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
+system Kasii-Sola
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
+system Kasi-Vasa-Novaa
+
 system Kasikfar
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2062,6 +2404,23 @@ system "Kaus Borealis"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "large metal"
+
+system Kella-Uoasa
+	remove asteroids "large metal"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+
+system Khasola-Ryuit
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Khosa-Kaska
+	remove asteroids "small metal"
+	remove asteroids "small rock"
+	remove asteroids "large metal"
+
+system Kiiraj-Luue
 
 system "Ki War Ek"
 	remove asteroids "small rock"
@@ -2184,6 +2543,9 @@ system Korsmanath
 	remove asteroids "large rock"
 	remove asteroids "large metal"
 
+system Kr-84
+	remove asteroids "large metal"
+
 system Kraz
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2212,9 +2574,6 @@ system L-118
 
 system L-6181
 	remove asteroids "small rock"
-	remove asteroids "medium rock"
-	remove asteroids "large rock"
-	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
@@ -2233,6 +2592,22 @@ system Lesath
 	remove asteroids "large metal"
 
 system Levana
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Li-7
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Lift
+	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
@@ -2284,11 +2659,20 @@ system Lucina
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Lumine
+	remove asteroids "small metal"
+
 system Lurata
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Luue-Saqru
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
 	remove asteroids "large metal"
 
 system M-1188
@@ -2297,6 +2681,13 @@ system M-1188
 system MC-42
 
 system MS-219
+	remove asteroids "large metal"
+
+system Madrigal
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
 system Makferuti
@@ -2329,8 +2720,22 @@ system Markeb
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Maspa-Cavaasa
+	remove asteroids "large metal"
+
+system Maspa-Mavra
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Maspa-Raaqa
+	remove asteroids "small rock"
+	remove asteroids "large metal"
+	remove asteroids "small metal"
+
 system Matar
 	remove asteroids "large metal"
+
+system Mavra-Ijsola
 
 system Mebla
 	remove asteroids "medium metal"
@@ -2388,6 +2793,13 @@ system Mekislepti
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Mellow
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Men
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2428,6 +2840,9 @@ system Merak
 	remove asteroids "large metal"
 
 system Mesuket
+	remove asteroids "large metal"
+
+system Mg-24
 	remove asteroids "large metal"
 
 system Miaplacidus
@@ -2528,6 +2943,14 @@ system Mora
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Mosaa-Iyra
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+
+system Mote
+	remove asteroids "small metal"
+
 system Msalbit
 
 system Muhlifain
@@ -2538,6 +2961,23 @@ system Muphrid
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Myiara-Nnesa
+	remove asteroids "large metal"
+
+system Myruet-Kvelq
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "large metal"
+
+system N-14
+	remove asteroids "large metal"
+
+system Na-23
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
 system Naos
@@ -2552,6 +2992,12 @@ system Naper
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system Ne-20
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 
 system Nenia
 	remove asteroids "small rock"
@@ -2595,6 +3041,11 @@ system Nona
 	remove asteroids "medium metal"
 	remove asteroids "small metal"
 
+system Nonet
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Nssryos
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2611,11 +3062,12 @@ system Nunki
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
-system O-3184
-	remove asteroids "small rock"
+system O-16
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
-	remove asteroids "medium metal"
+
+system O-3184
+	remove asteroids "medium rock"
 	remove asteroids "large metal"
 
 system Oblate
@@ -2626,7 +3078,20 @@ system Oblate
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Octet
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Oihaug
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Ojstaan-Sola
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -2641,6 +3106,13 @@ system Ookmya
 	remove asteroids "large metal"
 
 system Oosuoro
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Opera
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
@@ -2660,6 +3132,10 @@ system Orvala
 	remove asteroids "small metal"
 	remove asteroids "large metal"
 
+system Osolaa-Uuoru
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+
 system Ossipago
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2668,6 +3144,10 @@ system Ossipago
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Oublaa-Khora
+	remove asteroids "small rock"
+	remove asteroids "small metal"
+
 system "Over the Rainbow"
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2675,6 +3155,9 @@ system "Over the Rainbow"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system P-31
+	remove asteroids "medium metal"
 
 system Paeli
 	remove asteroids "large metal"
@@ -2721,6 +3204,40 @@ system Pbelnep
 	remove asteroids "large metal"
 
 system Peacock
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Peak
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Pearl
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system "Pedita Pri"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system "Pedita Sec"
+	remove asteroids "large metal"
+
+system Pelaa-Muora
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -2807,6 +3324,14 @@ system Piadenli
 system Pik'ro'iyak
 	remove asteroids "large metal"
 
+system Pinnacle
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Plort
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2844,6 +3369,13 @@ system Porrima
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system "Porta Terra"
+	remove asteroids "large metal"
+
+system Postlude
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Postverta
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -2851,6 +3383,14 @@ system Postverta
 	remove asteroids "large metal"
 
 system Prakacha'a
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Prelude
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -2898,9 +3438,26 @@ system Pukako
 	remove asteroids "large rock"
 	remove asteroids "large metal"
 
+system Quartet
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Quaru
 
 system Queri
+
+system Quintessence
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+
+system Quintet
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Raaqa-Ryuit
+	remove asteroids "small rock"
+	remove asteroids "small metal"
 
 system Rajak
 	remove asteroids "small rock"
@@ -2966,6 +3523,14 @@ system Remembrance
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Rhapsody
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Rigel
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -2979,6 +3544,18 @@ system Ritilas
 	remove asteroids "large rock"
 	remove asteroids "medium rock"
 	remove asteroids "small rock"
+
+system Rivulet
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Rota
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
 
 system Rouseu
 	remove asteroids "small rock"
@@ -3000,6 +3577,13 @@ system Rutilicus
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system S-32
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
 	remove asteroids "large metal"
 
 system Sabik
@@ -3039,6 +3623,14 @@ system Sadr
 	remove asteroids "large metal"
 
 system "Sagittarius A*"
+
+system Sail
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
 
 system Saiph
 	remove asteroids "small rock"
@@ -3092,6 +3684,13 @@ system Scija
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Sedes
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Segesta
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -3125,7 +3724,20 @@ system Sepriaptu
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Septet
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system "Sera Natta"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Serenade
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -3135,6 +3747,10 @@ system "Sera Natta"
 
 system Sevrelect
 	remove asteroids "large metal"
+
+system Sextet
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
 
 system Shaula
 	remove asteroids "small rock"
@@ -3152,6 +3768,13 @@ system "Shini Bori"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Si-28
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
 	remove asteroids "large metal"
 
 system Si'yak'ku
@@ -3213,6 +3836,14 @@ system Sko'karak
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Soar
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Sobarati
 	remove asteroids "large metal"
 
@@ -3254,8 +3885,22 @@ system Solifar
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Sonata
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Sospi
 	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Span
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
@@ -3289,6 +3934,20 @@ system "Steep Roof"
 system Stercutus
 	remove asteroids "large rock"
 
+system Stiidej-Nnesa
+	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Stream
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Suhail
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -3301,6 +3960,28 @@ system Sumar
 	remove asteroids "large metal"
 
 system Sumprast
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Supra
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Symphony
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+
+system Tailwind
+	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
@@ -3328,6 +4009,11 @@ system "Tania Australis"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Tap
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Tarazed
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -3341,6 +4027,12 @@ system Tebuteb
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Tectum
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
 	remove asteroids "large metal"
 
 system Tejat
@@ -3367,13 +4059,40 @@ system "Terra Incognita"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Thread
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system "Thshybo Le"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Thuban
+	remove asteroids "small metal"
+	remove asteroids "large rock"
+
+system Tide
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Torbab
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Torrent
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -3388,8 +4107,20 @@ system Tortor
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Trio
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Tscera
 	remove asteroids "small rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Tumble
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
@@ -3403,13 +4134,22 @@ system Turais
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
-system U-5188
+system Tuur-Kella
+	remove asteroids "small metal"
+	remove asteroids "large metal"
+
+system Twirl
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system U-5188
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
 
 system Uelawan
 	remove asteroids "small rock"
@@ -3477,6 +4217,13 @@ system Uttna
 	remove asteroids "small metal"
 	remove asteroids "large metal"
 
+system Uuoru-Kella
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Uuoru-Sossa
+
 system "Uwa Fahn"
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -3495,6 +4242,13 @@ system "Uwo Seija"
 
 system V-2189
 	remove asteroids "small rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Vade-Staja
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
@@ -3506,6 +4260,8 @@ system Vaiov
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Valkraa-Uuoru
+
 system Vanguwo
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
@@ -3513,6 +4269,10 @@ system Vanguwo
 	remove asteroids "small metal"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
+
+system Vasa-Oorua
+	remove asteroids "small rock"
+	remove asteroids "small metal"
 
 system Vaticanus
 	remove asteroids "small rock"
@@ -3553,7 +4313,17 @@ system Vindemiatrix
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 
+system Vivace
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
 system Volax
+	remove asteroids "large metal"
+
+system Vorpal
 	remove asteroids "large metal"
 
 system Vorsuke
@@ -3572,9 +4342,6 @@ system W-3197
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
-	remove asteroids "small metal"
-	remove asteroids "medium metal"
-	remove asteroids "large metal"
 
 system "Wah Ki"
 	remove asteroids "small rock"
@@ -3592,6 +4359,22 @@ system "Wah Oh"
 	remove asteroids "large metal"
 
 system "Wah Yoot"
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Wake
+	remove asteroids "small rock"
+	remove asteroids "medium rock"
+	remove asteroids "large rock"
+	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Wave
 	remove asteroids "small rock"
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
@@ -3620,6 +4403,12 @@ system Wezen
 	remove asteroids "medium rock"
 	remove asteroids "large rock"
 	remove asteroids "small metal"
+	remove asteroids "medium metal"
+	remove asteroids "large metal"
+
+system Whirlwind
+	remove asteroids "small rock"
+	remove asteroids "large rock"
 	remove asteroids "medium metal"
 	remove asteroids "large metal"
 

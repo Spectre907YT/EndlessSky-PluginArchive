@@ -5,11 +5,23 @@ Removes all non-mineable asteroids from all systems. Mineable asteroids and aste
 Increases game performance.<br>
 <br>
 <br>
-Every of the 552 base game systems(0.10.2) is edited via remove command for full compatibility with other system altering plugins. A total of 2654 asteroid entries got removed.<br>
-In case i won't update this plugin to the newest game version, a python script for generating an updated plugin can be found <a href="https://github.com/zuckung/endless-sky-plugins/blob/main/tools/too_many_asteroids_plugin_script">here</a>.<br>
+Every of the 699 base game systems (0.10.11) is edited via a remove command for full compatibility with other system altering plugins. A total of 3149 asteroid entries got removed.<br>
 <br>
 <br>
 Changelog:<br>
+<br>
+2025-01-25<br>
+added the 0.10.11 systems<br>
+<br>
+2024-09-29<br>
+added the 0.10.9 systems<br>
+<br>
+2024-06-07<br>
+text corrections (thx to TheGiraffe3)<br>
+updated to 0.10.7<br>
+<br>
+2024-02-04<br>
+added the 0.10.5 systems<br>
 <br>
 2023-10-17<br>
 added plugin.txt<br>

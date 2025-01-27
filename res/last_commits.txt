@@ -45,7 +45,7 @@ Bounty-Fix|2019-11-17
 BSRC|2020-01-08
 Bulkheads-and-Battleships|2023-05-27
 bunrodea.missions|2024-12-12
-captureable.person.ships|2024-11-11
+captureable.person.ships|2025-01-27
 Cargo Controls Plugin|2019-11-29
 Celestial Strands HighDPI|2023-06-29
 Celestial Strands|2024-10-26
@@ -212,7 +212,7 @@ Reluvethel Potestas|2017-08-07
 Remnant|2020-05-11
 Resized Endless Sky|2021-03-02
 Restock|2020-12-29
-Ruin the Fun|2024-04-29
+Ruin the Fun|2025-01-27
 Rymeilema Skylark II|2020-02-17
 Rymeilema Skylark|2019-10-23
 Sarcina|2018-12-25

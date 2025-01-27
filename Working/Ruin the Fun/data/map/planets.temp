@@ -11,10 +11,10 @@ planet \{system_name}-P
 	government Ruin-The-Fun
 	tribute 1000000
 		fleet "Ruin-The-Fun Dread Fleet (Planet Defense)" 8
-	outfitter "Ruin-The-Fun Outfits"
-	outfitter "Ruin-The-Fun Stat Outfits"
-	outfitter "Ruin-The-Fun All Outfits"
-	shipyard "Ruin-The-Fun All Base Ships"
+	outfitter `Ruin-The-Fun Outfits`
+	outfitter `Ruin-The-Fun Stat Outfits`
+	outfitter `Ruin-The-Fun All Outfits`
+	shipyard `Ruin-The-Fun All Base Ships`
 	shipyard `modships`
 	outfitter `modoutfits`
 	outfitter `aben`
@@ -22,6 +22,7 @@ planet \{system_name}-P
 	outfitter `Advanced-ammo-outfitter`
 	outfitter `Advanced-engines-outfitter`
 	outfitter `Advanced Fuel`
+	outfitter `Advanced Pirate Power`
 	outfitter `Advanced-power-outfitter`
 	outfitter `Advanced-systems-outfitter`
 	outfitter `Advanced Turbo Blasters`
@@ -51,6 +52,7 @@ planet \{system_name}-P
 	outfitter `Basic Fuel`
 	outfitter `Basicness`
 	outfitter `Basic Outfits`
+	outfitter `Basic Pirate Power`
 	outfitter `Basic-power-outfitter`
 	outfitter `Basic-systems-outfitter`
 	outfitter `Basic Turbo Blasters`
@@ -191,6 +193,7 @@ planet \{system_name}-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `MGF South Pirate Outfits`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -245,9 +248,11 @@ planet \{system_name}-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Scar's Plunder`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
+	outfitter `Scrap Metal`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
@@ -256,6 +261,7 @@ planet \{system_name}-P
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
+	outfitter `South Pirate Outfits Advanced`
 	outfitter `Special Outfits`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
@@ -267,8 +273,8 @@ planet \{system_name}-P
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
 	outfitter `Syndicate Basics`
+	outfitter `Syndicated Security`
 	outfitter `Syndicate Research`
-	outfitter `Syndicate Security`
 	outfitter `Syndicate Stock`
 	outfitter `Tarazed Laboratory`
 	outfitter `Taroun Advanced`
@@ -279,6 +285,7 @@ planet \{system_name}-P
 	outfitter `Titanium`
 	outfitter `Tungsten`
 	outfitter `Turner Hai Power`
+	outfitter `Twin Torpedo Pod`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
@@ -389,6 +396,8 @@ planet \{system_name}-P
 	shipyard `developer`
 	shipyard `dev orboid`
 	shipyard `Dirt Belt Pirates`
+	shipyard `Dirt Belt Pirates (North)`
+	shipyard `Dirt Belt Pirates (South)`
 	shipyard `Donko Advanced`
 	shipyard `Donko Basic`
 	shipyard `drak`
@@ -411,6 +420,7 @@ planet \{system_name}-P
 	shipyard `Freight Galactic Advanced EX`
 	shipyard `Freight Galactic Basic`
 	shipyard `FW Set`
+	shipyard `Galactic Express Custom Advanced`
 	shipyard `GalacticWar`
 	shipyard `GalacticWar Plugin`
 	shipyard `Geeva Advanced`
@@ -426,10 +436,14 @@ planet \{system_name}-P
 	shipyard `Guz' Basic`
 	shipyard `hai`
 	shipyard `Hai Advanced`
+	shipyard `Hornet`
 	shipyard `human`
 	shipyard `Human Fuel Logistics`
 	shipyard `human plugins`
 	shipyard `humanVariants`
+	shipyard `ICS Custom Advanced`
+	shipyard `ICS Custom Basic`
+	shipyard `ICS Custom Intermediate`
 	shipyard `Ignaggen Advanced`
 	shipyard `Ignaggen All`
 	shipyard `Ignaggen Basic`
@@ -508,6 +522,10 @@ planet \{system_name}-P
 	shipyard `Navarch Expert`
 	shipyard `Navarch Intermediate`
 	shipyard `Navarch Intermediate Missile`
+	shipyard `Navarch Klados Advanced`
+	shipyard `Navarch Klados Basics`
+	shipyard `Navarch Klados Expert`
+	shipyard `Navarch Klados Intermediate`
 	shipyard `Navarch Logistics Advanced`
 	shipyard `Navarch Logistics Basics`
 	shipyard `Navarch Logistics Expert`
@@ -520,6 +538,7 @@ planet \{system_name}-P
 	shipyard `Navy Basic`
 	shipyard `Navy Basics`
 	shipyard `Navy Intermediate`
+	shipyard `NBSL Custom Advanced`
 	shipyard `NCD Ships`
 	shipyard `NCD Stolen Ships`
 	shipyard `Northern Pirates`
@@ -565,6 +584,8 @@ planet \{system_name}-P
 	shipyard `Southbound Basics`
 	shipyard `Southern Pirates`
 	shipyard `Starcadia`
+	shipyard `Stolen CCOR`
+	shipyard `Sunracer`
 	shipyard `Syndicate Advanced`
 	shipyard `Syndicate Advanced EX`
 	shipyard `Syndicate Basic`
@@ -579,12 +600,12 @@ planet \{system_name}-P
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
+	shipyard `Tycho Crater Advanced`
 	shipyard `Ultaka`
 	shipyard `Ultaka All`
 	shipyard `Ultaka Alrul`
 	shipyard `Ultaka Mega`
 	shipyard `Ultaka Neurn`
-	shipyard `Unfettered Basics`
 	shipyard `Valuutian Ships`
 	shipyard `Vefrol Dockyard Advanced`
 	shipyard `Vefrol Dockyard Basic`

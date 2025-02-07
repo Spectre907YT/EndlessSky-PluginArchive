@@ -1955,7 +1955,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Kor Mereti Fluff/icon.png' height='100'></img><br>
 
 
-[Kor.Mereti.Fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kor.Mereti.Fluff.zip) | 2.62 mb | 2023-08-02 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kor%20Mereti%20Fluff/) <br>
+[Kor.Mereti.Fluff.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kor.Mereti.Fluff.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kor%20Mereti%20Fluff/) <br>
 Author: OcelotWalrus | Category: Gameplay <br>
 N/A[]()  <br>
 
@@ -2048,7 +2048,7 @@ Thanks to all the people in the Endless Sky community and people who contributed
 </details>
 
 Status: Merged into Chroma Expansion <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -2529,7 +2529,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Spacefarer/icon.png' height='100'></img><br>
 
 
-[Spacefarer.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Spacefarer.zip) | 220.79 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Spacefarer/) <br>
+[Spacefarer.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Spacefarer.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Spacefarer/) <br>
 Author: samrocketman | Category: Gameplay <br>
 [https://github.com/samrocketman/Spacefarer](https://github.com/samrocketman/Spacefarer) (last commit 2024-02-11) <br>
 
@@ -2600,7 +2600,7 @@ See also [credits](credits.md).
 </details>
 
 Status: Playable on 0.9.15 Continuous. <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -7024,7 +7024,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### COTSA
 
 
-[COTSA.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/COTSA.zip) | 1.2 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/COTSA/) <br>
+[COTSA.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/COTSA.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/COTSA/) <br>
 Author: Hondolor | Category: Races <br>
 [https://github.com/Hondolor/ES-COTSA-Pluggin](https://github.com/Hondolor/ES-COTSA-Pluggin) (last commit 2016-08-17) <br>
 
@@ -8138,7 +8138,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Ultaka Invasion of Milky Way
 
 
-[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | 9.79 mb | 2024-10-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ultaka%20Invasion%20of%20Milky%20Way/) <br>
+[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ultaka%20Invasion%20of%20Milky%20Way/) <br>
 Author: 1010Todd | Category: Races <br>
 [https://github.com/1010todd/Ultaka-Invasion](https://github.com/1010todd/Ultaka-Invasion) (last commit 2022-12-23) <br>
 
@@ -12444,7 +12444,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Jojo's Galactic Adventure
 
 
-[Jojo.s.Galactic.Adventure.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Jojo.s.Galactic.Adventure.zip) | 16.31 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Jojo's%20Galactic%20Adventure/) <br>
+[Jojo.s.Galactic.Adventure.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Jojo.s.Galactic.Adventure.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Jojo's%20Galactic%20Adventure/) <br>
 Author: N/A | Category: Story <br>
 N/A[]()  <br>
 
@@ -12721,9 +12721,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Lost in Midnight/icon.png' height='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 73.97 mb | 2025-01-26 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 73.96 mb | 2025-02-07 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
 Author: MidnightPlugins | Category: Story <br>
-[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-01-26) <br>
+[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-02-07) <br>
 
 >A mission focused plugin for Endless Sky.
 >
@@ -15299,7 +15299,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [MechSummoner.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/MechSummoner.zip) | 515.5 kb | 2024-07-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/MechSummoner/) <br>
 Author: Zoura | Category: N/A <br>
-[https://github.com/AvianGeneticist/MechSummoner](https://github.com/AvianGeneticist/MechSummoner) (last commit 2024-07-09) <br>
+[https://github.com/AvianGeneticist/MechSummoner](https://github.com/AvianGeneticist/MechSummoner)  <br>
 
 >Adds self-managing ally ships to Endless Sky.
 >

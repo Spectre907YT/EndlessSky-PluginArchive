@@ -44,7 +44,7 @@ Bounty Hunters|2020-11-07
 Bounty-Fix|2019-11-17
 BSRC|2020-01-08
 Bulkheads-and-Battleships|2023-05-27
-bunrodea.missions|2024-12-12
+bunrodea.missions|2025-02-10
 captureable.person.ships|2025-01-27
 Cargo Controls Plugin|2019-11-29
 Celestial Strands HighDPI|2023-06-29
@@ -173,7 +173,7 @@ Moar Humanity|2023-08-24
 Moar Jobs|2021-09-25
 Modular Haulers|2021-05-27
 More Ships Plugin|2020-05-31
-more.boarding.missions|2024-05-08
+more.boarding.missions|2025-02-10
 MultiTech Extra Light|2017-05-13
 Naltok|2025-02-06
 Navy Campaign|2024-10-09

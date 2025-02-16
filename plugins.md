@@ -7501,9 +7501,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Naltok
 
 
-[Naltok.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Naltok.zip) | 1.96 mb | 2025-02-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Naltok/) <br>
+[Naltok.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Naltok.zip) | 2.36 mb | 2025-02-16 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Naltok/) <br>
 Author: Quantumshark | Category: Races <br>
-[https://github.com/Quantumshark/ES-Naltok](https://github.com/Quantumshark/ES-Naltok) (last commit 2025-02-06) <br>
+[https://github.com/Quantumshark/ES-Naltok](https://github.com/Quantumshark/ES-Naltok) (last commit 2025-02-16) <br>
 
 >A new tier 1.5 alien species, the amphibious Naltok. 
 
@@ -8480,7 +8480,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Binary reOrder
 
 
-[Binary.reOrder.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Binary.reOrder.zip) | 1.83 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Binary%20reOrder/) <br>
+[Binary.reOrder.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Binary.reOrder.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Binary%20reOrder/) <br>
 Author: Vaelophis Nyx & Kezethun | Category: Ships <br>
 N/A[]()  <br>
 
@@ -9202,7 +9202,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Kaynz
 
 
-[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | 7.08 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/) <br>
+[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/) <br>
 Author: Mcgode | Category: Ships <br>
 [https://github.com/Mcgode/Kaynz](https://github.com/Mcgode/Kaynz) (last commit 2017-09-22) <br>
 
@@ -9261,7 +9261,7 @@ Writingwise:
 </details>
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---

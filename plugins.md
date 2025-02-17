@@ -14,9 +14,9 @@
 ### -Omnis
 
 
-[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.9 mb | 2025-02-05 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
+[-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.9 mb | 2025-02-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
 Author: Darcy Manoel | Category: Cheats <br>
-[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2025-02-05) <br>
+[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2025-02-17) <br>
 
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
 >
@@ -8480,7 +8480,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Binary reOrder
 
 
-[Binary.reOrder.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Binary.reOrder.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Binary%20reOrder/) <br>
+[Binary.reOrder.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Binary.reOrder.zip) | 1.83 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Binary%20reOrder/) <br>
 Author: Vaelophis Nyx & Kezethun | Category: Ships <br>
 N/A[]()  <br>
 
@@ -9202,7 +9202,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Kaynz
 
 
-[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/) <br>
+[Kaynz.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Kaynz.zip) | 7.08 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Kaynz/) <br>
 Author: Mcgode | Category: Ships <br>
 [https://github.com/Mcgode/Kaynz](https://github.com/Mcgode/Kaynz) (last commit 2017-09-22) <br>
 
@@ -9261,7 +9261,7 @@ Writingwise:
 </details>
 
 Status: N/A <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---

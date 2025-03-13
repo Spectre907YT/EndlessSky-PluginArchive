@@ -10827,7 +10827,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Super Ships
 
 
-[Super.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Super.Ships.zip) | 92.09 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Super%20Ships/) <br>
+[Super.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Super.Ships.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Super%20Ships/) <br>
 Author: taldarus | Category: Ships <br>
 [https://www.moddb.com/mods/super-ships](https://www.moddb.com/mods/super-ships)  <br>
 
@@ -14292,7 +14292,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Extra Missiles Outfit
 
 
-[Extra.Missiles.Outfit.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Extra.Missiles.Outfit.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Extra%20Missiles%20Outfit/) <br>
+[Extra.Missiles.Outfit.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Extra.Missiles.Outfit.zip) | 2.53 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Extra%20Missiles%20Outfit/) <br>
 Author: N/A | Category: Weapons <br>
 N/A[]()  <br>
 

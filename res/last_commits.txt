@@ -1,4 +1,4 @@
--Omnis|2025-03-11
+-Omnis|2025-03-20
 40k Pack|2023-03-29
 A Galaxy Far Far Away|2021-11-06
 Adamas Project|2023-07-05
@@ -115,7 +115,7 @@ Flip Those Ships|2020-10-08
 Free Kitten|2018-12-31
 Galactic War hi-dpi|2022-11-12
 Galactic War|2024-10-31
-galactic.capital.investment|2025-02-14
+galactic.capital.investment|2025-03-20
 Galaxias|2023-03-22
 Gander|2023-01-07
 Gatling Ammo Fix|2019-11-17

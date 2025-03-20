@@ -16,7 +16,7 @@
 
 [-Omnis.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/-Omnis.zip) | 2.91 mb | 2025-03-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/-Omnis/) <br>
 Author: Darcy Manoel | Category: Cheats <br>
-[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2025-03-11) <br>
+[https://github.com/Adde-Endless-Sky-Mods/-Omnis](https://github.com/Adde-Endless-Sky-Mods/-Omnis) (last commit 2025-03-20) <br>
 
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
 >
@@ -1751,7 +1751,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 3.7 mb | 2025-02-14 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-02-14) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-03-20) <br>
 
 >Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 100 million credits. See the readme for details.
 >(inspired by a-alhusaini's investment bank plugin)
@@ -1765,7 +1765,7 @@ Implements a short mission chain that enables repeatable job board investment op
 At 1 billion credits cash a longer mission chain starts and enables a reapeatable job board investment of 1 billion credits. The chain has some breaks and finishes after a year.<br>
 There is also a job to deposit and withdraw credits, but at a much lower interest rate. And the same job offers to deposit and withdraw to a family trust, which can be accessed by all your saves/pilots (but without interest).<br>
 <br>
-Job board investments:<br>
+Job board investments:(if enabled)<br>
 1 million = 274 credits daily (12% chance) (10% interest p.a.)<br>
 5 million = 1,520 credits daily (10% chance) (11% interest p.a.)<br>
 10 million = 3,287 credits daily (8% chance) (12% interest p.a.)<br>
@@ -1778,10 +1778,15 @@ Deposit and withdraw from your bank account (4% interest p.a.)<br>
 Deposit and withdraw from your family trust, accessible by all your pilots<br>
 Sell investments at 10% conversion rate<br>
 Set up the bank account interest as a daily cash payout<br>
+Enable and disable the investment jobs/missions<br>
 <br>
 <br>
 <br>
 Changelog:<br>
+<br>
+2025-03-20<br>
+replaced colony ship sprite (new one created by 1010todd)<br>
+added the option to enable/disable job board investments/missions globally<br>
 <br>
 2025-02-14<br>
 added normal banking with deposit and withdrawal to the job board(4% interest)<br>

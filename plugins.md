@@ -5950,7 +5950,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/ShieldsUp Pompano%27s Ever Expanding Galaxy/icon.png' height='100'></img><br>
 
 
-[ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/ShieldsUp%20Pompano's%20Ever%20Expanding%20Galaxy/) <br>
+[ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | 1.41 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/ShieldsUp%20Pompano's%20Ever%20Expanding%20Galaxy/) <br>
 Author: N/A | Category: Overhauls <br>
 [https://github.com/Amazinite/Shields-Up](https://github.com/Amazinite/Shields-Up) (last commit 2018-06-21) <br>
 

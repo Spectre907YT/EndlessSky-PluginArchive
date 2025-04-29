@@ -15187,7 +15187,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Endless Sky Gauntlet
 
 
-[Endless.Sky.Gauntlet.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Endless.Sky.Gauntlet.zip) | 6.36 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Endless%20Sky%20Gauntlet/) <br>
+[Endless.Sky.Gauntlet.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Endless.Sky.Gauntlet.zip) | 13.62 mb | 2025-04-29 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Endless%20Sky%20Gauntlet/) <br>
 Author: Galaucus | Category: N/A <br>
 [https://github.com/Galaucus/Endless-Sky-Gauntlet](https://github.com/Galaucus/Endless-Sky-Gauntlet) (last commit 2020-10-31) <br>
 

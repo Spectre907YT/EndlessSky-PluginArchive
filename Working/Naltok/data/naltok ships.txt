@@ -156,7 +156,7 @@ ship "Sturgeon"
 			"hit force" 3060
 	outfits
 		"Shell-Splitter Launcher"
-		"Shell-Splitter Torpedo" 11
+		"Shell-Splitter Torpedo" 22
 		"Membrane-class Anti-Missile" 2
 		"Capsid-class Anti-Missile" 3
 
@@ -507,7 +507,7 @@ ship "Tetra"
 		"Strike-Needler Pod"
 		"Strike-Needle" 32
 		"Shell-Splitter Pod" 6
-		"Shell-Splitter Torpedo" 12
+		"Shell-Splitter Torpedo" 18
 
 		"Brook Cell"
 		"Puddle Battery"
@@ -522,13 +522,13 @@ ship "Tetra"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
-		angle -30
+		angle -90
 	gun "Shell-Splitter Pod"
-		angle -30
+		angle 90
 	gun "Shell-Splitter Pod"
-		angle 30
+		angle 180
 	gun "Shell-Splitter Pod"
-		angle 30
+		angle 180
 	description `The Tetra is a versatile small ship built by the Telashki. Originally intended as an inexpensive ship able to chase down and destroy an Archerfish, the Tetra has since been shown to be quite effective when armed with Shell-Splitters and used in small squadrons against much larger ships.`
 
 ship "Archerfish"
@@ -619,8 +619,9 @@ ship "Piranha"
 	outfits
 		"Shell-Splitter Launcher" 2
 		"Shell-Splitter Tube" 3
-		"Shell-Splitter Torpedo" 34
-		"Sky-Shredder"
+		"Shell-Splitter Torpedo" 68
+		"Strike-Needler Turret"
+		"Strike-Needle" 512
 		"Brook Cell"
 		"Pond Battery"
 		"Swamp Shield Generator"
@@ -632,7 +633,7 @@ ship "Piranha"
 	gun "Shell-Splitter Launcher"
 	gun "Shell-Splitter Launcher"
 	gun
-	turret "Sky-Shredder"
+	turret "Strike-Needler Turret"
 	description `The Piranha is the oldest Naltok warship design in service, and was the first to employ the biotechnological hull construction which is now standard on all their ships. Rather than metals, Naltok ships are built from a community of mineralizing bacteria grown onto an inert frame. This allows them to continually repair themselves in combat, but comes at the cost of a substantially higher mass than conventional metal or composite hulls and limits the effectiveness of their shield projectors.`
 
 ship "Piranha" "Piranha (Scanning)"
@@ -653,7 +654,7 @@ ship "Piranha" "Piranha (Xochira)"
 	outfits
 		"Shell-Splitter Launcher" 2
 		"Shell-Splitter Tube" 3
-		"Shell-Splitter Torpedo" 34
+		"Shell-Splitter Torpedo" 68
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
@@ -673,8 +674,8 @@ ship "Piranha" "Piranha (Xochira Charging)"
 		"Stream Generator"
 		"Pond Battery"
 		"Swamp Shield Generator" 2
-		"Ripper Pistols" 5
-		"Shredder Minigun" 5
+		"Ripper Pistols" 6
+		"Shredder Minigun" 4
 		
 		`"Gecko" Ion Steering`
 		`"Iguana" Ion Thruster`
@@ -810,7 +811,7 @@ ship "Barracuda"
 	outfits
 		"Breaker"
 		"Shell-Splitter Launcher" 6
-		"Shell-Splitter Torpedo" 66
+		"Shell-Splitter Torpedo" 132
 
 		"Brook Cell"
 		"Pond Battery"
@@ -942,12 +943,12 @@ ship "Moray"
 	outfits
 
 		"Hyperdrive"
-		"Sky-Shredder" 2
+		"Strike-Needler Turret" 2
 		"Steel-Render" 2
 		"Shell-Splitter Launcher"
 		"Shell-Splitter Torpedo" 11
 		"Strike-Needler Pod" 2
-		"Strike-Needle" 64
+		"Strike-Needle" 1088
 
 		"Stream Generator"
 		"Lake Battery"
@@ -962,8 +963,8 @@ ship "Moray"
 	gun 31 -96 "Strike-Needler Pod"
 	gun 0 -20 "Shell-Splitter Launcher"
 		angle 180
-	turret -55 -55 "Sky-Shredder"
-	turret 55 -55 "Sky-Shredder"
+	turret -55 -55 "Strike-Needler Turret"
+	turret 55 -55 "Strike-Needler Turret"
 	turret -64 -30 "Steel-Render"
 	turret 64 -30 "Steel-Render"
 	engine -19 13
@@ -973,7 +974,8 @@ ship "Moray"
 ship "Moray" "Moray (Halt-Swarm)"
 	outfits
 		"Hyperdrive"
-		"Sky-Shredder" 2
+		"Strike-Needler Turret" 2
+		"Strike-Needle" 1024
 		"Steel-Render" 2
 		"Halt-Swarm Launcher" 2
 		"Halt-Swarm Missile" 192
@@ -992,8 +994,8 @@ ship "Moray" "Moray (Halt-Swarm)"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
 	gun
-	turret "Sky-Shredder"
-	turret "Sky-Shredder"
+	turret "Strike-Needler Turret"
+	turret "Strike-Needler Turret"
 	turret "Steel-Render"
 	turret "Steel-Render"
 
@@ -1033,7 +1035,7 @@ ship "Pike"
 		"Steel-Render" 3
 		"Shell-Splitter Launcher" 3
 		"Shell-Splitter Tube" 5
-		"Shell-Splitter Torpedo" 53
+		"Shell-Splitter Torpedo" 106
 		
 		"River Reactor"
 		"Pond Battery" 2
@@ -1061,7 +1063,7 @@ ship "Pike" "Pike (Telashki)"
 		"Steel-Render" 3
 		"Shell-Splitter Launcher" 3
 		"Shell-Splitter Tube" 5
-		"Shell-Splitter Torpedo" 53
+		"Shell-Splitter Torpedo" 106
 		
 		"River Reactor"
 		"Pond Battery"
@@ -1081,7 +1083,7 @@ ship "Pike" "Pike (Xochira)"
 		"Steel-Render" 3
 		"Shell-Splitter Launcher" 3
 		"Shell-Splitter Tube" 5
-		"Shell-Splitter Torpedo" 53
+		"Shell-Splitter Torpedo" 106
 		
 		"River Reactor"
 		"Pond Battery" 2
@@ -1129,7 +1131,7 @@ ship "Mola"
 	outfits
 		"Shell-Splitter Pod"
 		"Shell-Splitter Tube" 25
-		"Shell-Splitter Torpedo" 102
+		"Shell-Splitter Torpedo" 203
 		"Membrane-class Anti-Missile" 4
 
 		"Stream Generator"
@@ -1202,7 +1204,8 @@ ship "Kaluga"
 			"hull damage" 1560
 			"hit force" 4880
 	outfits
-		"Sky-Shredder" 5
+		"Strike-Needler Turret" 5
+		"Strike-Needle" 2560
 		"Capsid-class Anti-Missile" 2
 		"Halt-Swarm Launcher" 6
 		"Halt-Swarm Missile" 384
@@ -1228,12 +1231,12 @@ ship "Kaluga"
 		angle -45
 	gun 93 -82
 		angle 45
-	turret 0 -71 "Sky-Shredder"
-	turret -86 -64 "Sky-Shredder"
-	turret 86 -64 "Sky-Shredder"
+	turret 0 -71 "Strike-Needler Turret"
+	turret -86 -64 "Strike-Needler Turret"
+	turret 86 -64 "Strike-Needler Turret"
 	turret 0 4 "Capsid-class Anti-Missile"
-	turret -151 16 "Sky-Shredder"
-	turret 151 16 "Sky-Shredder"
+	turret -151 16 "Strike-Needler Turret"
+	turret 151 16 "Strike-Needler Turret"
 	turret 0 80 "Capsid-class Anti-Missile"
 	engine -63 126
 	engine 63 126
@@ -1313,7 +1316,7 @@ ship "Remora"
 	outfits
 		"Breaker" 2
 		"Shell-Splitter Pod" 2
-		"Shell-Splitter Torpedo" 4
+		"Shell-Splitter Torpedo" 6
 		"Marsh Shield Generator"
 		"Spring Cell"
 		`"Agama" Ion Thruster`

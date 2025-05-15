@@ -108,7 +108,7 @@ Fighter Factory|2023-04-24
 Fire Corporation|2023-09-21
 Flak Weapons|2017-08-14
 Flak&Snare|2017-08-14
-Flamethrower Turret|2021-01-26
+Flamethrower Turret|2025-05-15
 Flip Those Ships|2020-10-08
 Free Kitten|2018-12-31
 Galactic War hi-dpi|2022-11-12

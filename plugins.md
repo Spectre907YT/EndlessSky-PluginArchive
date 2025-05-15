@@ -10004,7 +10004,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Poseidon
 
 
-[Poseidon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Poseidon.zip) | 272.15 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Poseidon/) <br>
+[Poseidon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Poseidon.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Poseidon/) <br>
 Author: N/A | Category: Ships <br>
 N/A[]()  <br>
 
@@ -14405,9 +14405,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Flamethrower Turret
 
 
-[Flamethrower.Turret.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Flamethrower.Turret.zip) | 74.02 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Flamethrower%20Turret/) <br>
+[Flamethrower.Turret.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Flamethrower.Turret.zip) | 149.36 kb | 2025-05-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Flamethrower%20Turret/) <br>
 Author: ItsNickBarry | Category: Weapons <br>
-[https://github.com/ItsNickBarry/endless-sky-flamethrower-turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) (last commit 2021-01-26) <br>
+[https://github.com/ItsNickBarry/endless-sky-flamethrower-turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) (last commit 2025-05-15) <br>
 
 >adds a turret variant of the flamethrower.
 >

@@ -10004,7 +10004,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Poseidon
 
 
-[Poseidon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Poseidon.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Poseidon/) <br>
+[Poseidon.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Poseidon.zip) | 272.15 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Poseidon/) <br>
 Author: N/A | Category: Ships <br>
 N/A[]()  <br>
 

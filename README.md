@@ -5,6 +5,7 @@
 (latest 15 entries):
 <table><tr><td width=800>
 
+2025-05-23 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-05-22 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-05-21 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-05-20 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
@@ -19,7 +20,6 @@
 2025-05-12 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-05-11 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-05-10 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
-2025-05-09 | updated Plugin 'Naltok' by Quantumshark | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 
 </td></tr></table>
 Provide a direct link to your zipped plugin to enable automatic updating.<br>

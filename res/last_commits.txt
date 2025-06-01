@@ -37,7 +37,7 @@ BetterVanillaHai|2022-06-24
 Beyond the Sky|2023-08-15
 BiteOfTheAnt|2018-05-07
 Blackheart's Treasure|2021-05-01
-Blended Ships|2025-05-19
+Blended Ships|2025-06-01
 Boarding Licenses|2019-10-25
 Boarding Missions|2018-09-18
 Bounty Hunters|2020-11-07
@@ -81,7 +81,6 @@ Endless Depth Mod|2019-09-11
 Endless Gauntlet|2022-03-18
 Endless Seas|2022-10-26
 Endless Sky Gauntlet|2020-10-31
-Endless Zombies|2024-06-12
 Endless-Endless-Sky|2024-03-27
 Endless-Sky-Ship|2018-06-21
 EndlessSky Sounds|2020-05-30

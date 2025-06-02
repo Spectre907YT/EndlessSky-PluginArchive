@@ -4463,7 +4463,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Solar Sails/icon.png' height='100'></img><br>
 
 
-[Solar.Sails.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Solar.Sails.zip) | 823.26 kb | 2025-05-19 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Solar%20Sails/) <br>
+[Solar.Sails.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Solar.Sails.zip) | 1.59 mb | 2025-06-02 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Solar%20Sails/) <br>
 Author: TheronEpic | Category: Outfits <br>
 [https://github.com/TheronEpic/theronepic-solar-sails](https://github.com/TheronEpic/theronepic-solar-sails) (last commit 2020-10-30) <br>
 
@@ -6208,9 +6208,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Undisclosed Plugin
 
 
-[Undisclosed.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Undisclosed.Plugin.zip) | 829.7 kb | 2025-05-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Undisclosed%20Plugin/) <br>
+[Undisclosed.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Undisclosed.Plugin.zip) | 828.47 kb | 2025-06-02 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Undisclosed%20Plugin/) <br>
 Author: petervdmeer | Category: Overhauls <br>
-[https://github.com/petervdmeer/endless-sky-undisclosed-plugin](https://github.com/petervdmeer/endless-sky-undisclosed-plugin) (last commit 2025-05-03) <br>
+[https://github.com/petervdmeer/endless-sky-undisclosed-plugin](https://github.com/petervdmeer/endless-sky-undisclosed-plugin) (last commit 2025-06-02) <br>
 
 >Various concept ideas.
 >
@@ -15215,7 +15215,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Endless.Zombies.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Endless.Zombies.zip) | 62.35 kb | 2024-06-12 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Endless%20Zombies/) <br>
 Author: Zoura | Category: N/A <br>
-[https://github.com/AvianGeneticist/Endless-Zombies](https://github.com/AvianGeneticist/Endless-Zombies)  <br>
+[https://github.com/AvianGeneticist/Endless-Zombies](https://github.com/AvianGeneticist/Endless-Zombies) (last commit 2024-06-12) <br>
 
 >Adds an waved-based PvE zombies mode to Endless Sky. 
 

@@ -45,7 +45,7 @@ Bounty-Fix|2019-11-17
 BSRC|2020-01-08
 Bulkheads-and-Battleships|2023-05-27
 bunrodea.missions|2025-04-13
-captureable.person.ships|2025-01-27
+captureable.person.ships|2025-06-05
 Cargo Controls Plugin|2019-11-29
 Celestial Strands HighDPI|2023-06-29
 Celestial Strands|2024-10-26
@@ -113,7 +113,7 @@ Flip Those Ships|2020-10-08
 Free Kitten|2018-12-31
 Galactic War hi-dpi|2022-11-12
 Galactic War|2024-10-31
-galactic.capital.investment|2025-03-20
+galactic.capital.investment|2025-06-05
 Galaxias|2023-03-22
 Gander|2023-01-07
 Gatling Ammo Fix|2019-11-17
@@ -170,7 +170,7 @@ Moar Humanity|2023-08-24
 Moar Jobs|2021-09-25
 Modular Haulers|2021-05-27
 More Ships Plugin|2020-05-31
-more.boarding.missions|2025-02-10
+more.boarding.missions|2025-06-05
 MultiTech Extra Light|2017-05-13
 Naltok|2025-05-09
 Navy Campaign|2024-10-09
@@ -226,7 +226,7 @@ Ship Overhaul|2021-08-24
 Ship Testing|2020-06-13
 Shipmod|2020-09-29
 Shirni|2022-10-22
-snowfeather.robotics|2024-11-09
+snowfeather.robotics|2025-06-05
 Solar Sails|2020-10-30
 Sounds Of Endless Sky|2024-02-11
 Space Invaders|2018-02-19

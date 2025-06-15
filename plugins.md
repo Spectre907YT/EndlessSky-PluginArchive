@@ -10651,7 +10651,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Spinaleviathan
 
 
-[Spinaleviathan.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Spinaleviathan.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Spinaleviathan/) <br>
+[Spinaleviathan.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Spinaleviathan.zip) | 50.99 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Spinaleviathan/) <br>
 Author: Zoura | Category: Ships <br>
 [https://github.com/AvianGeneticist/Spinaleviathan](https://github.com/AvianGeneticist/Spinaleviathan) (last commit 2023-07-01) <br>
 

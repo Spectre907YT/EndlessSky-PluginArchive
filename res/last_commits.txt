@@ -76,6 +76,7 @@ Easier Korath Automatons|2020-05-08
 EfretiMissions|2023-02-16
 Eireen|2017-05-28
 Endless Addon|2019-12-15
+Endless AI Invade|2023-08-14
 Endless Depth Mod|2019-09-11
 Endless Gauntlet|2022-03-18
 Endless Seas|2022-10-26
@@ -101,7 +102,7 @@ Eternal Shuttle|2023-08-24
 Everything-n-More|2017-08-03
 Exotic Matter|2016-12-21
 Expanded Territory|2016-11-02
-expert.crew.members|2025-04-13
+expert.crew.members|2025-06-21
 Exporianes|2023-01-07
 Fighter Factory|2023-04-24
 Fire Corporation|2023-09-21

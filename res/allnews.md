@@ -1,3 +1,4 @@
+2025-06-21 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-06-20 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-06-18 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2025-06-17 | updated Plugin 'better.starts' by zuckung | [gameplay](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#gameplay)<br>

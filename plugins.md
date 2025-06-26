@@ -3720,9 +3720,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/expert.crew.members/icon.png' height='100'></img><br>
 
 
-[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 8.07 mb | 2025-06-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
+[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 8.07 mb | 2025-06-25 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
 Author: zuckung | Category: Outfits <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-06-21) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-06-25) <br>
 
 >Adds unique crew members, aquireable through low chance spaceport missions. These crew members are technically outfits which require a bunk and a salary, but no outfit space or mass. They add, depending on their technology field, stats to your ship. Like shield regenaration, more thrust, more cargo etc. See the readme for details.
 >

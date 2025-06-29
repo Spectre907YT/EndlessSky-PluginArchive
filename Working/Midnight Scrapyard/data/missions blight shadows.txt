@@ -456,6 +456,7 @@ mission "Scrapyard Plume's Research"
 	source "Aventine"
 	deadline 7
 	to offer
+		has "Scrapyard Eggs Remnant 1: done"
 		has "event: Remnant Egg timer"
 		or
 			not "Remnant: Cognizance 1: offered"
@@ -1277,7 +1278,8 @@ mission "Scrapyard: Quarg Hunter"
 		dialog `Quaelar-En is pleased with the results of the hunt and hopes you'll have another one soon.`
 
 ship "Quarg Wardragon" "Blue Wardragon"
-	swizzle 5
+	sprite "ship/quarg wardragonblue"
+	thumbnail "thumbnail/quarg wardragonblue-thumb"
 
 mission "Scrapyard: Quarg Hunter Patch"
 	non-blocking

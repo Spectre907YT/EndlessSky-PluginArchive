@@ -9732,9 +9732,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Mega Freight/icon.png' height='100'></img><br>
 
 
-[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 144.54 mb | 2025-03-14 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
+[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 147.54 mb | 2025-07-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
 Author: 1010todd | Category: Ships <br>
-[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2025-03-14) <br>
+[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2025-07-03) <br>
 
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
 >
@@ -9754,7 +9754,7 @@ Summary of what this plugin adds:
 Over 150 ships:
 * 50+ Freighters including specialized cargo ships (Fuel, LNG, Chemical, etc.) + 2 Superheavy
 * 4 Transports
-* 3 Space Liner
+* 4 Space Liner
 * 10+ Utility (Carriers, miners, etc.)
 * 20+ Warships + 2 Superheavy (Purpose-built and modification of existing.)
 * 1 Battlestation
@@ -9774,7 +9774,7 @@ And other things:
 * Persistent NPC (Battlestations in 3 systems, 2 of which can respawn after some time.)
 * Additional ship spawn for some story missions.
 * Orbital shipyard orbiting Mars after main plot.
-* A few stations (Nordlin, Ankulah, Yokosuka, GS1 Galaxy, Ourea, Forge, Ankaim, Titanite, Zagreus)
+* A few stations (Nordlin, Ankulah, Yokosuka, GS1 Galaxy, Ourea, Forge, Ankaim, Titanite, Zagreus, Ningxi, Wilkes)
 * Gradual progression of the universe both dependent and independent of story missions.
   * Stronger pirate fleet over time and merchants upgrading their weapons to keep up.
   * New ships and technologies (timed and/or locked behind story missions and locked behind jobs)
@@ -9784,7 +9784,7 @@ And other things:
 * Additional shipyard and outfitter to various locations.
 * Basically overhaul human space at this point.
 
-Requires Unstable Build/0.10.9 or above.
+Requires Unstable Build/0.10.13 or above.
 Version above this is usually compatible as well. Endless Sky backward compatibility is exceptional so far.
 
 # Recommended
@@ -13293,9 +13293,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Portraits for News/icon.png' height='100'></img><br>
 
 
-[Portraits.for.News.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Portraits.for.News.zip) | 1.09 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Portraits%20for%20News/) <br>
+[Portraits.for.News.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Portraits.for.News.zip) | 15.43 mb | 2025-07-03 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Portraits%20for%20News/) <br>
 Author: Anarchist2 | Category: Story <br>
-[https://github.com/Anarchist2/ES-news-portraits](https://github.com/Anarchist2/ES-news-portraits) (last commit 2023-04-06) <br>
+[https://github.com/Anarchist2/ES-news-portraits](https://github.com/Anarchist2/ES-news-portraits) (last commit 2025-07-03) <br>
 
 >This plugin re-activates the portrait system for news in ES. Many of the images for portraits are already in the game, but became unused after portraits for news was disabled by default. However, some portraits had to be added for news items after 0.9.12. Alien portraits (including transhuman portraits) are not considered canon. 
 >
@@ -13304,7 +13304,7 @@ Author: Anarchist2 | Category: Story <br>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>NOTICE: This plugin's development is highly sporadic, and as such, will not always be up to date with the latest version of Endless Sky. If you want to help bring this plugin up to date, or to add more portraits (especially for aliens), feel free to make a PR.
 # Portraits for News in Endless Sky
-This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon. Compatable for most news up to 0.10.0.
+This plugin re-activates the portrait system for news in ES. Includes all of the portrait images that were removed in 0.10.14. Alien portraits (including transhuman portraits) are not considered canon. Compatable for most news up to 0.10.0.
 ###### To install
 It is highly recommended to use [ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2/releases/latest) to install this plugin. If you can't/don't want to install ESLauncher2, then you can install the plugin by unzipping it and placing it into ES's plugin folder.
 </blockquote>

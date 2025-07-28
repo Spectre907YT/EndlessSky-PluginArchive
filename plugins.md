@@ -1427,7 +1427,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Boarding.Licenses.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Boarding.Licenses.zip) | 17.96 kb | 2023-11-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Boarding%20Licenses/) <br>
 Author: An-archist | Category: Gameplay <br>
-[https://github.com/An-archist/boarding-licenses](https://github.com/An-archist/boarding-licenses) (last commit 2019-10-25) <br>
+[https://github.com/An-archist/boarding-licenses](https://github.com/An-archist/boarding-licenses)  <br>
 
 >Adds licenses that allow the player to capture ships. Currently in alpha The better the license, the more ships you can cap
 >
@@ -1463,7 +1463,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Bounty.Hunters.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Bounty.Hunters.zip) | 11.3 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Bounty%20Hunters/) <br>
 Author: WarlordMike | Category: Gameplay <br>
-[https://github.com/WarlordMike/es-bounty-hunters](https://github.com/WarlordMike/es-bounty-hunters) (last commit 2020-11-07) <br>
+[https://github.com/WarlordMike/es-bounty-hunters](https://github.com/WarlordMike/es-bounty-hunters)  <br>
 
 >Adds a storyline where you can become a bounty hunter.
 >
@@ -1494,7 +1494,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Bounty-Fix.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Bounty-Fix.zip) | 95.43 kb | 2023-07-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Bounty-Fix/) <br>
 Author: CatLady | Category: Gameplay <br>
-[https://github.com/Cat-Lady/Bounty-Fix](https://github.com/Cat-Lady/Bounty-Fix) (last commit 2019-11-17) <br>
+[https://github.com/Cat-Lady/Bounty-Fix](https://github.com/Cat-Lady/Bounty-Fix)  <br>
 
 >This ES plugin makes Pirates/Marauders that are subject of Bounty Hunting missions be properly seen as enemies by Militia/Navy/Deep Security/Merchants and other forces that should dislike Marauders/Pirates.
 
@@ -5188,7 +5188,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Bulkheads-and-Battleships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Bulkheads-and-Battleships.zip) | 33.15 kb | 2023-11-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Bulkheads-and-Battleships/) <br>
 Author: Zoura | Category: Overhauls <br>
-[https://github.com/AvianGeneticist/Bulkheads-and-Battleships](https://github.com/AvianGeneticist/Bulkheads-and-Battleships) (last commit 2023-05-27) <br>
+[https://github.com/AvianGeneticist/Bulkheads-and-Battleships](https://github.com/AvianGeneticist/Bulkheads-and-Battleships)  <br>
 
 >Turn Endless Sky into DnD-style RPG.
 >
@@ -8543,7 +8543,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 7.57 mb | 2025-06-01 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
 Author: mOctave | Category: Ships <br>
-[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2025-06-01) <br>
+[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships)  <br>
 
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
 >
@@ -8561,7 +8561,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [BSRC.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/BSRC.zip) | 4.68 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/BSRC/) <br>
 Author: phenix2 | Category: Ships <br>
-[https://github.com/phenix2/BSRC](https://github.com/phenix2/BSRC) (last commit 2020-01-08) <br>
+[https://github.com/phenix2/BSRC](https://github.com/phenix2/BSRC)  <br>
 
 >A Endless Sky plugin with ships from drone class to battleship class
 
@@ -11477,7 +11477,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Blackheart.s.Treasure.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blackheart.s.Treasure.zip) | 398.29 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blackheart's%20Treasure/) <br>
 Author: Galaucus | Category: Story <br>
-[https://github.com/Galaucus/Blackheart-s-Treasure](https://github.com/Galaucus/Blackheart-s-Treasure) (last commit 2021-05-01) <br>
+[https://github.com/Galaucus/Blackheart-s-Treasure](https://github.com/Galaucus/Blackheart-s-Treasure)  <br>
 
 >N/A
 
@@ -11494,7 +11494,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Boarding.Missions.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Boarding.Missions.zip) | 2.38 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Boarding%20Missions/) <br>
 Author: Timothy Butterworth | Category: Story <br>
-[https://github.com/tmbutterworth/boarding-missions](https://github.com/tmbutterworth/boarding-missions) (last commit 2018-09-18) <br>
+[https://github.com/tmbutterworth/boarding-missions](https://github.com/tmbutterworth/boarding-missions)  <br>
 
 >This plug-in adds additional boarding missions to the game increasing the chances for a player to receive a payment for assisting a disabled ship.
 >

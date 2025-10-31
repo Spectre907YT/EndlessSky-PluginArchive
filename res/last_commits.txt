@@ -113,7 +113,7 @@ Flip Those Ships|2020-10-08
 Free Kitten|2018-12-31
 Galactic War hi-dpi|2022-11-12
 Galactic War|2024-10-31
-galactic.capital.investment|2025-08-15
+galactic.capital.investment|2025-10-31
 Galaxias|2023-03-22
 Gander|2023-01-07
 Gatling Ammo Fix|2019-11-17
@@ -146,7 +146,7 @@ Levis Customs|2023-06-27
 Lleytons ES Starships|2018-06-11
 Logbook Help|2025-10-23
 Loronar Transport|2020-06-17
-Lost in Midnight|2025-10-27
+Lost in Midnight|2025-10-30
 Low Tech Worlds|2023-01-03
 Lupainians|2023-04-06
 Mad Quest|2017-11-13
@@ -162,7 +162,7 @@ Mata|2023-05-16
 MechSummoner|2024-07-09
 Mega Freight|2025-10-24
 Mess|2019-08-20
-Midnight Expansion|2025-10-26
+Midnight Expansion|2025-10-31
 Midnight Scrapyard|2025-10-26
 Military Plugin|2020-10-24
 Mining Pinger|2023-04-03

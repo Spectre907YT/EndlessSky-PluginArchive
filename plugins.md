@@ -1772,9 +1772,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/galactic.capital.investment/icon.png' height='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 4.07 mb | 2025-08-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
+[galactic.capital.investment.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/galactic.capital.investment.zip) | 4.2 mb | 2025-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/galactic.capital.investment/) <br>
 Author: zuckung | Category: Gameplay <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-08-15) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-10-31) <br>
 
 >Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 100 million credits. See the readme for details.
 >(inspired by a-alhusaini's investment bank plugin)
@@ -1783,22 +1783,20 @@ Author: zuckung | Category: Gameplay <br>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>### galactic.capital.investment <br>
 <br>
-Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 1 billion credits.<br>
-<br>
-At 1 billion credits cash a longer mission chain starts and enables a reapeatable job board investment of 1 billion credits. The chain has some breaks and finishes after a year.<br>
-There is also a job to deposit and withdraw credits, but at a much lower interest rate. And the same job offers to deposit and withdraw to a family trust, which can be accessed by all your saves/pilots (but without interest).<br>
+Offers different job board banking services. From normal banking with low interest rates, over risky stock exchange, and profitable investments (unlocked by missions), to a family thrust. Available in human, quarg and hai space.<br>
 <br>
 Job board investments:(if enabled)<br>
-1 million = 274 credits daily (12% chance) (10% interest p.a.)<br>
+1 million = 274 credits daily (12% chance) (10% interest p.a.)(unlocked by a mission)<br>
 5 million = 1,520 credits daily (10% chance) (11% interest p.a.)<br>
 10 million = 3,287 credits daily (8% chance) (12% interest p.a.)<br>
 50 million = 17,808 credits daily (6% chance) (13% interest p.a.)<br>
 100 million = 38,356 credits daily (4% chance) (14% interest p.a.)<br>
-1 billion = 410,958 credits daily (2% chance) (15% interest p.a.)<br>
+1 billion = 410,958 credits daily (2% chance) (15% interest p.a.)(unlocked by a mission chain)<br>
 <br>
 Job board bank account, always available:<br>
 Deposit and withdraw from your bank account (4% interest p.a.)<br>
-Deposit and withdraw from your family trust, accessible by all your pilots<br>
+Deposit and withdraw from your family trust, accessible by all your pilots(0% p.a.)<br>
+Stock trading(10 stocks, quarterly dividend payout of 3% (12% p.a. of changing values))<br>
 Sell investments at 10% conversion rate<br>
 Set up the bank account interest as a daily cash payout<br>
 Enable and disable the investment jobs/missions<br>
@@ -1806,6 +1804,10 @@ Enable and disable the investment jobs/missions<br>
 <br>
 <br>
 Changelog:<br>
+<br>
+2025-10-31<br>
+added more info about cash transfer to bank deposit/withdrw (reported by mikeloeven)<br>
+added stock trading<br>
 <br>
 2025-08-16<br>
 fixed sell investment gives too much credits (reported by NordicRest)<br>
@@ -12795,9 +12797,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Lost in Midnight/icon.png' height='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 84.18 mb | 2025-10-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 84.28 mb | 2025-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
 Author: MidnightPlugins | Category: Story <br>
-[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-10-27) <br>
+[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-10-30) <br>
 
 >A mission focused plugin for Endless Sky.
 >
@@ -12887,9 +12889,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Midnight Expansion/icon.png' height='100'></img><br>
 
 
-[Midnight.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Expansion.zip) | 16.31 mb | 2025-10-26 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Expansion/) <br>
+[Midnight.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Midnight.Expansion.zip) | 16.31 mb | 2025-10-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Midnight%20Expansion/) <br>
 Author: MidnightPlugins | Category: Story <br>
-[https://github.com/MidnightPlugins/Midnight-Expansion](https://github.com/MidnightPlugins/Midnight-Expansion) (last commit 2025-10-26) <br>
+[https://github.com/MidnightPlugins/Midnight-Expansion](https://github.com/MidnightPlugins/Midnight-Expansion) (last commit 2025-10-31) <br>
 
 >Plugin using ships, outfits, or other resources from plugins by other creators or derivatives of their original creations. Some content may require the Lost in Midnight or Midnight Scrapyard plugins to unlock. 
 >

@@ -37,7 +37,7 @@ BetterVanillaHai|2022-06-24
 Beyond the Sky|2023-08-15
 BiteOfTheAnt|2018-05-07
 Blackheart's Treasure|2021-05-01
-Blended Ships|2025-11-09
+Blended Ships|2025-11-11
 Boarding Licenses|2019-10-25
 Boarding Missions|2018-09-18
 Bounty Hunters|2020-11-07
@@ -122,7 +122,7 @@ Gungnir|2020-05-22
 Gyroscopes|2020-10-23
 H2H Outfits|2018-09-17
 Hauler Expansion|2020-09-27
-High DPI|2025-10-25
+High DPI|2025-11-11
 HONK|2017-09-14
 Human Space Overhaul|2022-10-31
 IJN Yamato|2023-10-31

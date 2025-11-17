@@ -2596,7 +2596,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Spacefarer.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Spacefarer.zip) | 220.79 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Spacefarer/) <br>
 Author: samrocketman | Category: Gameplay <br>
-[https://github.com/samrocketman/Spacefarer](https://github.com/samrocketman/Spacefarer) (last commit 2024-02-11) <br>
+[https://github.com/samrocketman/Spacefarer](https://github.com/samrocketman/Spacefarer) (last commit 2025-11-17) <br>
 
 >One Jump Drive; No ship capturing; No plundering installed outfits.
 >
@@ -15125,9 +15125,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Disable Author Ships/icon.png' height='100'></img><br>
 
 
-[Disable.Author.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Disable.Author.Ships.zip) | 93.15 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Disable%20Author%20Ships/) <br>
+[Disable.Author.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Disable.Author.Ships.zip) | 93.1 kb | 2025-11-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Disable%20Author%20Ships/) <br>
 Author: samrocketman | Category: N/A <br>
-[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships) (last commit 2022-06-04) <br>
+[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships) (last commit 2025-11-17) <br>
 
 >An endless sky plugin to remove author ships from the game. 
 

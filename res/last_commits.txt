@@ -68,7 +68,7 @@ Delayed Free Worlds|2022-04-15
 Derogam|2024-05-30
 DevStarts|2023-02-05
 Different Galaxy Plugin|2021-03-02
-Disable Author Ships|2022-06-04
+Disable Author Ships|2025-11-17
 Donut 512|2023-06-03
 Dragonflame Fabrication|2020-09-07
 easier harvesting|2017-05-28
@@ -232,7 +232,7 @@ Sounds Of Endless Sky|2024-02-11
 Space Invaders|2018-02-19
 Space Shuttle Start|2024-07-12
 SpaceCrate|2024-07-11
-Spacefarer|2024-02-11
+Spacefarer|2025-11-17
 Spacetime Ripper Warhead|2017-10-15
 Spinaleviathan|2023-07-01
 Staferfield Mod|2018-02-19

@@ -1,3 +1,5 @@
+2025-11-21 | -Omnis | updated <br>
+2025-11-21 | Arion | new <br>
 2025-11-20 | Arion | new <br>
 2025-11-20 | captureable.person.ships | updated <br>
 2025-11-19 | Naltok | updated <br>

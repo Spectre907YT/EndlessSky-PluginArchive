@@ -8571,9 +8571,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Blended Ships/icon.png' height='100'></img><br>
 
 
-[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 8.41 mb | 2025-11-13 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
+[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 8.41 mb | 2025-11-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
 Author: mOctave | Category: Ships <br>
-[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2025-11-13) <br>
+[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2025-11-22) <br>
 
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
 >
@@ -12806,9 +12806,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Lost in Midnight/icon.png' height='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 89.74 mb | 2025-11-22 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 89.77 mb | 2025-11-23 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
 Author: MidnightPlugins | Category: Story <br>
-[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-11-22) <br>
+[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-11-23) <br>
 
 >A mission focused plugin for Endless Sky.
 >

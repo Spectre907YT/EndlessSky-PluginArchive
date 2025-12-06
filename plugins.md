@@ -3050,9 +3050,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/High DPI/icon.png' height='100'></img><br>
 
 
-[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 742.81 mb | 2025-11-18 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
+[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 742.88 mb | 2025-12-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
 Author: Michael Zahniser (Maintained by the ES Community) | Category: Graphics <br>
-[https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi) (last commit 2025-11-18) <br>
+[https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi) (last commit 2025-12-06) <br>
 
 >Official High-DPI graphics for Endless Sky.
 >
@@ -9756,9 +9756,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Mega Freight/icon.png' height='100'></img><br>
 
 
-[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 157.41 mb | 2025-12-02 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
+[Mega.Freight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mega.Freight.zip) | 157.41 mb | 2025-12-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mega%20Freight/) <br>
 Author: 1010todd | Category: Ships <br>
-[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2025-12-02) <br>
+[https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight) (last commit 2025-12-06) <br>
 
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
 >

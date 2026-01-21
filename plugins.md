@@ -8571,9 +8571,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Blended Ships/icon.png' height='100'></img><br>
 
 
-[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 8.53 mb | 2025-12-25 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
+[Blended.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Blended.Ships.zip) | 8.53 mb | 2026-01-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Blended%20Ships/) <br>
 Author: mOctave | Category: Ships <br>
-[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2025-12-25) <br>
+[https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships) (last commit 2026-01-21) <br>
 
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
 >
@@ -9151,7 +9151,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [HONK.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/HONK.zip) | 2.28 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/HONK/) <br>
 Author: Hurtz | Category: Ships <br>
-[https://github.com/Killerhurtz/ES-HONK](https://github.com/Killerhurtz/ES-HONK) (last commit 2017-09-14) <br>
+[https://github.com/Killerhurtz/ES-HONK](https://github.com/Killerhurtz/ES-HONK)  <br>
 
 >Small plugin for the hilarity of it. HONK.
 >

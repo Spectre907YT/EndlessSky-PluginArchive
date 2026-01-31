@@ -11780,7 +11780,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Colorado.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Colorado.zip) | 73.45 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Colorado/) <br>
 Author: Clint Moyer | Category: Story <br>
-[https://github.com/clintmoyer/endless-sky-plugins](https://github.com/clintmoyer/endless-sky-plugins)  <br>
+[https://github.com/clintmoyer/endless-sky-plugins](https://github.com/clintmoyer/endless-sky-plugins) (last commit 2018-04-30) <br>
 
 >Adds a new system and some missions.
 >

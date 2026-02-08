@@ -4523,7 +4523,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Solar Sails/icon.png' height='100'></img><br>
 
 
-[Solar.Sails.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Solar%20Sails/) <br>
+[Solar.Sails.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Solar.Sails.zip) | 1.45 mb | 2025-11-16 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Solar%20Sails/) <br>
 Author: TheronEpic | Category: Outfits <br>
 [https://github.com/TheronEpic/theronepic-solar-sails](https://github.com/TheronEpic/theronepic-solar-sails) (last commit 2020-10-30) <br>
 
@@ -4541,7 +4541,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Speed Stabilisers
 
 
-[Speed.Stabilisers.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Speed.Stabilisers.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Speed%20Stabilisers/) <br>
+[Speed.Stabilisers.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Speed.Stabilisers.zip) | 0.93 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Speed%20Stabilisers/) <br>
 Author: N/A | Category: Outfits <br>
 N/A[]()  <br>
 
@@ -4551,7 +4551,7 @@ N/A[]()  <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -15137,7 +15137,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Disable.Author.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Disable.Author.Ships.zip) | 93.1 kb | 2025-11-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Disable%20Author%20Ships/) <br>
 Author: samrocketman | Category: N/A <br>
-[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships)  <br>
+[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships) (last commit 2025-11-17) <br>
 
 >An endless sky plugin to remove author ships from the game. 
 

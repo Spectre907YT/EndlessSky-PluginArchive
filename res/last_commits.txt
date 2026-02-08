@@ -68,6 +68,7 @@ Delayed Free Worlds|2022-04-15
 Derogam|2024-05-30
 DevStarts|2023-02-05
 Different Galaxy Plugin|2021-03-02
+Disable Author Ships|2025-11-17
 Donut 512|2023-06-03
 Dragonflame Fabrication|2020-09-07
 easier harvesting|2017-05-28

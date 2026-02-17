@@ -7314,7 +7314,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Exotic.Matter.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Exotic.Matter.zip) | 4.02 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Exotic%20Matter/) <br>
 Author: CristopherZhong | Category: Races <br>
-[https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin](https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin)  <br>
+[https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin](https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin) (last commit 2016-12-21) <br>
 
 >N/A
 >

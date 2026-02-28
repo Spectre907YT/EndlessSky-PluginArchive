@@ -4286,7 +4286,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Pilots License/icon.png' height='100'></img><br>
 
 
-[Pilots.License.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pilots.License.zip) | 63.65 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pilots%20License/) <br>
+[Pilots.License.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pilots.License.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pilots%20License/) <br>
 Author: Timothy Butterworth | Category: Outfits <br>
 [https://github.com/tmbutterworth/pilots-license](https://github.com/tmbutterworth/pilots-license) (last commit 2018-09-18) <br>
 
@@ -12068,7 +12068,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Dangerous.Games.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Dangerous.Games.zip) | 4.63 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Dangerous%20Games/) <br>
 Author: wispborne | Category: Story <br>
-[https://github.com/wispborne/endless-sky-dangerous-games](https://github.com/wispborne/endless-sky-dangerous-games) (last commit 2016-09-11) <br>
+[https://github.com/wispborne/endless-sky-dangerous-games](https://github.com/wispborne/endless-sky-dangerous-games)  <br>
 
 >This is a mission available from the planet Clark that takes you an a short adventure with the dragons of Skymoot.
 >

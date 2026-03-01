@@ -3695,7 +3695,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Epic.Outfits.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Epic.Outfits.zip) | 247.23 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Epic%20Outfits/) <br>
 Author: TheronEpic | Category: Outfits <br>
-[https://github.com/TheronEpic/TheronEpics-Outfits](https://github.com/TheronEpic/TheronEpics-Outfits) (last commit 2020-11-07) <br>
+[https://github.com/TheronEpic/TheronEpics-Outfits](https://github.com/TheronEpic/TheronEpics-Outfits)  <br>
 
 >Several new outfits.
 >
@@ -4286,7 +4286,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Pilots License/icon.png' height='100'></img><br>
 
 
-[Pilots.License.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pilots.License.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pilots%20License/) <br>
+[Pilots.License.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pilots.License.zip) | 63.65 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pilots%20License/) <br>
 Author: Timothy Butterworth | Category: Outfits <br>
 [https://github.com/tmbutterworth/pilots-license](https://github.com/tmbutterworth/pilots-license) (last commit 2018-09-18) <br>
 
@@ -5043,7 +5043,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Babylon 5-the first ones
 
 
-[Babylon.5-the.first.ones.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Babylon.5-the.first.ones.zip) | 15.6 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Babylon%205-the%20first%20ones/) <br>
+[Babylon.5-the.first.ones.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Babylon.5-the.first.ones.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Babylon%205-the%20first%20ones/) <br>
 Author: Ambassador Kosh | Category: Overhauls <br>
 [https://www.nexusmods.com/endlesssky/mods/9](https://www.nexusmods.com/endlesssky/mods/9)  <br>
 
@@ -5052,7 +5052,7 @@ Author: Ambassador Kosh | Category: Overhauls <br>
 
 
 Status: WIP <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -11781,10 +11781,10 @@ Author: LazurasLong | Category: Story <br>
 <blockquote># cognitive-subdivision
 A mod for Endless Sky. Takes place right around the start of the second half of the Wanderer storyline
 
-The story involves two main factions, the Algol and the Hand of Eden, as well as some vanilla factions like the Quarg and Drak.
-The player will have to aid the Algol in various tasks throughout the campaign.
+The story involves two main factions, the Algol and the Hand of Eden, as well as some vanilla factions like the Coalition, Hai Unfettered, and of course Humanity.
+The player will have to aid the Algol in various tasks throughout the current campaign.
 
-The completed plugin will include over 9 new tier 3 and tier 2 ships, various new outfits to count, as well as over 14 new systems in the Milky Way galaxy.
+The completed plugin will include over 50 different types of new ships, various new outfits to count, as well as over 17 new systems in the Milky Way galaxy and new stories to dive into.
 
 </blockquote>
 </details>
@@ -12068,7 +12068,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Dangerous.Games.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Dangerous.Games.zip) | 4.63 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Dangerous%20Games/) <br>
 Author: wispborne | Category: Story <br>
-[https://github.com/wispborne/endless-sky-dangerous-games](https://github.com/wispborne/endless-sky-dangerous-games)  <br>
+[https://github.com/wispborne/endless-sky-dangerous-games](https://github.com/wispborne/endless-sky-dangerous-games) (last commit 2016-09-11) <br>
 
 >This is a mission available from the planet Clark that takes you an a short adventure with the dragons of Skymoot.
 >

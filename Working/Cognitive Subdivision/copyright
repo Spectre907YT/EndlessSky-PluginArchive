@@ -6,6 +6,7 @@ Source: https://github.com/Variance-Moment/cognitive-subdivision
 Files:
   images/effect/*
   images/hardpoint/*
+  images/label/*
   images/projectile/*
   images/ship/*
   images/star/*

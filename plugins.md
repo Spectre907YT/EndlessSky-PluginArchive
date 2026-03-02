@@ -3695,7 +3695,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 [Epic.Outfits.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Epic.Outfits.zip) | 247.23 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Epic%20Outfits/) <br>
 Author: TheronEpic | Category: Outfits <br>
-[https://github.com/TheronEpic/TheronEpics-Outfits](https://github.com/TheronEpic/TheronEpics-Outfits)  <br>
+[https://github.com/TheronEpic/TheronEpics-Outfits](https://github.com/TheronEpic/TheronEpics-Outfits) (last commit 2020-11-07) <br>
 
 >Several new outfits.
 >
@@ -5043,7 +5043,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Babylon 5-the first ones
 
 
-[Babylon.5-the.first.ones.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Babylon.5-the.first.ones.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Babylon%205-the%20first%20ones/) <br>
+[Babylon.5-the.first.ones.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Babylon.5-the.first.ones.zip) | 15.6 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Babylon%205-the%20first%20ones/) <br>
 Author: Ambassador Kosh | Category: Overhauls <br>
 [https://www.nexusmods.com/endlesssky/mods/9](https://www.nexusmods.com/endlesssky/mods/9)  <br>
 
@@ -5052,7 +5052,7 @@ Author: Ambassador Kosh | Category: Overhauls <br>
 
 
 Status: WIP <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---

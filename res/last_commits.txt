@@ -19,6 +19,7 @@ Animated Stars|2019-11-17
 Arbiter|2018-02-08
 Arena of the worthy|2024-06-30
 Arena|2021-05-18
+Arion|2025-05-04
 Athmagr Invasion|2022-11-05
 AuldrStarts|2023-01-08
 automata.destruction.0percent|2025-08-29
@@ -112,7 +113,7 @@ Flip Those Ships|2020-10-08
 Free Kitten|2018-12-31
 Galactic War hi-dpi|2025-11-05
 Galactic War|2025-12-02
-galactic.capital.investment|2026-02-22
+galactic.capital.investment|2026-03-08
 Galaxias|2023-03-22
 Gander|2023-01-07
 Gatling Ammo Fix|2019-11-17

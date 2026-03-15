@@ -15149,9 +15149,9 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 <img src='Working/Disable Author Ships/icon.png' height='100'></img><br>
 
 
-[Disable.Author.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Disable.Author.Ships.zip) | 93.1 kb | 2025-11-17 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Disable%20Author%20Ships/) <br>
+[Disable.Author.Ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Disable.Author.Ships.zip) | 93.54 kb | 2026-03-15 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Disable%20Author%20Ships/) <br>
 Author: samrocketman | Category: N/A <br>
-[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships) (last commit 2025-11-17) <br>
+[https://github.com/samrocketman/endless-sky-disable-author-ships](https://github.com/samrocketman/endless-sky-disable-author-ships) (last commit 2026-03-15) <br>
 
 >An endless sky plugin to remove author ships from the game. 
 

@@ -52,6 +52,8 @@ shipyard `Ascendancy`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Aumar`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `Avgi Salvage`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `Base-shipyard`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Basic-freighters-shipyard`
@@ -86,6 +88,10 @@ shipyard `Builder Kai'xeris`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Builder Rao'xeris`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `Bunrodea Capital`
+	add "Ruin-The-Fun Overridable Ship"
+shipyard `bunrodea plugin`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `CCS Corp Advanced`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `CCS Corp Basic`
@@ -118,11 +124,9 @@ shipyard `Core Nuclear Transport`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Core Pirates`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `Covert Mining`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `crescent`
-	add "Ruin-The-Fun Overridable Ship"
-shipyard `DAIS Human`
-	add "Ruin-The-Fun Overridable Ship"
-shipyard `DAIS Wanderer`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Darua Advanced`
 	add "Ruin-The-Fun Overridable Ship"
@@ -530,6 +534,8 @@ shipyard `Sestor Advanced`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Sestor Basics`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `Shadow House`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `Sheragi Advanced`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Sheragi Basic`
@@ -578,6 +584,8 @@ shipyard `Taroun Basic`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Tehru All`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `Thule`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `Thyrupp AG Advanced`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Thyrupp AG Basics`
@@ -616,6 +624,8 @@ shipyard `Wallagi All`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `wanderer`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `wanderer plugin`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `Woodchip`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `XSZ Tier 1`
@@ -628,7 +638,15 @@ shipyard `ZIS Advanced`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `ZIS All`
 	add "Ruin-The-Fun Overridable Ship"
+shipyard `ZIS Kirval`
+	add "Ruin-The-Fun Overridable Ship"
+shipyard `ZIS Lisromme`
+	add "Ruin-The-Fun Overridable Ship"
+shipyard `ZIS Nyvar`
+	add "Ruin-The-Fun Overridable Ship"
 shipyard `ZIS Old`
+	add "Ruin-The-Fun Overridable Ship"
+shipyard `ZIS Trivis`
 	add "Ruin-The-Fun Overridable Ship"
 shipyard `Zorcn Advanced`
 	add "Ruin-The-Fun Overridable Ship"

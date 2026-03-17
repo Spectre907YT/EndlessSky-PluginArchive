@@ -45,7 +45,8 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Argosy (Proton)`
 	`Argosy (Turret)`
 	`Arrow (Hai)`
-	`Atenuatia (Atomic)`
+	`Asteroid Large (Patir 12.2)`
+	`Atenuatia (Orchid)`
 	`Autumn Leaf (Heavy)`
 	`Auxiliary (Cargo)`
 	`Auxiliary (Cargo Mark II)`
@@ -84,6 +85,7 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Bounder (Hai Trafficker)`
 	`Bounder (Luxury)`
 	`Boxwing (Miner)`
+	`Builder Satellite 2`
 	`Bulk Freighter (Blaster)`
 	`Bulk Freighter (Derelict)`
 	`Bulk Freighter (Hai)`
@@ -113,7 +115,6 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Container Transport (Proton)`
 	`Container Transport (Short Haul)`
 	`Cool Breeze (Sunbeam)`
-	`Corundum (Multi)`
 	`Corundum (Torch)`
 	`Corvette (Flamethrower Electron Anti-Missile)`
 	`Corvette (Hai)`
@@ -127,7 +128,6 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Cruiser (Mark II)`
 	`Cruiser (Plasma Anti-Missile)`
 	`Cruiser (Republic Intelligence)`
-	`Cutthroat (Jousting)`
 	`Dagger (Miner)`
 	`Deep River 0`
 	`Deep River 1`
@@ -138,9 +138,12 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Derecho (Moonbeam)`
 	`Derecho (Tough)`
 	`Derecho (Turret)`
-	`Diaspersi (Atomic)`
-	`Difraktos (Atomic)`
+	`Diaspersi (Orchid)`
+	`Diaspersi (UREB)`
 	`Difraktos (KKV)`
+	`Difraktos (Orchid)`
+	`Difraktos (UREB)`
+	`Difraktos (UREB + Orchid)`
 	`Diorite (Ballistic)`
 	`Doombat`
 	`Dreadnought (Jump)`
@@ -158,11 +161,13 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Falcon (Prisoner Transport)`
 	`Falcon (Tractor Beam)`
 	`Fetri'sei (Disable-able)`
+	`Fetri'sei (Patir 12.2)`
 	`Finch (MZ)`
 	`Firebird (CCOR)`
 	`Firebird (Derelict)`
 	`Firebird (Hai Shields)`
 	`Firebird (Hai Weapons)`
+	`Firebird (Heavy Blaster)`
 	`Firebird (Laser)`
 	`Firebird (Missile)`
 	`Firebird (Plasma)`
@@ -221,6 +226,7 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Headhunter (Particle)`
 	`Headhunter (Strike)`
 	`Headhunter (Tractor Beam)`
+	`Heavy Gust (Moonbeam)`
 	`Heavy Shuttle (Armed)`
 	`Heliarch Breacher (Ions)`
 	`Heliarch Breacher (Missile)`
@@ -261,8 +267,8 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Hurricane (Moonbeam)`
 	`Hurricane (Tough)`
 	`Hurricane (Turret)`
-	`Interferos (Atomic)`
 	`Interferos (KKV)`
+	`Interferos (Orchid)`
 	`Kar Ik Vot 349 (Defense)`
 	`Kar Ik Vot 349 (Offense)`
 	`Kar Ik Vot 349 (Trapper)`
@@ -362,8 +368,6 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Myaede (Violent)`
 	`Nest (Miner)`
 	`Nest (Sidewinder)`
-	`Nighthawk (Raider)`
-	`Nighthawk (Slaver)`
 	`Nimbus (Civilian)`
 	`Nimbus FTL`
 	`Nimbus (Mining)`
@@ -388,13 +392,14 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Palavret (Hyperdrive)`
 	`Pelican (Heavy Lift)`
 	`Peregrine (II)`
-	`Photikon (Atomic)`
+	`Photikon (KKV)`
+	`Photikon (Ophrys)`
 	`Pond Strider (Ion)`
 	`Pond Strider (Pulse)`
 	`Pond Strider (Railgun)`
 	`Pond Strider (Tracker)`
-	`Prismaios (Atomic)`
 	`Prismaios (Laserstar)`
+	`Prismaios (Orchid)`
 	`Protector (Derelict)`
 	`Protector (Laser)`
 	`Protector (Proton)`
@@ -425,6 +430,8 @@ shipyard "Ruin-The-Fun All Ship Variants"
 	`Rano'erek (Shunt)`
 	`Raven (Afterburner)`
 	`Raven (Heavy)`
+	`Refraktos (Excimer)`
+	`Refraktos (UREB)`
 	`Roost (Sidewinder)`
 	`Saber (CCOR Gatling)`
 	`Saber (CCOR Javelin)`

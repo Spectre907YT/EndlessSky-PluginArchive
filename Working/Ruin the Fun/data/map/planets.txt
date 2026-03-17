@@ -32,10 +32,12 @@ planet RTF0-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -47,11 +49,14 @@ planet RTF0-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -83,13 +88,17 @@ planet RTF0-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -103,6 +112,7 @@ planet RTF0-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -117,6 +127,7 @@ planet RTF0-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -124,6 +135,8 @@ planet RTF0-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -139,8 +152,14 @@ planet RTF0-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -149,29 +168,39 @@ planet RTF0-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -179,12 +208,16 @@ planet RTF0-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -196,6 +229,7 @@ planet RTF0-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -204,6 +238,7 @@ planet RTF0-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -215,6 +250,7 @@ planet RTF0-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -223,6 +259,7 @@ planet RTF0-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -230,7 +267,40 @@ planet RTF0-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -241,6 +311,7 @@ planet RTF0-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -254,6 +325,9 @@ planet RTF0-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -264,14 +338,22 @@ planet RTF0-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -290,24 +372,37 @@ planet RTF0-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -318,6 +413,9 @@ planet RTF0-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -329,17 +427,29 @@ planet RTF0-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -352,7 +462,10 @@ planet RTF0-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -386,6 +499,7 @@ planet RTF0-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -411,6 +525,7 @@ planet RTF0-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -429,9 +544,8 @@ planet RTF0-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -651,6 +765,7 @@ planet RTF0-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -681,6 +796,7 @@ planet RTF0-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -710,6 +826,7 @@ planet RTF0-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -719,7 +836,11 @@ planet RTF0-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -760,10 +881,12 @@ planet RTF1-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -775,11 +898,14 @@ planet RTF1-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -811,13 +937,17 @@ planet RTF1-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -831,6 +961,7 @@ planet RTF1-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -845,6 +976,7 @@ planet RTF1-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -852,6 +984,8 @@ planet RTF1-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -867,8 +1001,14 @@ planet RTF1-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -877,29 +1017,39 @@ planet RTF1-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -907,12 +1057,16 @@ planet RTF1-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -924,6 +1078,7 @@ planet RTF1-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -932,6 +1087,7 @@ planet RTF1-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -943,6 +1099,7 @@ planet RTF1-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -951,6 +1108,7 @@ planet RTF1-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -958,7 +1116,40 @@ planet RTF1-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -969,6 +1160,7 @@ planet RTF1-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -982,6 +1174,9 @@ planet RTF1-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -992,14 +1187,22 @@ planet RTF1-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -1018,24 +1221,37 @@ planet RTF1-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -1046,6 +1262,9 @@ planet RTF1-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -1057,17 +1276,29 @@ planet RTF1-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -1080,7 +1311,10 @@ planet RTF1-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -1114,6 +1348,7 @@ planet RTF1-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -1139,6 +1374,7 @@ planet RTF1-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -1157,9 +1393,8 @@ planet RTF1-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -1379,6 +1614,7 @@ planet RTF1-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -1409,6 +1645,7 @@ planet RTF1-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -1438,6 +1675,7 @@ planet RTF1-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -1447,7 +1685,11 @@ planet RTF1-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -1488,10 +1730,12 @@ planet RTF2-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -1503,11 +1747,14 @@ planet RTF2-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -1539,13 +1786,17 @@ planet RTF2-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -1559,6 +1810,7 @@ planet RTF2-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -1573,6 +1825,7 @@ planet RTF2-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -1580,6 +1833,8 @@ planet RTF2-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -1595,8 +1850,14 @@ planet RTF2-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -1605,29 +1866,39 @@ planet RTF2-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -1635,12 +1906,16 @@ planet RTF2-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -1652,6 +1927,7 @@ planet RTF2-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -1660,6 +1936,7 @@ planet RTF2-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -1671,6 +1948,7 @@ planet RTF2-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -1679,6 +1957,7 @@ planet RTF2-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -1686,7 +1965,40 @@ planet RTF2-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -1697,6 +2009,7 @@ planet RTF2-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -1710,6 +2023,9 @@ planet RTF2-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -1720,14 +2036,22 @@ planet RTF2-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -1746,24 +2070,37 @@ planet RTF2-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -1774,6 +2111,9 @@ planet RTF2-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -1785,17 +2125,29 @@ planet RTF2-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -1808,7 +2160,10 @@ planet RTF2-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -1842,6 +2197,7 @@ planet RTF2-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -1867,6 +2223,7 @@ planet RTF2-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -1885,9 +2242,8 @@ planet RTF2-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -2107,6 +2463,7 @@ planet RTF2-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -2137,6 +2494,7 @@ planet RTF2-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -2166,6 +2524,7 @@ planet RTF2-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -2175,7 +2534,11 @@ planet RTF2-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -2216,10 +2579,12 @@ planet RTF3-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -2231,11 +2596,14 @@ planet RTF3-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -2267,13 +2635,17 @@ planet RTF3-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -2287,6 +2659,7 @@ planet RTF3-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -2301,6 +2674,7 @@ planet RTF3-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -2308,6 +2682,8 @@ planet RTF3-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -2323,8 +2699,14 @@ planet RTF3-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -2333,29 +2715,39 @@ planet RTF3-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -2363,12 +2755,16 @@ planet RTF3-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -2380,6 +2776,7 @@ planet RTF3-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -2388,6 +2785,7 @@ planet RTF3-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -2399,6 +2797,7 @@ planet RTF3-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -2407,6 +2806,7 @@ planet RTF3-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -2414,7 +2814,40 @@ planet RTF3-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -2425,6 +2858,7 @@ planet RTF3-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -2438,6 +2872,9 @@ planet RTF3-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -2448,14 +2885,22 @@ planet RTF3-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -2474,24 +2919,37 @@ planet RTF3-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -2502,6 +2960,9 @@ planet RTF3-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -2513,17 +2974,29 @@ planet RTF3-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -2536,7 +3009,10 @@ planet RTF3-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -2570,6 +3046,7 @@ planet RTF3-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -2595,6 +3072,7 @@ planet RTF3-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -2613,9 +3091,8 @@ planet RTF3-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -2835,6 +3312,7 @@ planet RTF3-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -2865,6 +3343,7 @@ planet RTF3-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -2894,6 +3373,7 @@ planet RTF3-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -2903,7 +3383,11 @@ planet RTF3-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -2944,10 +3428,12 @@ planet RTF4-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -2959,11 +3445,14 @@ planet RTF4-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -2995,13 +3484,17 @@ planet RTF4-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -3015,6 +3508,7 @@ planet RTF4-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -3029,6 +3523,7 @@ planet RTF4-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -3036,6 +3531,8 @@ planet RTF4-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -3051,8 +3548,14 @@ planet RTF4-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -3061,29 +3564,39 @@ planet RTF4-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -3091,12 +3604,16 @@ planet RTF4-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -3108,6 +3625,7 @@ planet RTF4-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -3116,6 +3634,7 @@ planet RTF4-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -3127,6 +3646,7 @@ planet RTF4-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -3135,6 +3655,7 @@ planet RTF4-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -3142,7 +3663,40 @@ planet RTF4-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -3153,6 +3707,7 @@ planet RTF4-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -3166,6 +3721,9 @@ planet RTF4-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -3176,14 +3734,22 @@ planet RTF4-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -3202,24 +3768,37 @@ planet RTF4-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -3230,6 +3809,9 @@ planet RTF4-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -3241,17 +3823,29 @@ planet RTF4-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -3264,7 +3858,10 @@ planet RTF4-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -3298,6 +3895,7 @@ planet RTF4-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -3323,6 +3921,7 @@ planet RTF4-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -3341,9 +3940,8 @@ planet RTF4-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -3563,6 +4161,7 @@ planet RTF4-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -3593,6 +4192,7 @@ planet RTF4-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -3622,6 +4222,7 @@ planet RTF4-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -3631,7 +4232,11 @@ planet RTF4-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -3672,10 +4277,12 @@ planet RTF5-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -3687,11 +4294,14 @@ planet RTF5-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -3723,13 +4333,17 @@ planet RTF5-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -3743,6 +4357,7 @@ planet RTF5-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -3757,6 +4372,7 @@ planet RTF5-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -3764,6 +4380,8 @@ planet RTF5-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -3779,8 +4397,14 @@ planet RTF5-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -3789,29 +4413,39 @@ planet RTF5-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -3819,12 +4453,16 @@ planet RTF5-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -3836,6 +4474,7 @@ planet RTF5-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -3844,6 +4483,7 @@ planet RTF5-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -3855,6 +4495,7 @@ planet RTF5-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -3863,6 +4504,7 @@ planet RTF5-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -3870,7 +4512,40 @@ planet RTF5-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -3881,6 +4556,7 @@ planet RTF5-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -3894,6 +4570,9 @@ planet RTF5-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -3904,14 +4583,22 @@ planet RTF5-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -3930,24 +4617,37 @@ planet RTF5-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -3958,6 +4658,9 @@ planet RTF5-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -3969,17 +4672,29 @@ planet RTF5-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -3992,7 +4707,10 @@ planet RTF5-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -4026,6 +4744,7 @@ planet RTF5-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -4051,6 +4770,7 @@ planet RTF5-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -4069,9 +4789,8 @@ planet RTF5-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -4291,6 +5010,7 @@ planet RTF5-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -4321,6 +5041,7 @@ planet RTF5-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -4350,6 +5071,7 @@ planet RTF5-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -4359,7 +5081,11 @@ planet RTF5-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -4400,10 +5126,12 @@ planet RTF6-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -4415,11 +5143,14 @@ planet RTF6-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -4451,13 +5182,17 @@ planet RTF6-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -4471,6 +5206,7 @@ planet RTF6-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -4485,6 +5221,7 @@ planet RTF6-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -4492,6 +5229,8 @@ planet RTF6-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -4507,8 +5246,14 @@ planet RTF6-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -4517,29 +5262,39 @@ planet RTF6-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -4547,12 +5302,16 @@ planet RTF6-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -4564,6 +5323,7 @@ planet RTF6-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -4572,6 +5332,7 @@ planet RTF6-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -4583,6 +5344,7 @@ planet RTF6-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -4591,6 +5353,7 @@ planet RTF6-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -4598,7 +5361,40 @@ planet RTF6-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -4609,6 +5405,7 @@ planet RTF6-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -4622,6 +5419,9 @@ planet RTF6-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -4632,14 +5432,22 @@ planet RTF6-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -4658,24 +5466,37 @@ planet RTF6-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -4686,6 +5507,9 @@ planet RTF6-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -4697,17 +5521,29 @@ planet RTF6-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -4720,7 +5556,10 @@ planet RTF6-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -4754,6 +5593,7 @@ planet RTF6-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -4779,6 +5619,7 @@ planet RTF6-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -4797,9 +5638,8 @@ planet RTF6-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -5019,6 +5859,7 @@ planet RTF6-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -5049,6 +5890,7 @@ planet RTF6-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -5078,6 +5920,7 @@ planet RTF6-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -5087,7 +5930,11 @@ planet RTF6-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -5128,10 +5975,12 @@ planet RTF7-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -5143,11 +5992,14 @@ planet RTF7-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -5179,13 +6031,17 @@ planet RTF7-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -5199,6 +6055,7 @@ planet RTF7-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -5213,6 +6070,7 @@ planet RTF7-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -5220,6 +6078,8 @@ planet RTF7-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -5235,8 +6095,14 @@ planet RTF7-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -5245,29 +6111,39 @@ planet RTF7-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -5275,12 +6151,16 @@ planet RTF7-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -5292,6 +6172,7 @@ planet RTF7-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -5300,6 +6181,7 @@ planet RTF7-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -5311,6 +6193,7 @@ planet RTF7-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -5319,6 +6202,7 @@ planet RTF7-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -5326,7 +6210,40 @@ planet RTF7-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -5337,6 +6254,7 @@ planet RTF7-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -5350,6 +6268,9 @@ planet RTF7-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -5360,14 +6281,22 @@ planet RTF7-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -5386,24 +6315,37 @@ planet RTF7-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -5414,6 +6356,9 @@ planet RTF7-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -5425,17 +6370,29 @@ planet RTF7-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -5448,7 +6405,10 @@ planet RTF7-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -5482,6 +6442,7 @@ planet RTF7-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -5507,6 +6468,7 @@ planet RTF7-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -5525,9 +6487,8 @@ planet RTF7-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -5747,6 +6708,7 @@ planet RTF7-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -5777,6 +6739,7 @@ planet RTF7-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -5806,6 +6769,7 @@ planet RTF7-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -5815,7 +6779,11 @@ planet RTF7-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -5856,10 +6824,12 @@ planet RTF8-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -5871,11 +6841,14 @@ planet RTF8-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -5907,13 +6880,17 @@ planet RTF8-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -5927,6 +6904,7 @@ planet RTF8-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -5941,6 +6919,7 @@ planet RTF8-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -5948,6 +6927,8 @@ planet RTF8-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -5963,8 +6944,14 @@ planet RTF8-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -5973,29 +6960,39 @@ planet RTF8-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -6003,12 +7000,16 @@ planet RTF8-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -6020,6 +7021,7 @@ planet RTF8-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -6028,6 +7030,7 @@ planet RTF8-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -6039,6 +7042,7 @@ planet RTF8-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -6047,6 +7051,7 @@ planet RTF8-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -6054,7 +7059,40 @@ planet RTF8-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -6065,6 +7103,7 @@ planet RTF8-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -6078,6 +7117,9 @@ planet RTF8-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -6088,14 +7130,22 @@ planet RTF8-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -6114,24 +7164,37 @@ planet RTF8-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -6142,6 +7205,9 @@ planet RTF8-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -6153,17 +7219,29 @@ planet RTF8-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -6176,7 +7254,10 @@ planet RTF8-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -6210,6 +7291,7 @@ planet RTF8-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -6235,6 +7317,7 @@ planet RTF8-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -6253,9 +7336,8 @@ planet RTF8-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -6475,6 +7557,7 @@ planet RTF8-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -6505,6 +7588,7 @@ planet RTF8-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -6534,6 +7618,7 @@ planet RTF8-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -6543,7 +7628,11 @@ planet RTF8-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -6584,10 +7673,12 @@ planet RTF9-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -6599,11 +7690,14 @@ planet RTF9-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -6635,13 +7729,17 @@ planet RTF9-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -6655,6 +7753,7 @@ planet RTF9-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -6669,6 +7768,7 @@ planet RTF9-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -6676,6 +7776,8 @@ planet RTF9-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -6691,8 +7793,14 @@ planet RTF9-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -6701,29 +7809,39 @@ planet RTF9-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -6731,12 +7849,16 @@ planet RTF9-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -6748,6 +7870,7 @@ planet RTF9-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -6756,6 +7879,7 @@ planet RTF9-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -6767,6 +7891,7 @@ planet RTF9-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -6775,6 +7900,7 @@ planet RTF9-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -6782,7 +7908,40 @@ planet RTF9-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -6793,6 +7952,7 @@ planet RTF9-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -6806,6 +7966,9 @@ planet RTF9-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -6816,14 +7979,22 @@ planet RTF9-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -6842,24 +8013,37 @@ planet RTF9-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -6870,6 +8054,9 @@ planet RTF9-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -6881,17 +8068,29 @@ planet RTF9-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -6904,7 +8103,10 @@ planet RTF9-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -6938,6 +8140,7 @@ planet RTF9-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -6963,6 +8166,7 @@ planet RTF9-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -6981,9 +8185,8 @@ planet RTF9-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -7203,6 +8406,7 @@ planet RTF9-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -7233,6 +8437,7 @@ planet RTF9-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -7262,6 +8467,7 @@ planet RTF9-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -7271,7 +8477,11 @@ planet RTF9-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -7312,10 +8522,12 @@ planet RTF10-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -7327,11 +8539,14 @@ planet RTF10-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -7363,13 +8578,17 @@ planet RTF10-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -7383,6 +8602,7 @@ planet RTF10-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -7397,6 +8617,7 @@ planet RTF10-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -7404,6 +8625,8 @@ planet RTF10-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -7419,8 +8642,14 @@ planet RTF10-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -7429,29 +8658,39 @@ planet RTF10-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -7459,12 +8698,16 @@ planet RTF10-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -7476,6 +8719,7 @@ planet RTF10-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -7484,6 +8728,7 @@ planet RTF10-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -7495,6 +8740,7 @@ planet RTF10-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -7503,6 +8749,7 @@ planet RTF10-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -7510,7 +8757,40 @@ planet RTF10-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -7521,6 +8801,7 @@ planet RTF10-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -7534,6 +8815,9 @@ planet RTF10-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -7544,14 +8828,22 @@ planet RTF10-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -7570,24 +8862,37 @@ planet RTF10-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -7598,6 +8903,9 @@ planet RTF10-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -7609,17 +8917,29 @@ planet RTF10-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -7632,7 +8952,10 @@ planet RTF10-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -7666,6 +8989,7 @@ planet RTF10-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -7691,6 +9015,7 @@ planet RTF10-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -7709,9 +9034,8 @@ planet RTF10-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -7931,6 +9255,7 @@ planet RTF10-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -7961,6 +9286,7 @@ planet RTF10-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -7990,6 +9316,7 @@ planet RTF10-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -7999,7 +9326,11 @@ planet RTF10-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -8040,10 +9371,12 @@ planet RTF11-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -8055,11 +9388,14 @@ planet RTF11-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -8091,13 +9427,17 @@ planet RTF11-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -8111,6 +9451,7 @@ planet RTF11-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -8125,6 +9466,7 @@ planet RTF11-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -8132,6 +9474,8 @@ planet RTF11-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -8147,8 +9491,14 @@ planet RTF11-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -8157,29 +9507,39 @@ planet RTF11-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -8187,12 +9547,16 @@ planet RTF11-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -8204,6 +9568,7 @@ planet RTF11-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -8212,6 +9577,7 @@ planet RTF11-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -8223,6 +9589,7 @@ planet RTF11-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -8231,6 +9598,7 @@ planet RTF11-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -8238,7 +9606,40 @@ planet RTF11-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -8249,6 +9650,7 @@ planet RTF11-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -8262,6 +9664,9 @@ planet RTF11-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -8272,14 +9677,22 @@ planet RTF11-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -8298,24 +9711,37 @@ planet RTF11-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -8326,6 +9752,9 @@ planet RTF11-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -8337,17 +9766,29 @@ planet RTF11-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -8360,7 +9801,10 @@ planet RTF11-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -8394,6 +9838,7 @@ planet RTF11-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -8419,6 +9864,7 @@ planet RTF11-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -8437,9 +9883,8 @@ planet RTF11-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -8659,6 +10104,7 @@ planet RTF11-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -8689,6 +10135,7 @@ planet RTF11-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -8718,6 +10165,7 @@ planet RTF11-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -8727,7 +10175,11 @@ planet RTF11-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`
@@ -8768,10 +10220,12 @@ planet RTF12-P
 	outfitter `Akralva All`
 	outfitter `Akralva Basic`
 	outfitter `Aluminum`
+	outfitter `Aluminum Ingots`
 	outfitter `Ammo`
+	outfitter `Ammo Basics`
 	outfitter `Ammo North`
 	outfitter `Ammo South`
-	outfitter `Anomalous Waste`
+	outfitter `Anomalous Husk`
 	outfitter `antique rifle`
 	outfitter `Archery Weapons All`
 	outfitter `Arion Advanced H2H Outfits`
@@ -8783,11 +10237,14 @@ planet RTF12-P
 	outfitter `Ascendancy Miniaturised`
 	outfitter `Asteroid Ammo`
 	outfitter `Aumar`
+	outfitter `Avgi Advanced Harvester Tools`
 	outfitter `Avgi Atomics`
+	outfitter `Avgi Basic Harvester Tools`
 	outfitter `Avgi Dissonance Smuggling`
 	outfitter `Avgi Electronics`
 	outfitter `Avgi Engineering`
 	outfitter `Avgi General`
+	outfitter `Avgi Harvester Weapons`
 	outfitter `Avgi Militia Surplus`
 	outfitter `Avgi Nanomaterials`
 	outfitter `Avgi Propulsion`
@@ -8819,13 +10276,17 @@ planet RTF12-P
 	outfitter `Ceasrilis Basic`
 	outfitter `Central Outfits Expansion`
 	outfitter `Cluster Mine`
+	outfitter `Cluster Mine Access`
+	outfitter `Cluster Mine Restock`
 	outfitter `Coalition Advanced`
 	outfitter `Coalition Basics`
 	outfitter `Coalition Smuggling`
 	outfitter `Common Outfits`
 	outfitter `Contraband`
 	outfitter `Copper`
+	outfitter `Copper Ingots`
 	outfitter `crescent`
+	outfitter `Culminator Access`
 	outfitter `Dardornai Advanced`
 	outfitter `Dardornai Basic`
 	outfitter `Darua Advanced`
@@ -8839,6 +10300,7 @@ planet RTF12-P
 	outfitter `Dels Standard`
 	outfitter `Delta V Advanced`
 	outfitter `Delta V Basics`
+	outfitter `deprecated`
 	outfitter `Derelict Core`
 	outfitter `Derelict Northern`
 	outfitter `Derelict Pirate`
@@ -8853,6 +10315,7 @@ planet RTF12-P
 	outfitter `dev orboid`
 	outfitter `Diamond Systems Advanced`
 	outfitter `Diamond Systems Basic`
+	outfitter `Displacer Access`
 	outfitter `Donko Advanced`
 	outfitter `Donko Ammo`
 	outfitter `Donko Basic`
@@ -8860,6 +10323,8 @@ planet RTF12-P
 	outfitter `Efret Salvage`
 	outfitter `Efret Salvage Advanced`
 	outfitter `Elenctic Commune Basic`
+	outfitter `EMP Torpedo Access`
+	outfitter `EMP Torpedo Restock`
 	outfitter `Enclave Advanced`
 	outfitter `Enclave Basics`
 	outfitter `Enclave Heavy Weaponry`
@@ -8875,8 +10340,14 @@ planet RTF12-P
 	outfitter `Far Remnant`
 	outfitter `Far Remnant Core`
 	outfitter `Far Remnant Salvage`
+	outfitter `Finisher Access`
+	outfitter `Finisher Torpedo Restock`
+	outfitter `Firelight Access`
 	outfitter `Firelight Missile`
+	outfitter `Firelight Restock`
+	outfitter `Firestorm Access`
 	outfitter `Firestorm Torpedo Ammo`
+	outfitter `Firestorm Torpedo Restock`
 	outfitter `fluff`
 	outfitter `FW Security`
 	outfitter `Galactic Express Custom Advanced`
@@ -8885,29 +10356,39 @@ planet RTF12-P
 	outfitter `Galactic Express Custom Intermediate`
 	outfitter `GalacticWar`
 	outfitter `GalacticWar Plugin`
+	outfitter `Gatling Gun Ammo Access`
+	outfitter `Gatling Gun Ammo Restock`
 	outfitter `Geeva Advanced`
 	outfitter `Geeva Basic`
 	outfitter `Gegno Basic`
 	outfitter `Gegno Intermediate`
 	outfitter `Genesis`
 	outfitter `Genesis Advanced`
+	outfitter `Genesis Flak Shell Access`
 	outfitter `Gold`
+	outfitter `Gold Ingots`
 	outfitter `Guz' Advanced`
 	outfitter `Guz' Base`
 	outfitter `Guz' Basic`
 	outfitter `Hai Advanced`
 	outfitter `Hai Basics`
 	outfitter `Hai Displacer Ammo`
+	outfitter `Hai Displacer Restock`
 	outfitter `Hai-home Only`
 	outfitter `Hai Intermediate`
 	outfitter `Hai Security`
 	outfitter `Hai Tracker Ammo`
+	outfitter `Hai Tracker Restock`
 	outfitter `Heavy Fusion Core`
+	outfitter `Heavy Rocket Access`
+	outfitter `Heavy Rocket Restock`
 	outfitter `Heliarch`
 	outfitter `Heliarch Basics`
 	outfitter `Hicemus`
+	outfitter `High Calibur Ammo Access`
 	outfitter `High Houses Heavy`
 	outfitter `High Houses Light`
+	outfitter `High-Velocity Spike Access`
 	outfitter `Huge Engines`
 	outfitter `human`
 	outfitter `human plugin`
@@ -8915,12 +10396,16 @@ planet RTF12-P
 	outfitter `Ignaggen Advanced`
 	outfitter `Ignaggen All`
 	outfitter `Ignaggen Basic`
+	outfitter `Inferno Rocket Access`
 	outfitter `Inferno Rockets`
 	outfitter `Insker Advanced`
 	outfitter `Insker Ammo`
 	outfitter `Insker Basic`
 	outfitter `irm`
 	outfitter `Iron`
+	outfitter `Iron Ingots`
+	outfitter `Javelin Access`
+	outfitter `Javelin Restock`
 	outfitter `Ka'het`
 	outfitter `Ka'het Advanced`
 	outfitter `Ka'het Basics`
@@ -8932,6 +10417,7 @@ planet RTF12-P
 	outfitter `Kanai Basic`
 	outfitter `Kaote Advanced`
 	outfitter `Kaote Basic`
+	outfitter `Kinetic Lance Restock`
 	outfitter `Kludge Blaster Advanced`
 	outfitter `Konstantin Design Bureau Advanced`
 	outfitter `Konstantin Design Bureau Basic`
@@ -8940,6 +10426,7 @@ planet RTF12-P
 	outfitter `Korath Exiles`
 	outfitter `Korath Exiles Remnant Donations`
 	outfitter `Korath Fireswarm`
+	outfitter `Korath Fireswarm Access`
 	outfitter `Kraz Advanced`
 	outfitter `Kraz Basic`
 	outfitter `Kraz Basics`
@@ -8951,6 +10438,7 @@ planet RTF12-P
 	outfitter `Kumakk Ammo`
 	outfitter `Kumakk Basic`
 	outfitter `Lead`
+	outfitter `Lead Ingots`
 	outfitter `Limit Breaker`
 	outfitter `Local Map`
 	outfitter `Lovelace Advanced`
@@ -8959,6 +10447,7 @@ planet RTF12-P
 	outfitter `Lovelace Security`
 	outfitter `Lumbarian Stuff`
 	outfitter `Lunarium Basics`
+	outfitter `Magnetic Mine Access`
 	outfitter `Magnetic Mine Ammo`
 	outfitter `magni port`
 	outfitter `Makerurader Advanced`
@@ -8966,7 +10455,40 @@ planet RTF12-P
 	outfitter `MarStel Advanced Exclusive`
 	outfitter `mata`
 	outfitter `Medium Engines`
+	outfitter `Meteor Access`
+	outfitter `Meteor Missile Restock`
 	outfitter `MGF South Pirate Outfits`
+	outfitter `Midnight Asteroid Storage Restock`
+	outfitter `Midnight Cluster Mine Restock`
+	outfitter `Midnight Culminator Torpedo Restock`
+	outfitter `Midnight EMP Torpedo Restock`
+	outfitter `Midnight Finisher Torpedo Restock`
+	outfitter `Midnight Firelight Restock`
+	outfitter `Midnight Firestorm Torpedo Restock`
+	outfitter `Midnight Gatling Gun Ammo Restock`
+	outfitter `Midnight Genesis Flak Shell Restock`
+	outfitter `Midnight Hai Tracker Restock`
+	outfitter `Midnight Heavy Rocket Restock`
+	outfitter `Midnight High Calibur Ammo Restock`
+	outfitter `Midnight Inferno Rocket Restock`
+	outfitter `Midnight Javelin Restock`
+	outfitter `Midnight Kinetic Lance Restock`
+	outfitter `Midnight Korath Fireswarm Restock`
+	outfitter `Midnight Magnetic Mine Restock`
+	outfitter `Midnight Meteor Missile Restock`
+	outfitter `Midnight Piercer Missile Restock`
+	outfitter `Midnight Plunder Mine Restock`
+	outfitter `Midnight Railgun Slug Restock`
+	outfitter `Midnight Scattershot Ammo Restock`
+	outfitter `Midnight Sidewinder Missile Restock`
+	outfitter `Midnight Speck Round Restock`
+	outfitter `Midnight Stinger Missile Restock`
+	outfitter `Midnight Swarm Missile Restock`
+	outfitter `Midnight Swingfire Missile Restock`
+	outfitter `Midnight Teciimach Canister Restock`
+	outfitter `Midnight Thunderhead Missile Restock`
+	outfitter `Midnight Torpedo Restock`
+	outfitter `Midnight Typhoon Torpedo Restock`
 	outfitter `Miitr Advanced`
 	outfitter `Miitr Basic`
 	outfitter `MJK Heavy Industries Advanced`
@@ -8977,6 +10499,7 @@ planet RTF12-P
 	outfitter `Modified D94-YV Shielding`
 	outfitter `Modified Plasma Turret`
 	outfitter `modoutfits`
+	outfitter `Murkspores`
 	outfitter `navarch`
 	outfitter `Navarch Advanced`
 	outfitter `Navarch Basics`
@@ -8990,6 +10513,9 @@ planet RTF12-P
 	outfitter `NCD Outfits`
 	outfitter `NCD Stolen Outfits`
 	outfitter `Neodymium`
+	outfitter `Neodymium Ingots`
+	outfitter `Nettle Access`
+	outfitter `Nettle Restock`
 	outfitter `Neyton Outfits`
 	outfitter `nis outfitter`
 	outfitter `NMU`
@@ -9000,14 +10526,22 @@ planet RTF12-P
 	outfitter `Nuru All`
 	outfitter `Nuru Basic`
 	outfitter `People's Houses`
+	outfitter `Piercer Access`
+	outfitter `Piercer Missile Restock`
 	outfitter `Pirate Advanced`
 	outfitter `Pirate Basics`
 	outfitter `Pirate Outfits`
+	outfitter `"Pirate Outfits" # Kept for backwards compatibility with plugins that used it before it was renamed to "Pirate Basics".`
 	outfitter `Plasma Cluster Cannon`
+	outfitter `Platinum Ingots`
 	outfitter `plugin`
+	outfitter `Plunder Mine Access`
+	outfitter `Pyrite Ingots`
 	outfitter `Qoro Makau Basic`
 	outfitter `Qoro Siogal Basic`
 	outfitter `Quarg Plunder`
+	outfitter `Railgun Access`
+	outfitter `Railgun Slug Restock`
 	outfitter `Rebels-advanced-ammo-outfitter`
 	outfitter `Rebels-advanced-engines-outfitter`
 	outfitter `Rebels-advanced-power-outfitter`
@@ -9026,24 +10560,37 @@ planet RTF12-P
 	outfitter `Remnant Weapons`
 	outfitter `Resmakia Ammo`
 	outfitter `Revos All`
+	outfitter `Rumskib Gatling Gun Ammo Restock`
+	outfitter `Rumskib Pirate Advanced`
 	outfitter `Scar's Plunder`
+	outfitter `Scattershot Ammo Access`
 	outfitter `Scin Advanced`
 	outfitter `Scin Basic`
 	outfitter `Scin Intermediate`
 	outfitter `Scrap Metal`
+	outfitter `Shadow House`
 	outfitter `Sheragi Advanced`
 	outfitter `Sheragi Basic`
 	outfitter `Shio Industries`
+	outfitter `Sidewinder Access`
+	outfitter `Sidewinder Missile Restock`
 	outfitter `Silicon`
+	outfitter `Silicon Ingots`
 	outfitter `Silver`
+	outfitter `Silver Ingots`
 	outfitter `Slipstream Advanced`
 	outfitter `Small Adamas`
 	outfitter `Small Engines`
 	outfitter `South Pirate Advanced`
 	outfitter `Special Outfits`
+	outfitter `Speck Access`
+	outfitter `Speck Round Restock`
 	outfitter `Stack Core`
 	outfitter `Standard Outfits`
+	outfitter `Star Tail Access`
+	outfitter `Star Tail Cell Restock`
 	outfitter `Stinger Missile`
+	outfitter `Stinger Missile Access`
 	outfitter `Successor Basics`
 	outfitter `Successor Civilian`
 	outfitter `Successor Heavy`
@@ -9054,6 +10601,9 @@ planet RTF12-P
 	outfitter `Sunracers`
 	outfitter `Surplus Guns`
 	outfitter `Surveillance Pod`
+	outfitter `Swarm Access`
+	outfitter `Swarm Missile Restock`
+	outfitter `Swingfire Missile Access`
 	outfitter `Syndicate Advanced`
 	outfitter `Syndicate Assistance`
 	outfitter `Syndicate Basic`
@@ -9065,17 +10615,29 @@ planet RTF12-P
 	outfitter `Taroun Advanced`
 	outfitter `Taroun All`
 	outfitter `Taroun Basic`
+	outfitter `Teciimach Canister Access`
+	outfitter `Teciimach Canister Restock`
 	outfitter `Tehru All`
+	outfitter `Thunderhead Access`
+	outfitter `Thunderhead Missile Restock`
 	outfitter `Thyrupp AG Advanced`
 	outfitter `Titanium`
+	outfitter `Titanium Ingots`
+	outfitter `Torpedo Access`
+	outfitter `Torpedo Restock`
+	outfitter `Tracker Access`
 	outfitter `Tungsten`
+	outfitter `Tungsten Ingots`
 	outfitter `Turner Hai Power`
 	outfitter `Twin Torpedo Pod`
+	outfitter `Typhoon Access`
+	outfitter `Typhoon Torpedo Restock`
 	outfitter `Ultaka All`
 	outfitter `Unfettered Ancestral`
 	outfitter `Unfettered Basics`
 	outfitter `Unknown Element`
 	outfitter `Uranium`
+	outfitter `Uranium Ingots`
 	outfitter `Valuutian Outfits`
 	outfitter `Vi Basic`
 	outfitter `Vi Intermediate`
@@ -9088,7 +10650,10 @@ planet RTF12-P
 	outfitter `Wanderer Basics`
 	outfitter `XSZ Advanced`
 	outfitter `XSZ Basics`
+	outfitter `Yottrite`
 	outfitter `ZIS Advanced`
+	outfitter `ZIS Basics`
+	outfitter `ZIS Old`
 	outfitter `Zorcn Advanced`
 	outfitter `Zorcn Basic`
 	outfitter `Zorcn Basic Ammo`
@@ -9122,6 +10687,7 @@ planet RTF12-P
 	shipyard `Aumar`
 	shipyard `Avgi Militia`
 	shipyard `Avgi Research`
+	shipyard `Avgi Salvage`
 	shipyard `Avgi Solar Heavy`
 	shipyard `Avgi Solar Light`
 	shipyard `Avgi Utility Heavy`
@@ -9147,6 +10713,7 @@ planet RTF12-P
 	shipyard `Bunrodea Advanced`
 	shipyard `Bunrodea Basic`
 	shipyard `Bunrodea Capital`
+	shipyard `bunrodea plugin`
 	shipyard `Cardax Miners`
 	shipyard `CCS Corp Advanced`
 	shipyard `CCS Corp Basic`
@@ -9165,9 +10732,8 @@ planet RTF12-P
 	shipyard `Core Food Corp Custom`
 	shipyard `Core Nuclear Transport`
 	shipyard `Core Pirates`
+	shipyard `Covert Mining`
 	shipyard `crescent`
-	shipyard `DAIS Human`
-	shipyard `DAIS Wanderer`
 	shipyard `Darua Advanced`
 	shipyard `Dels Advanced`
 	shipyard `Dels All`
@@ -9387,6 +10953,7 @@ planet RTF12-P
 	shipyard `Seikron Dockyard Basics`
 	shipyard `Sestor Advanced`
 	shipyard `Sestor Basics`
+	shipyard `Shadow House`
 	shipyard `Sheragi Advanced`
 	shipyard `Sheragi Basic`
 	shipyard `Shio Shipyards`
@@ -9417,6 +10984,7 @@ planet RTF12-P
 	shipyard `Taroun All`
 	shipyard `Taroun Basic`
 	shipyard `Tehru All`
+	shipyard `Thule`
 	shipyard `Thyrupp AG Advanced`
 	shipyard `Thyrupp AG Basics`
 	shipyard `Tomcat`
@@ -9446,6 +11014,7 @@ planet RTF12-P
 	shipyard `wanderer`
 	shipyard `Wanderer Advanced`
 	shipyard `Wanderer Basics`
+	shipyard `wanderer plugin`
 	shipyard `Waterlining`
 	shipyard `Woodchip`
 	shipyard `XSZ Tier 1`
@@ -9455,7 +11024,11 @@ planet RTF12-P
 	shipyard `Yeer e Ki Basics`
 	shipyard `ZIS Advanced`
 	shipyard `ZIS All`
+	shipyard `ZIS Kirval`
+	shipyard `ZIS Lisromme`
+	shipyard `ZIS Nyvar`
 	shipyard `ZIS Old`
+	shipyard `ZIS Trivis`
 	shipyard `Zorcn Advanced`
 	shipyard `Zorcn Basic`
 	shipyard `Zorcn Military`

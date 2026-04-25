@@ -3730,7 +3730,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Experimental
 
 
-[Experimental.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Experimental.zip) | 4.63 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Experimental/) <br>
+[Experimental.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Experimental.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Experimental/) <br>
 Author: N/A | Category: Outfits <br>
 N/A[]()  <br>
 
@@ -3740,7 +3740,7 @@ N/A[]()  <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -5713,7 +5713,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Pirate Expansion
 
 
-[Pirate.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pirate.Expansion.zip) | 4.94 mb | 2023-11-21 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pirate%20Expansion/) <br>
+[Pirate.Expansion.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Pirate.Expansion.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Pirate%20Expansion/) <br>
 Author: Beccabunny | Category: Overhauls <br>
 [https://github.com/beccabunny/Pirate-Expansion](https://github.com/beccabunny/Pirate-Expansion) (last commit 2022-09-10) <br>
 
@@ -5730,7 +5730,7 @@ Expand your pirate experience with new ships, outfits, systems and even mechanic
 </details>
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -10528,7 +10528,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Republic Rising
 
 
-[Republic.Rising.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Republic.Rising.zip) | 8.26 mb | 2023-08-22 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Republic%20Rising/) <br>
+[Republic.Rising.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Republic.Rising.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Republic%20Rising/) <br>
 Author: wolffe420 | Category: Ships <br>
 [https://www.moddb.com/mods/endless-sky-republic-rising](https://www.moddb.com/mods/endless-sky-republic-rising)  <br>
 
@@ -15660,7 +15660,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Thi.Ruun.Content.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Thi.Ruun.Content.zip) | 1.59 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Thi%20Ruun%20Content/) <br>
 Author: Zoura | Category: N/A <br>
-[https://github.com/AvianGeneticist/Thi-Ruun--Content-](https://github.com/AvianGeneticist/Thi-Ruun--Content-) (last commit 2022-11-13) <br>
+[https://github.com/AvianGeneticist/Thi-Ruun--Content-](https://github.com/AvianGeneticist/Thi-Ruun--Content-)  <br>
 
 >Ships and Outfits for the Thi-Ruun
 

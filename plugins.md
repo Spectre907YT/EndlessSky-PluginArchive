@@ -459,7 +459,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Dragonflame.Fabrication.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Dragonflame.Fabrication.zip) | 1.58 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Dragonflame%20Fabrication/) <br>
 Author: Galaucus | Category: Cheats <br>
-[https://github.com/Galaucus/Dragonflame-Fabrication](https://github.com/Galaucus/Dragonflame-Fabrication)  <br>
+[https://github.com/Galaucus/Dragonflame-Fabrication](https://github.com/Galaucus/Dragonflame-Fabrication) (last commit 2020-09-07) <br>
 
 >A post-Emerald Sword mission chain that allows Kraz to manufacture a replacement Dragonflame Cannon.
 >
@@ -4217,7 +4217,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### MultiTech Extra Light
 
 
-[MultiTech.Extra.Light.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/MultiTech.Extra.Light.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/MultiTech%20Extra%20Light/) <br>
+[MultiTech.Extra.Light.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/MultiTech.Extra.Light.zip) | 862.21 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/MultiTech%20Extra%20Light/) <br>
 Author: sgtdrew720 | Category: Outfits <br>
 [https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-](https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-) (last commit 2017-05-13) <br>
 
@@ -4227,7 +4227,7 @@ Author: sgtdrew720 | Category: Outfits <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -5630,7 +5630,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Humans Alternate Universe
 
 
-[Humans.Alternate.Universe.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Humans.Alternate.Universe.zip) | 2.71 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Humans%20Alternate%20Universe/) <br>
+[Humans.Alternate.Universe.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Humans.Alternate.Universe.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Humans%20Alternate%20Universe/) <br>
 Author: N/A | Category: Overhauls <br>
 N/A[]()  <br>
 
@@ -5640,7 +5640,7 @@ N/A[]()  <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -8150,7 +8150,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Trin
 
 
-[Trin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Trin.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Trin/) <br>
+[Trin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Trin.zip) | 14.84 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Trin/) <br>
 Author: Elyssaen | Category: Races <br>
 [https://github.com/Elyssaen/trin](https://github.com/Elyssaen/trin) (last commit 2017-05-23) <br>
 
@@ -8228,7 +8228,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Ultaka Invasion of Milky Way
 
 
-[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ultaka%20Invasion%20of%20Milky%20Way/) <br>
+[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | 9.79 mb | 2024-10-11 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Ultaka%20Invasion%20of%20Milky%20Way/) <br>
 Author: 1010Todd | Category: Races <br>
 [https://github.com/1010todd/Ultaka-Invasion](https://github.com/1010todd/Ultaka-Invasion) (last commit 2022-12-23) <br>
 
@@ -8286,7 +8286,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Vile Corp
 
 
-[Vile.Corp.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Vile.Corp.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Vile%20Corp/) <br>
+[Vile.Corp.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Vile.Corp.zip) | 445.65 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Vile%20Corp/) <br>
 Author: janitor | Category: Races <br>
 N/A[]()  <br>
 
@@ -8296,7 +8296,7 @@ N/A[]()  <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -8304,7 +8304,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### West Iron
 
 
-[West.Iron.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/West.Iron.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/West%20Iron/) <br>
+[West.Iron.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/West.Iron.zip) | 2.48 mb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/West%20Iron/) <br>
 Author: Kryes-Omega | Category: Races <br>
 [https://github.com/Kryes-Omega/endless-sky-WestIron](https://github.com/Kryes-Omega/endless-sky-WestIron) (last commit 2016-12-17) <br>
 
@@ -8318,7 +8318,7 @@ Author: Kryes-Omega | Category: Races <br>
 </details>
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 </details>
@@ -9870,7 +9870,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Mercury
 
 
-[Mercury.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mercury.zip) | 258.48 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mercury/) <br>
+[Mercury.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mercury.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mercury/) <br>
 Author: Orlando Peñarubia | Category: Ships <br>
 N/A[]()  <br>
 
@@ -9892,7 +9892,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Mining Pinger
 
 
-[Mining.Pinger.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mining.Pinger.zip) | 744.9 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mining%20Pinger/) <br>
+[Mining.Pinger.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mining.Pinger.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mining%20Pinger/) <br>
 Author: Zoura | Category: Ships <br>
 [https://github.com/AvianGeneticist/MiningPinger](https://github.com/AvianGeneticist/MiningPinger) (last commit 2023-04-03) <br>
 
@@ -9902,7 +9902,7 @@ Author: Zoura | Category: Ships <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -10937,7 +10937,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Swarm Ship
 
 
-[Swarm.Ship.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Swarm.Ship.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Swarm%20Ship/) <br>
+[Swarm.Ship.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Swarm.Ship.zip) | 4.9 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Swarm%20Ship/) <br>
 Author: mdsmestad | Category: Ships <br>
 N/A[]()  <br>
 
@@ -12816,9 +12816,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/Lost in Midnight/icon.png' height='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 89.49 mb | 2025-12-31 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
+[Lost.in.Midnight.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Lost.in.Midnight.zip) | 89.49 mb | 2026-04-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Lost%20in%20Midnight/) <br>
 Author: MidnightPlugins | Category: Story <br>
-[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2025-12-31) <br>
+[https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight) (last commit 2026-04-27) <br>
 
 >A mission focused plugin for Endless Sky.
 >

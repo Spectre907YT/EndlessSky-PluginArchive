@@ -13,6 +13,20 @@ See <a href='https://github.com/zuckung/endless-sky-plugins/blob/main/myplugins/
 <br>
 Changelog:<br>
 <br>
+2026-04-28<br>
+fixed new plural errors from ES 0.11.1<br>
+<br>
+2025-06-25<br>
+used wrong script on last update, incipias and expertcounter were messed up, fixed<br>
+added outfit sorting by race<br>
+<br>
+2025-06-21<br>
+added control.station support<br>
+changed offering to > 98, because of game changes to offering<br>
+<br>
+2025-05-19<br>
+typo fixes by snoogles<br>
+<br>
 2025-04-14<br>
 added more of stat3<br>
 added hiredexperts variable for future content<br>

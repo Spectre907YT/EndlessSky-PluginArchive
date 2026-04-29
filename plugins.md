@@ -181,9 +181,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/captureable.person.ships/icon.png' height='100'></img><br>
 
 
-[captureable.person.ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/captureable.person.ships.zip) | 196.83 kb | 2025-11-20 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/captureable.person.ships/) <br>
+[captureable.person.ships.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/captureable.person.ships.zip) | 196.77 kb | 2026-04-28 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/captureable.person.ships/) <br>
 Author: zuckung | Category: Cheats <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-11-20) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2026-04-28) <br>
 
 >Makes person ships capturable. See the readme for details.
 >
@@ -203,7 +203,7 @@ At Earth's job board you can find a repeatable job that displays which persons y
 After you've killed them all, you receive a small unique gift.<br>
 <br>
 I tested this plugin with 10x KIV349, all equipped with Mereti beam weapons, was probably an overkill on most. Boarding "Zitchas"(1000 crew) needed an Echo-Galleon, and I tried it with hand2hand outfits plugin. Maybe it works with nerve gas too.<br>
-In cap_persons.txt you find the following line under gamerules: "#	"person spawn period" 2000". If you remove the "#" the spawning speed is increased to one spawn in around half a minute.<br>
+If you set the gamerules to	"person spawn period" 2000 and "person spawn weight" 0 , the spawning speed is increased to one spawn in around half a minute.<br>
 <ul>
 <li>"vyu-Ir" (not a person ship, but unique | found south-western of Gegno)</li>
 <li>"Michael Zahniser" (found everywhere | Kestrel + Finch)</li>
@@ -226,7 +226,10 @@ In cap_persons.txt you find the following line under gamerules: "#	"person spawn
 <br>
 <br>
 Changelog:<br>
- <br>
+<br>
+2026-04-28<br>
+removed gamerules settings<br>
+<br>
 2025-11-20<br>
 changed original vyu-Ir to despawn(thx to nova1422)<br>
 <br>
@@ -3749,9 +3752,9 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/expert.crew.members/icon.png' height='100'></img><br>
 
 
-[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 8.07 mb | 2025-06-25 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
+[expert.crew.members.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/expert.crew.members.zip) | 8.07 mb | 2026-04-28 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/expert.crew.members/) <br>
 Author: zuckung | Category: Outfits <br>
-[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2025-06-25) <br>
+[https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins) (last commit 2026-04-28) <br>
 
 >Adds unique crew members, aquireable through low chance spaceport missions. These crew members are technically outfits which require a bunk and a salary, but no outfit space or mass. They add, depending on their technology field, stats to your ship. Like shield regenaration, more thrust, more cargo etc. See the readme for details.
 >
@@ -3772,6 +3775,20 @@ See <a href='https://github.com/zuckung/endless-sky-plugins/blob/main/myplugins/
 <br>
 <br>
 Changelog:<br>
+<br>
+2026-04-28<br>
+fixed new plural errors from ES 0.11.1<br>
+<br>
+2025-06-25<br>
+used wrong script on last update, incipias and expertcounter were messed up, fixed<br>
+added outfit sorting by race<br>
+<br>
+2025-06-21<br>
+added control.station support<br>
+changed offering to > 98, because of game changes to offering<br>
+<br>
+2025-05-19<br>
+typo fixes by snoogles<br>
 <br>
 2025-04-14<br>
 added more of stat3<br>
@@ -5630,7 +5647,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Humans Alternate Universe
 
 
-[Humans.Alternate.Universe.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Humans.Alternate.Universe.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Humans%20Alternate%20Universe/) <br>
+[Humans.Alternate.Universe.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Humans.Alternate.Universe.zip) | 2.71 mb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Humans%20Alternate%20Universe/) <br>
 Author: N/A | Category: Overhauls <br>
 N/A[]()  <br>
 
@@ -5640,7 +5657,7 @@ N/A[]()  <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -9870,7 +9887,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Mercury
 
 
-[Mercury.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mercury.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mercury/) <br>
+[Mercury.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mercury.zip) | 258.48 kb | 2022-10-06 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mercury/) <br>
 Author: Orlando Peñarubia | Category: Ships <br>
 N/A[]()  <br>
 
@@ -9892,7 +9909,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Mining Pinger
 
 
-[Mining.Pinger.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mining.Pinger.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mining%20Pinger/) <br>
+[Mining.Pinger.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Mining.Pinger.zip) | 744.9 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Mining%20Pinger/) <br>
 Author: Zoura | Category: Ships <br>
 [https://github.com/AvianGeneticist/MiningPinger](https://github.com/AvianGeneticist/MiningPinger) (last commit 2023-04-03) <br>
 
@@ -9902,7 +9919,7 @@ Author: Zoura | Category: Ships <br>
 
 
 Status: N/A <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---

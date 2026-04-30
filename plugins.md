@@ -15523,7 +15523,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Reluvethel Potestas
 
 
-[Reluvethel.Potestas.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Reluvethel.Potestas.zip) | 14.34 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Reluvethel%20Potestas/) <br>
+[Reluvethel.Potestas.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Reluvethel.Potestas.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Reluvethel%20Potestas/) <br>
 Author: Makuta Miras | Category: N/A <br>
 [https://github.com/Makuta-Miras/Reluvethel-Potestas](https://github.com/Makuta-Miras/Reluvethel-Potestas) (last commit 2017-08-07) <br>
 

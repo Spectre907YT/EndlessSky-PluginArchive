@@ -5,6 +5,7 @@
 (latest 15 entries):
 <table><tr><td width=800>
 
+2026-04-29 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2026-04-28 | updated Plugin 'expert.crew.members' by zuckung | [Outfits](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#Outfits)<br>
 2026-04-28 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2026-04-28 | updated Plugin 'captureable.person.ships' by zuckung | [Cheats](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#Cheats)<br>
@@ -19,7 +20,6 @@
 2026-04-23 | updated Plugin '-Omnis' by Darcy Manoel | [cheats](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#cheats)<br>
 2026-04-22 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2026-04-21 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
-2026-04-20 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 
 </td></tr></table>
 Provide a direct link to your zipped plugin to enable automatic updating.<br>

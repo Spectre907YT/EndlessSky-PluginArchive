@@ -10002,7 +10002,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/More Ships Plugin/icon.png' height='100'></img><br>
 
 
-[More.Ships.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/More.Ships.Plugin.zip) | 545.62 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/More%20Ships%20Plugin/) <br>
+[More.Ships.Plugin.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/More.Ships.Plugin.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/More%20Ships%20Plugin/) <br>
 Author: Loiseeer | Category: Ships <br>
 [https://github.com/loiseeer/The-more-ships-plugin](https://github.com/loiseeer/The-more-ships-plugin) (last commit 2020-05-31) <br>
 
@@ -10018,7 +10018,7 @@ Author: Loiseeer | Category: Ships <br>
 </details>
 
 Status: Playable on 0.9.14, 0.9.15 Continuous. <br>
-Daily update check: <img src='res/img/check.png' width='15' ></img><br>
+Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 
 
 ---
@@ -11810,7 +11810,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 ### Colorado
 
 
-[Colorado.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Colorado.zip) | 73.45 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Colorado/) <br>
+[Colorado.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Colorado.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Colorado/) <br>
 Author: Clint Moyer | Category: Story <br>
 [https://github.com/clintmoyer/endless-sky-plugins](https://github.com/clintmoyer/endless-sky-plugins) (last commit 2018-04-30) <br>
 

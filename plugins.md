@@ -3068,7 +3068,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 <img src='Working/High DPI/icon.png' height='100'></img><br>
 
 
-[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | N/A | N/A | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
+[High.DPI.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/High.DPI.zip) | 755.29 mb | 2026-05-26 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/High%20DPI/) <br>
 Author: Michael Zahniser (Maintained by the ES Community) | Category: Graphics <br>
 [https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi) (last commit 2026-05-25) <br>
 
@@ -3085,7 +3085,7 @@ This is a collection of double-resolution sprites for [Endless Sky](https://gith
 </details>
 
 Status: Playable on 0.9.14, 0.9.15 Continuous. <br>
-Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
+Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 
 ---
@@ -15370,27 +15370,9 @@ Author: virmitio | Category: N/A <br>
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>## Intent:
+<blockquote>This is a plugin for Endless Sky which adds a significant large area to fly around and explore.
 
-Performing the below actions should result in a working directory `<work_dir>` which will permit the map editor and game to both correctly load the plugin while still keeping the plugin repository safely seperated from the root game data.
-
-### Assumptions:
-   - The repo was simply cloned to `%appdata%\endless-sky\plugins\ES_ExpandedTerritory`
-   - that steam is installed to the default location `%ProgramFiles(x86)%\Steam`
-   - that Endless Sky is installed to the default install location set by steam (`<steam_dir>\steamapps\common\...`)
-
-### Commands:
-```
-cd <work_dir>
-mklink /J data "%appdata%\endless-sky\plugins\ES_ExpandedTerritory\data"
-mklink /J images "%ProgramFiles(x86)%\Steam\steamapps\common\Endless Sky\images"
-mklink /J repo "%appdata%\endless-sky\plugins\ES_ExpandedTerritory"
-
-cd "%ProgramFiles(x86)%\Steam\steamapps\common\Endless Sky\images"
-mklink es_et "%appdata%\endless-sky\plugins\ES_ExpandedTerritory\images\es_et"
-```
-
-When opening in the map editor, please open files by way of the `<work_dir>\data` directory tree.
+At this time there isn't much to see or do beyond just flying around the pair of newly accessable galaxies (which are not yet fully mapped out or populated).
 
 </blockquote>
 </details>

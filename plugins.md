@@ -9090,7 +9090,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Gander.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gander.zip) | 301.4 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Gander/) <br>
 Author: williaji | Category: Ships <br>
-[https://github.com/williaji/Gander](https://github.com/williaji/Gander) (last commit 2023-01-07) <br>
+[https://github.com/williaji/Gander](https://github.com/williaji/Gander)  <br>
 
 >a new ship named Gander
 
@@ -13113,7 +13113,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img><br>
 ### Navy Campaign
 
 
-[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.38 mb | 2024-10-09 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
+[Navy.Campaign.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Navy.Campaign.zip) | 4.38 mb | 2026-06-04 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Navy%20Campaign/) <br>
 Author: kestrel1110 | Category: Story <br>
 [https://github.com/kestrel1110/Navy-Campaign](https://github.com/kestrel1110/Navy-Campaign) (last commit 2024-10-09) <br>
 

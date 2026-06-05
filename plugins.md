@@ -9090,7 +9090,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img><br>
 
 [Gander.zip](https://github.com/Hecter94/EndlessSky-PluginArchive/releases/download/Latest/Gander.zip) | 301.4 kb | 2023-07-27 | [view files](https://github.com/Hecter94/EndlessSky-PluginArchive/tree/main/Working/Gander/) <br>
 Author: williaji | Category: Ships <br>
-[https://github.com/williaji/Gander](https://github.com/williaji/Gander)  <br>
+[https://github.com/williaji/Gander](https://github.com/williaji/Gander) (last commit 2023-01-07) <br>
 
 >a new ship named Gander
 

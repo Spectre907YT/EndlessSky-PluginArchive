@@ -48,7 +48,6 @@ bunrodea.missions|2025-06-19
 captureable.person.ships|2026-04-28
 Cargo Controls Plugin|2019-11-29
 Celestial Strands HighDPI|2023-06-29
-Celestial Strands|2024-10-26
 Ciu Kreo|2021-07-06
 Civil War|2021-10-03
 Coalition-At-War|2024-01-15
@@ -146,7 +145,7 @@ Levis Customs|2023-06-27
 Lleytons ES Starships|2018-06-11
 Logbook Help|2025-10-23
 Loronar Transport|2020-06-17
-Lost in Midnight|2026-06-28
+Lost in Midnight|2026-06-30
 Low Tech Worlds|2023-01-03
 Lupainians|2023-04-06
 Mad Quest|2017-11-13

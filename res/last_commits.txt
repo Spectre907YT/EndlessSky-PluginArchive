@@ -56,7 +56,7 @@ Cobbled Ships|2022-01-10
 Cognitive Subdivision|2018-07-29
 Colorado|2018-04-30
 Colorful Void Sprites|2021-02-21
-Conscience Plugin|2023-03-04
+Conscience Plugin|2026-07-31
 Core Mining Inc|2024-10-03
 Costly Drives|2020-04-26
 COTSA|2016-08-17

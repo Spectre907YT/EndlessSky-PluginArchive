@@ -1,3 +1,4 @@
+2026-08-01 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2026-07-31 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
 2026-07-31 | updated Plugin 'Conscience Plugin' by mathwhiz1212 | [gameplay](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#gameplay)<br>
 2026-07-30 | new Plugin 'Arion' by Spectre907 | [races](https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#races)<br>
